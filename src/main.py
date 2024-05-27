@@ -142,7 +142,7 @@ if __name__ == '__main__':
     logs = load_file(file_name)
 
     message_times = get_message_times(logs)
-    result = get_message_hours_occurance(message_times, 2)
+    #result = get_message_hours_occurance(message_times, 2)
     results = analyze_cyclic_behaviors(message_times, 15)  # 15 minutes flexibility
     min_daily_percent = 0.8  # At least 80% of days for considering an event as repeating each day
     daily_patterns = detect_daily_patterns(results, min_daily_percent)
@@ -158,4 +158,3 @@ if __name__ == '__main__':
 
 
 #TODO rozszerzyc logi
-#TODO pomijanie dni bez pracy
