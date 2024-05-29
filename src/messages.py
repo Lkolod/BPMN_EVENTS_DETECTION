@@ -1,6 +1,5 @@
 from typing import Dict, List, Tuple
-from datetime import datetime, timedelta
-
+from datetime import datetime
 
 def find_messages_dependency(logs: List[str], threshold: float):
     parsed_logs = [parse_log(log) for log in logs]
@@ -13,31 +12,49 @@ def find_messages_dependency(logs: List[str], threshold: float):
         inner_occ, outer_occ = occ[inner_log], occ[outer_log]
 
         if (inner_occ / outer_occ) >= threshold:
-            print(f'Log "{inner_log}" occurs {v} times in log "{outer_log}"')
-            print('It can be possible message boundary item.')
-            print('----------------------------------------------')
+            print(f'Log "{inner_log}" occurs {v} times in log "{outer_log}". Regulary nested events.')
+
+def summary_in_intervals_logs(logs: List[str], delta_minutes: int):
+    intervals = check_intervals_logs(logs, delta_minutes)
+    N = len(list(intervals.keys()))
+
+    if N != 0:
+        for key, arr in intervals.items():
+            prev_log, next_log = key.split("-")
+            avg_time = round(sum(arr) / len(arr), 0)
+
+            print(f"Possible timer between {prev_log} & {next_log}. One follows the other regulary after {avg_time} minutes")
+    else:
+        print('No timer detected between ending time and starting time in any events.')
 
 def check_intervals_logs(logs: List[str], delta_minutes: int):
     parsed_logs = [parse_log(log) for log in logs]
-    N = len(parsed_logs)
+    wrong_patterns = set()
     intervals = {}
-    
-    for i in range(N - 1):
-        _, _, prev_end_time, prev_message = parsed_logs[i]
-        _, curr_start_time, _, curr_message = parsed_logs[i + 1]
 
-        if prev_message != curr_message and curr_start_time >= prev_end_time:
-            interval = (curr_start_time - prev_end_time).total_seconds() / 60
+    
+    for i in range(len(parsed_logs) - 1):
+        prev_id, _, prev_end_time, prev_message = parsed_logs[i]
+        curr_id, curr_start_time, _, curr_message = parsed_logs[i + 1]
+
+        if prev_message != curr_message and prev_id == curr_id and curr_start_time > prev_end_time:
+            interval = int((curr_start_time - prev_end_time).total_seconds() / 60)
             key = f"{curr_message}-{prev_message}"
 
             if key not in intervals.keys():
                 intervals[key] = [interval]
             else:
                 valid_interval = intervals[key][0]
+                if abs(interval - valid_interval) <= delta_minutes:
+                    intervals[key].append(interval)
+                else:
+                    wrong_patterns.add(key)
                 
+    for key in list(intervals.keys()):
+        if key in wrong_patterns:
+            del intervals[key]
 
     return intervals
-
 
 def parse_log(log: str):
     id, start, end, text = log.split(',')
