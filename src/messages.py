@@ -1,5 +1,5 @@
 from typing import Dict, List, Tuple
-from datetime import datetime
+from datetime import datetime, timedelta
 
 
 def find_messages_dependency(logs: List[str], threshold: float):
@@ -17,7 +17,28 @@ def find_messages_dependency(logs: List[str], threshold: float):
             print('It can be possible message boundary item.')
             print('----------------------------------------------')
 
-        
+def check_intervals_logs(logs: List[str], delta_minutes: int):
+    parsed_logs = [parse_log(log) for log in logs]
+    N = len(parsed_logs)
+    intervals = {}
+    
+    for i in range(N - 1):
+        _, _, prev_end_time, prev_message = parsed_logs[i]
+        _, curr_start_time, _, curr_message = parsed_logs[i + 1]
+
+        if prev_message != curr_message and curr_start_time >= prev_end_time:
+            interval = (curr_start_time - prev_end_time).total_seconds() / 60
+            key = f"{curr_message}-{prev_message}"
+
+            if key not in intervals.keys():
+                intervals[key] = [interval]
+            else:
+                valid_interval = intervals[key][0]
+                
+
+    return intervals
+
+
 def parse_log(log: str):
     id, start, end, text = log.split(',')
     start_timestamp = datetime.strptime(start, "%Y-%m-%d %H:%M")

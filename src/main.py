@@ -1,4 +1,4 @@
-from messages import find_messages_dependency
+from messages import find_messages_dependency, check_intervals_logs
 import times as t
 
 
@@ -30,4 +30,6 @@ if __name__ == '__main__':
 
     # Messages part
     print('------------ Messages part ------------')
+    matching_intervals = check_intervals_logs(logs, MINUTES_THRESHOLD)
     find_messages_dependency(logs, MESSAGES_THRESHOLD)
+    print(matching_intervals)
