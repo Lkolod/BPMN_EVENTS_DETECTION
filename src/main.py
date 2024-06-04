@@ -14,11 +14,12 @@ def load_file(file_name: str):
 if __name__ == '__main__':
     # Constants
     MINUTES_THRESHOLD = 20
-    DAILY_THRESHOLD = 0.8
-    MESSAGES_THRESHOLD = 0.8
+    DAILY_THRESHOLD = 0.85
+    MESSAGES_THRESHOLD = 0.85
 
     # Loading file
-    file_name = './data/example_logs.txt'
+    file_name = './data/real/preprocessed/example.txt'
+    # test_name = './data/test/project_logs.txt'
     logs = load_file(file_name)
 
     # Times part
@@ -30,5 +31,5 @@ if __name__ == '__main__':
 
     # Messages part
     print('------------ Messages part ------------')
-    m.summary_in_intervals_logs(logs, MINUTES_THRESHOLD)
+    # m.summary_in_intervals_logs(logs, MINUTES_THRESHOLD)
     m.find_messages_dependency(logs, MESSAGES_THRESHOLD)

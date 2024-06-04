@@ -3,6 +3,7 @@ from datetime import datetime
 
 def find_messages_dependency(logs: List[str], threshold: float):
     parsed_logs = [parse_log(log) for log in logs]
+    counter = 0
 
     dependency_count = count_inside_logs(logs)
     occ = count_logname_occurancy(parsed_logs)
@@ -13,6 +14,9 @@ def find_messages_dependency(logs: List[str], threshold: float):
 
         if (inner_occ / outer_occ) >= threshold:
             print(f'Log "{inner_log}" occurs {v} times in log "{outer_log}". Regulary nested events.')
+            counter += 1
+
+    print(f"Found total {counter} dependencies.")
 
 def summary_in_intervals_logs(logs: List[str], delta_minutes: int):
     intervals = check_intervals_logs(logs, delta_minutes)

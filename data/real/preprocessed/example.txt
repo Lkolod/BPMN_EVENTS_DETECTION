@@ -1,0 +1,2351 @@
+2,2011-01-01 00:16,2011-01-01 00:29,Create Purchase Requisition
+2,2011-01-01 08:16,2011-01-01 08:26,Create Request for Quotation
+2,2011-01-01 09:34,2011-01-01 09:38,Analyze Request for Quotation
+2,2011-01-01 10:16,2011-01-01 10:21,Amend Request for Quotation
+2,2011-01-01 11:15,2011-01-01 11:48,Analyze Request for Quotation
+2,2011-01-01 12:33,2011-01-01 12:39,Amend Request for Quotation
+2,2011-01-01 13:28,2011-01-01 13:38,Analyze Request for Quotation
+2,2011-01-01 15:18,2011-01-01 15:40,Send Request for Quotation to Supplier
+2,2011-01-01 15:55,2011-01-01 16:43,Create Quotation comparison Map
+2,2011-01-01 23:33,2011-01-01 23:44,Analyze Quotation Comparison Map
+2,2011-01-01 23:44,2011-01-01 23:44,Choose best option
+2,2011-01-02 02:15,2011-01-02 15:07,Settle Conditions With Supplier
+2,2011-01-02 16:21,2011-01-02 16:31,Create Purchase Order
+2,2011-01-02 20:23,2011-01-02 20:29,Confirm Purchase Order
+2,2011-01-03 03:15,2011-01-04 14:53,Deliver Goods Services
+2,2011-01-04 23:01,2011-01-04 23:02,Release Purchase Order
+2,2011-01-05 09:03,2011-01-05 09:04,Approve Purchase Order for payment
+2,2011-01-05 14:50,2011-01-05 14:50,Send Invoice
+2,2011-01-06 05:04,2011-01-06 05:07,Release Supplier's Invoice
+2,2011-01-06 05:38,2011-01-06 05:58,Settle Dispute With Supplier
+2,2011-01-06 05:58,2011-01-06 05:58,Authorize Supplier's Invoice payment
+2,2011-01-06 06:21,2011-01-06 06:32,Pay Invoice
+4,2011-01-01 08:39,2011-01-01 09:00,Create Purchase Requisition
+4,2011-01-01 18:45,2011-01-01 18:51,Analyze Purchase Requisition
+4,2011-01-01 18:56,2011-01-01 18:58,Create Request for Quotation
+4,2011-01-01 19:58,2011-01-01 20:19,Analyze Request for Quotation
+4,2011-01-01 21:06,2011-01-01 21:14,Amend Request for Quotation
+4,2011-01-01 22:01,2011-01-01 22:24,Analyze Request for Quotation
+4,2011-01-02 02:42,2011-01-02 03:01,Send Request for Quotation to Supplier
+4,2011-01-02 03:48,2011-01-02 09:08,Create Quotation comparison Map
+4,2011-01-02 15:59,2011-01-02 16:13,Analyze Quotation Comparison Map
+4,2011-01-02 16:13,2011-01-02 16:13,Choose best option
+4,2011-01-02 19:13,2011-01-03 07:45,Settle Conditions With Supplier
+4,2011-01-03 12:08,2011-01-03 12:17,Create Purchase Order
+4,2011-01-03 16:13,2011-01-03 16:38,Confirm Purchase Order
+4,2011-01-03 23:05,2011-01-05 02:30,Deliver Goods Services
+4,2011-01-05 09:57,2011-01-05 09:58,Release Purchase Order
+4,2011-01-06 00:29,2011-01-06 00:30,Approve Purchase Order for payment
+4,2011-01-06 06:13,2011-01-06 06:13,Send Invoice
+4,2011-01-06 20:39,2011-01-06 20:39,Authorize Supplier's Invoice payment
+4,2011-01-06 21:25,2011-01-06 21:32,Pay Invoice
+5,2011-01-01 09:49,2011-01-01 10:35,Create Purchase Requisition
+5,2011-01-02 01:50,2011-01-02 01:57,Analyze Purchase Requisition
+5,2011-01-02 02:05,2011-01-02 02:06,Create Request for Quotation
+5,2011-01-02 03:02,2011-01-02 03:27,Analyze Request for Quotation
+5,2011-01-02 04:21,2011-01-02 04:33,Amend Request for Quotation
+5,2011-01-02 09:08,2011-01-02 09:42,Analyze Request for Quotation
+5,2011-01-02 18:49,2011-01-02 19:21,Send Request for Quotation to Supplier
+5,2011-01-02 19:36,2011-01-02 20:14,Create Quotation comparison Map
+5,2011-01-03 03:18,2011-01-03 03:30,Analyze Quotation Comparison Map
+5,2011-01-03 03:30,2011-01-03 03:30,Choose best option
+5,2011-01-03 13:18,2011-01-03 19:12,Settle Conditions With Supplier
+5,2011-01-03 21:01,2011-01-03 21:09,Create Purchase Order
+5,2011-01-04 01:02,2011-01-04 01:24,Confirm Purchase Order
+5,2011-01-04 09:08,2011-01-05 04:37,Deliver Goods Services
+5,2011-01-05 12:13,2011-01-05 12:14,Release Purchase Order
+5,2011-01-06 02:41,2011-01-06 02:42,Approve Purchase Order for payment
+5,2011-01-06 08:23,2011-01-06 08:23,Send Invoice
+5,2011-01-06 22:47,2011-01-06 22:47,Authorize Supplier's Invoice payment
+5,2011-01-06 22:55,2011-01-06 23:04,Pay Invoice
+9,2011-01-01 16:17,2011-01-01 16:34,Create Purchase Requisition
+9,2011-01-01 22:38,2011-01-01 22:48,Create Request for Quotation
+9,2011-01-01 23:49,2011-01-02 00:12,Analyze Request for Quotation
+9,2011-01-02 16:04,2011-01-02 16:30,Amend Request for Quotation
+9,2011-01-02 17:27,2011-01-02 17:51,Analyze Request for Quotation
+9,2011-01-02 18:46,2011-01-02 18:57,Amend Request for Quotation
+9,2011-01-02 20:28,2011-01-02 20:45,Analyze Request for Quotation
+9,2011-01-02 21:43,2011-01-02 21:49,Amend Request for Quotation
+9,2011-01-02 22:54,2011-01-02 23:26,Analyze Request for Quotation
+9,2011-01-03 00:14,2011-01-03 00:25,Amend Request for Quotation
+9,2011-01-03 07:45,2011-01-03 08:00,Analyze Request for Quotation
+9,2011-01-04 00:04,2011-01-04 00:25,Amend Request for Quotation
+9,2011-01-04 02:02,2011-01-04 02:23,Analyze Request for Quotation
+9,2011-01-04 03:12,2011-01-04 03:22,Amend Request for Quotation
+9,2011-01-04 05:51,2011-01-04 05:56,Analyze Request for Quotation
+12,2011-01-02 05:31,2011-01-02 05:41,Create Purchase Requisition
+12,2011-01-02 23:35,2011-01-02 23:41,Analyze Purchase Requisition
+12,2011-01-03 11:31,2011-01-03 11:57,Amend Purchase Requisition
+12,2011-01-03 17:18,2011-01-03 17:28,Create Request for Quotation
+12,2011-01-03 18:32,2011-01-03 18:36,Analyze Request for Quotation
+12,2011-01-03 19:22,2011-01-03 19:27,Amend Request for Quotation
+12,2011-01-03 20:24,2011-01-03 20:46,Analyze Request for Quotation
+12,2011-01-03 21:35,2011-01-03 21:40,Amend Request for Quotation
+12,2011-01-03 22:41,2011-01-03 22:52,Analyze Request for Quotation
+12,2011-01-03 23:40,2011-01-03 23:54,Amend Request for Quotation
+12,2011-01-04 00:45,2011-01-04 01:35,Analyze Request for Quotation
+12,2011-01-04 18:40,2011-01-04 19:03,Send Request for Quotation to Supplier
+12,2011-01-04 19:42,2011-01-05 00:34,Create Quotation comparison Map
+12,2011-01-05 07:34,2011-01-05 07:41,Analyze Quotation Comparison Map
+12,2011-01-05 07:41,2011-01-05 07:41,Choose best option
+12,2011-01-06 00:30,2011-01-06 05:00,Settle Conditions With Supplier
+12,2011-01-06 13:20,2011-01-06 13:27,Create Purchase Order
+12,2011-01-07 01:33,2011-01-07 01:39,Confirm Purchase Order
+12,2011-01-07 07:08,2011-01-08 13:08,Deliver Goods Services
+12,2011-01-08 20:16,2011-01-08 20:17,Release Purchase Order
+12,2011-01-08 22:48,2011-01-08 22:49,Approve Purchase Order for payment
+12,2011-01-10 01:16,2011-01-10 01:16,Send Invoice
+12,2011-01-10 15:41,2011-01-10 15:46,Release Supplier's Invoice
+12,2011-01-10 15:46,2011-01-10 15:46,Authorize Supplier's Invoice payment
+12,2011-01-10 15:53,2011-01-10 16:02,Pay Invoice
+13,2011-01-02 07:47,2011-01-02 08:06,Create Purchase Requisition
+13,2011-01-02 11:39,2011-01-02 11:48,Create Request for Quotation
+13,2011-01-02 15:33,2011-01-02 16:15,Analyze Request for Quotation
+13,2011-01-02 17:04,2011-01-02 17:18,Amend Request for Quotation
+13,2011-01-02 18:29,2011-01-02 19:01,Analyze Request for Quotation
+13,2011-01-02 19:51,2011-01-02 19:57,Amend Request for Quotation
+13,2011-01-02 21:04,2011-01-02 21:35,Analyze Request for Quotation
+13,2011-01-02 22:23,2011-01-02 22:32,Amend Request for Quotation
+13,2011-01-02 23:27,2011-01-02 23:46,Analyze Request for Quotation
+13,2011-01-03 15:19,2011-01-03 15:54,Send Request for Quotation to Supplier
+13,2011-01-03 16:28,2011-01-03 18:32,Create Quotation comparison Map
+13,2011-01-04 01:42,2011-01-04 02:00,Analyze Quotation Comparison Map
+13,2011-01-04 02:00,2011-01-04 02:00,Choose best option
+13,2011-01-04 04:02,2011-01-04 08:01,Settle Conditions With Supplier
+13,2011-01-04 10:11,2011-01-04 10:23,Create Purchase Order
+13,2011-01-05 02:30,2011-01-05 02:37,Confirm Purchase Order
+13,2011-01-05 13:37,2011-01-07 05:21,Deliver Goods Services
+13,2011-01-07 13:09,2011-01-07 13:10,Release Purchase Order
+13,2011-01-07 21:34,2011-01-08 06:37,Settle Dispute With Supplier
+13,2011-01-08 14:22,2011-01-08 14:23,Release Purchase Order
+13,2011-01-09 02:01,2011-01-09 02:02,Approve Purchase Order for payment
+13,2011-01-09 15:46,2011-01-09 15:46,Send Invoice
+13,2011-01-10 06:22,2011-01-10 06:25,Release Supplier's Invoice
+13,2011-01-10 06:25,2011-01-10 06:25,Authorize Supplier's Invoice payment
+13,2011-01-10 06:36,2011-01-10 06:49,Pay Invoice
+14,2011-01-02 13:58,2011-01-02 14:50,Create Purchase Requisition
+14,2011-01-03 04:56,2011-01-03 05:04,Analyze Purchase Requisition
+14,2011-01-03 05:11,2011-01-03 05:14,Create Request for Quotation
+14,2011-01-03 12:17,2011-01-03 12:52,Analyze Request for Quotation
+14,2011-01-03 13:45,2011-01-03 13:56,Amend Request for Quotation
+14,2011-01-03 14:28,2011-01-03 14:57,Analyze Request for Quotation
+14,2011-01-03 15:52,2011-01-03 15:59,Amend Request for Quotation
+14,2011-01-03 20:06,2011-01-03 20:38,Analyze Request for Quotation
+14,2011-01-03 21:26,2011-01-03 21:33,Amend Request for Quotation
+14,2011-01-03 22:44,2011-01-03 23:21,Analyze Request for Quotation
+14,2011-01-04 08:01,2011-01-04 08:18,Send Request for Quotation to Supplier
+14,2011-01-04 11:26,2011-01-04 16:43,Create Quotation comparison Map
+14,2011-01-04 22:51,2011-01-04 23:00,Analyze Quotation Comparison Map
+14,2011-01-04 23:00,2011-01-04 23:00,Choose best option
+14,2011-01-05 02:26,2011-01-05 16:28,Settle Conditions With Supplier
+14,2011-01-06 13:27,2011-01-06 13:40,Create Purchase Order
+14,2011-01-07 02:28,2011-01-07 02:40,Confirm Purchase Order
+14,2011-01-08 01:26,2011-01-09 11:38,Deliver Goods Services
+14,2011-01-09 18:55,2011-01-09 18:56,Release Purchase Order
+14,2011-01-10 05:22,2011-01-10 05:23,Approve Purchase Order for payment
+14,2011-01-10 20:27,2011-01-10 20:27,Send Invoice
+14,2011-01-11 10:49,2011-01-11 10:53,Release Supplier's Invoice
+14,2011-01-11 11:10,2011-01-11 11:26,Settle Dispute With Supplier
+14,2011-01-11 11:26,2011-01-11 11:26,Authorize Supplier's Invoice payment
+14,2011-01-11 11:59,2011-01-11 12:05,Pay Invoice
+16,2011-01-02 19:25,2011-01-02 20:14,Create Purchase Requisition
+16,2011-01-02 20:56,2011-01-02 21:05,Create Request for Quotation
+16,2011-01-02 21:53,2011-01-02 22:13,Analyze Request for Quotation
+16,2011-01-02 23:05,2011-01-02 23:11,Amend Request for Quotation
+16,2011-01-03 00:00,2011-01-03 00:23,Analyze Request for Quotation
+16,2011-01-03 16:12,2011-01-03 16:25,Amend Request for Quotation
+16,2011-01-03 19:12,2011-01-03 19:45,Analyze Request for Quotation
+16,2011-01-03 20:34,2011-01-03 20:44,Amend Request for Quotation
+16,2011-01-03 21:50,2011-01-03 22:15,Analyze Request for Quotation
+16,2011-01-04 18:16,2011-01-04 18:40,Send Request for Quotation to Supplier
+16,2011-01-04 20:45,2011-01-05 02:14,Create Quotation comparison Map
+16,2011-01-05 08:56,2011-01-05 09:26,Analyze Quotation Comparison Map
+16,2011-01-05 09:26,2011-01-05 09:26,Choose best option
+16,2011-01-05 16:28,2011-01-06 02:06,Settle Conditions With Supplier
+16,2011-01-06 13:48,2011-01-06 14:00,Create Purchase Order
+16,2011-01-06 19:11,2011-01-06 19:31,Confirm Purchase Order
+16,2011-01-07 02:57,2011-01-08 01:26,Deliver Goods Services
+16,2011-01-08 09:14,2011-01-08 09:15,Release Purchase Order
+16,2011-01-08 15:15,2011-01-08 15:16,Approve Purchase Order for payment
+16,2011-01-08 20:58,2011-01-08 20:58,Send Invoice
+16,2011-01-09 11:14,2011-01-09 11:20,Release Supplier's Invoice
+16,2011-01-09 11:55,2011-01-09 12:11,Settle Dispute With Supplier
+16,2011-01-09 12:11,2011-01-09 12:11,Authorize Supplier's Invoice payment
+16,2011-01-09 12:21,2011-01-09 12:28,Pay Invoice
+17,2011-01-02 19:32,2011-01-02 20:17,Create Purchase Requisition
+17,2011-01-03 04:02,2011-01-03 04:12,Create Request for Quotation
+17,2011-01-03 13:41,2011-01-03 14:02,Analyze Request for Quotation
+17,2011-01-03 14:53,2011-01-03 14:58,Amend Request for Quotation
+17,2011-01-03 16:19,2011-01-03 16:28,Analyze Request for Quotation
+17,2011-01-03 17:13,2011-01-03 17:27,Amend Request for Quotation
+17,2011-01-03 19:10,2011-01-03 19:24,Analyze Request for Quotation
+17,2011-01-03 20:17,2011-01-03 20:31,Amend Request for Quotation
+17,2011-01-03 22:16,2011-01-03 22:36,Analyze Request for Quotation
+20,2011-01-02 21:13,2011-01-02 21:30,Create Purchase Requisition
+20,2011-01-03 14:14,2011-01-03 14:19,Analyze Purchase Requisition
+20,2011-01-03 14:22,2011-01-03 14:25,Create Request for Quotation
+20,2011-01-03 18:36,2011-01-03 19:09,Analyze Request for Quotation
+20,2011-01-03 20:08,2011-01-03 20:21,Amend Request for Quotation
+20,2011-01-03 21:21,2011-01-03 21:50,Analyze Request for Quotation
+20,2011-01-03 22:45,2011-01-03 22:56,Amend Request for Quotation
+20,2011-01-03 23:59,2011-01-04 00:24,Analyze Request for Quotation
+20,2011-01-04 01:08,2011-01-04 01:23,Amend Request for Quotation
+20,2011-01-04 02:27,2011-01-04 02:42,Analyze Request for Quotation
+20,2011-01-04 18:55,2011-01-04 19:20,Amend Request for Quotation
+20,2011-01-05 08:44,2011-01-05 09:03,Analyze Request for Quotation
+20,2011-01-05 09:56,2011-01-05 10:01,Amend Request for Quotation
+20,2011-01-06 02:06,2011-01-06 02:29,Analyze Request for Quotation
+20,2011-01-06 15:26,2011-01-06 15:49,Send Request for Quotation to Supplier
+20,2011-01-06 16:17,2011-01-06 20:33,Create Quotation comparison Map
+20,2011-01-07 02:49,2011-01-07 03:23,Analyze Quotation Comparison Map
+20,2011-01-07 03:23,2011-01-07 03:23,Choose best option
+20,2011-01-07 13:24,2011-01-08 01:24,Settle Conditions With Supplier
+20,2011-01-08 02:36,2011-01-08 02:44,Create Purchase Order
+20,2011-01-08 14:41,2011-01-08 14:59,Confirm Purchase Order
+20,2011-01-09 05:22,2011-01-10 11:19,Deliver Goods Services
+20,2011-01-10 18:56,2011-01-10 18:57,Release Purchase Order
+20,2011-01-12 02:57,2011-01-12 02:58,Approve Purchase Order for payment
+20,2011-01-14 02:49,2011-01-14 02:49,Send Invoice
+20,2011-01-14 17:14,2011-01-14 17:19,Release Supplier's Invoice
+20,2011-01-14 17:57,2011-01-14 18:14,Settle Dispute With Supplier
+20,2011-01-14 18:14,2011-01-14 18:14,Authorize Supplier's Invoice payment
+20,2011-01-14 19:03,2011-01-14 19:16,Pay Invoice
+21,2011-01-02 21:17,2011-01-02 22:13,Create Purchase Requisition
+21,2011-01-03 21:03,2011-01-03 21:11,Analyze Purchase Requisition
+21,2011-01-03 21:18,2011-01-03 21:19,Create Request for Quotation
+21,2011-01-03 22:36,2011-01-03 23:00,Analyze Request for Quotation
+21,2011-01-03 23:53,2011-01-04 00:01,Amend Request for Quotation
+21,2011-01-04 01:35,2011-01-04 02:02,Analyze Request for Quotation
+21,2011-01-04 02:49,2011-01-04 03:03,Amend Request for Quotation
+21,2011-01-04 04:31,2011-01-04 04:51,Analyze Request for Quotation
+21,2011-01-04 05:35,2011-01-04 05:47,Amend Request for Quotation
+21,2011-01-04 10:51,2011-01-04 11:12,Analyze Request for Quotation
+21,2011-01-04 12:03,2011-01-04 12:10,Amend Request for Quotation
+21,2011-01-04 13:08,2011-01-04 13:30,Analyze Request for Quotation
+21,2011-01-04 14:18,2011-01-04 14:28,Amend Request for Quotation
+21,2011-01-04 17:18,2011-01-04 17:48,Analyze Request for Quotation
+21,2011-01-05 02:14,2011-01-05 02:26,Send Request for Quotation to Supplier
+21,2011-01-05 19:41,2011-01-06 00:22,Create Quotation comparison Map
+21,2011-01-06 06:55,2011-01-06 07:21,Analyze Quotation Comparison Map
+21,2011-01-06 07:21,2011-01-06 07:21,Choose best option
+21,2011-01-06 10:44,2011-01-06 15:35,Settle Conditions With Supplier
+21,2011-01-06 16:56,2011-01-06 17:08,Create Purchase Order
+21,2011-01-07 01:39,2011-01-07 01:45,Confirm Purchase Order
+21,2011-01-07 07:47,2011-01-09 06:02,Deliver Goods Services
+21,2011-01-09 13:43,2011-01-09 13:44,Release Purchase Order
+21,2011-01-12 01:26,2011-01-12 01:27,Approve Purchase Order for payment
+21,2011-01-16 06:33,2011-01-16 06:33,Send Invoice
+21,2011-01-16 20:53,2011-01-16 20:57,Release Supplier's Invoice
+21,2011-01-16 20:57,2011-01-16 20:57,Authorize Supplier's Invoice payment
+21,2011-01-16 21:51,2011-01-16 22:06,Pay Invoice
+22,2011-01-02 22:38,2011-01-02 23:05,Create Purchase Requisition
+22,2011-01-03 17:59,2011-01-03 18:04,Analyze Purchase Requisition
+22,2011-01-04 05:32,2011-01-04 06:04,Amend Purchase Requisition
+22,2011-01-04 18:11,2011-01-04 18:16,Analyze Purchase Requisition
+22,2011-01-04 18:21,2011-01-04 18:23,Create Request for Quotation
+22,2011-01-05 05:41,2011-01-05 05:57,Analyze Request for Quotation
+22,2011-01-05 06:38,2011-01-05 06:48,Amend Request for Quotation
+22,2011-01-06 15:18,2011-01-06 15:26,Analyze Request for Quotation
+22,2011-01-06 20:59,2011-01-06 21:11,Send Request for Quotation to Supplier
+22,2011-01-06 21:39,2011-01-07 03:14,Create Quotation comparison Map
+22,2011-01-07 10:04,2011-01-07 10:38,Analyze Quotation Comparison Map
+22,2011-01-07 10:38,2011-01-07 10:38,Choose best option
+22,2011-01-08 10:02,2011-01-08 15:13,Settle Conditions With Supplier
+22,2011-01-09 06:39,2011-01-09 06:47,Create Purchase Order
+22,2011-01-09 22:52,2011-01-09 23:26,Confirm Purchase Order
+22,2011-01-10 05:20,2011-01-11 20:23,Deliver Goods Services
+22,2011-01-12 03:42,2011-01-12 03:43,Release Purchase Order
+22,2011-01-12 07:17,2011-01-12 07:18,Approve Purchase Order for payment
+22,2011-01-12 13:52,2011-01-12 13:52,Send Invoice
+22,2011-01-13 04:04,2011-01-13 04:09,Release Supplier's Invoice
+22,2011-01-13 04:09,2011-01-13 04:09,Authorize Supplier's Invoice payment
+22,2011-01-13 04:51,2011-01-13 04:58,Pay Invoice
+26,2011-01-03 16:09,2011-01-03 16:51,Create Purchase Requisition
+26,2011-01-04 08:46,2011-01-04 08:54,Analyze Purchase Requisition
+26,2011-01-04 08:58,2011-01-04 09:00,Create Request for Quotation
+26,2011-01-04 11:12,2011-01-04 11:26,Analyze Request for Quotation
+26,2011-01-04 12:18,2011-01-04 12:24,Amend Request for Quotation
+26,2011-01-04 13:30,2011-01-04 13:46,Analyze Request for Quotation
+26,2011-01-04 14:39,2011-01-04 14:50,Amend Request for Quotation
+26,2011-01-04 16:43,2011-01-04 17:10,Analyze Request for Quotation
+26,2011-01-04 18:03,2011-01-04 18:18,Amend Request for Quotation
+26,2011-01-06 16:33,2011-01-06 16:56,Analyze Request for Quotation
+26,2011-01-06 17:46,2011-01-06 17:54,Amend Request for Quotation
+26,2011-01-06 20:20,2011-01-06 20:49,Analyze Request for Quotation
+26,2011-01-06 21:39,2011-01-06 21:51,Amend Request for Quotation
+26,2011-01-07 03:14,2011-01-07 03:44,Analyze Request for Quotation
+26,2011-01-09 02:03,2011-01-09 02:17,Send Request for Quotation to Supplier
+26,2011-01-10 06:06,2011-01-10 09:50,Create Quotation comparison Map
+26,2011-01-10 16:58,2011-01-10 17:17,Analyze Quotation Comparison Map
+26,2011-01-10 17:17,2011-01-10 17:17,Choose best option
+26,2011-01-11 11:00,2011-01-11 19:51,Settle Conditions With Supplier
+26,2011-01-12 03:18,2011-01-12 03:28,Create Purchase Order
+26,2011-01-13 00:26,2011-01-13 00:50,Confirm Purchase Order
+26,2011-01-13 08:03,2011-01-13 23:27,Deliver Goods Services
+26,2011-01-14 06:46,2011-01-14 06:47,Release Purchase Order
+26,2011-01-14 11:59,2011-01-14 12:00,Approve Purchase Order for payment
+26,2011-01-14 23:51,2011-01-14 23:51,Send Invoice
+26,2011-01-15 14:02,2011-01-15 14:05,Release Supplier's Invoice
+26,2011-01-15 14:05,2011-01-15 14:05,Authorize Supplier's Invoice payment
+26,2011-01-15 14:17,2011-01-15 14:23,Pay Invoice
+30,2011-01-04 12:33,2011-01-04 13:17,Create Purchase Requisition
+30,2011-01-05 13:03,2011-01-05 13:09,Analyze Purchase Requisition
+30,2011-01-05 13:14,2011-01-05 13:15,Create Request for Quotation
+30,2011-01-05 17:54,2011-01-05 18:24,Analyze Request for Quotation
+30,2011-01-05 19:14,2011-01-05 19:28,Amend Request for Quotation
+30,2011-01-06 21:11,2011-01-06 21:29,Analyze Request for Quotation
+30,2011-01-06 22:11,2011-01-06 22:22,Amend Request for Quotation
+30,2011-01-07 07:26,2011-01-07 07:53,Analyze Request for Quotation
+30,2011-01-07 08:48,2011-01-07 09:02,Amend Request for Quotation
+30,2011-01-08 02:17,2011-01-08 02:36,Analyze Request for Quotation
+30,2011-01-08 09:35,2011-01-08 09:51,Send Request for Quotation to Supplier
+30,2011-01-09 17:48,2011-01-09 21:14,Create Quotation comparison Map
+30,2011-01-10 04:05,2011-01-10 04:12,Analyze Quotation Comparison Map
+30,2011-01-10 04:12,2011-01-10 04:12,Choose best option
+30,2011-01-10 06:14,2011-01-10 19:36,Settle Conditions With Supplier
+30,2011-01-11 07:05,2011-01-11 07:14,Create Purchase Order
+30,2011-01-11 11:44,2011-01-11 12:04,Confirm Purchase Order
+30,2011-01-12 12:19,2011-01-14 02:49,Deliver Goods Services
+30,2011-01-14 10:34,2011-01-14 10:35,Release Purchase Order
+30,2011-01-15 18:04,2011-01-15 18:05,Approve Purchase Order for payment
+30,2011-01-17 05:35,2011-01-17 05:35,Send Invoice
+30,2011-01-17 19:54,2011-01-17 19:58,Release Supplier's Invoice
+30,2011-01-17 20:16,2011-01-17 20:41,Settle Dispute With Supplier
+30,2011-01-17 20:41,2011-01-17 20:41,Authorize Supplier's Invoice payment
+30,2011-01-17 21:04,2011-01-17 21:09,Pay Invoice
+38,2011-01-04 23:48,2011-01-05 00:14,Create Purchase Requisition
+38,2011-01-05 14:55,2011-01-05 15:01,Analyze Purchase Requisition
+38,2011-01-05 15:05,2011-01-05 15:07,Create Request for Quotation
+38,2011-01-06 17:08,2011-01-06 17:24,Analyze Request for Quotation
+38,2011-01-06 18:29,2011-01-06 18:37,Amend Request for Quotation
+38,2011-01-06 19:46,2011-01-06 20:12,Analyze Request for Quotation
+38,2011-01-06 21:09,2011-01-06 21:18,Amend Request for Quotation
+38,2011-01-07 08:00,2011-01-07 08:23,Analyze Request for Quotation
+38,2011-01-07 09:19,2011-01-07 09:28,Amend Request for Quotation
+38,2011-01-07 13:47,2011-01-07 14:23,Analyze Request for Quotation
+38,2011-01-08 03:56,2011-01-08 04:11,Send Request for Quotation to Supplier
+38,2011-01-08 05:46,2011-01-08 11:02,Create Quotation comparison Map
+38,2011-01-08 17:45,2011-01-08 18:07,Analyze Quotation Comparison Map
+38,2011-01-08 18:07,2011-01-08 18:07,Choose best option
+38,2011-01-09 03:11,2011-01-09 17:14,Settle Conditions With Supplier
+38,2011-01-10 03:15,2011-01-10 03:28,Create Purchase Order
+38,2011-01-11 01:52,2011-01-11 01:57,Confirm Purchase Order
+38,2011-01-11 20:23,2011-01-13 07:41,Deliver Goods Services
+38,2011-01-13 15:15,2011-01-13 15:16,Release Purchase Order
+38,2011-01-14 00:48,2011-01-14 00:49,Approve Purchase Order for payment
+38,2011-01-15 19:37,2011-01-15 19:37,Send Invoice
+38,2011-01-16 09:58,2011-01-16 10:04,Release Supplier's Invoice
+38,2011-01-16 10:10,2011-01-16 10:32,Settle Dispute With Supplier
+38,2011-01-16 10:32,2011-01-16 10:32,Authorize Supplier's Invoice payment
+38,2011-01-16 10:42,2011-01-16 10:53,Pay Invoice
+45,2011-01-05 23:24,2011-01-06 00:10,Create Purchase Requisition
+45,2011-01-06 11:30,2011-01-06 11:38,Analyze Purchase Requisition
+45,2011-01-06 23:26,2011-01-06 23:55,Amend Purchase Requisition
+45,2011-01-07 18:31,2011-01-07 18:40,Analyze Purchase Requisition
+45,2011-01-07 18:48,2011-01-07 18:49,Create Request for Quotation
+45,2011-01-08 04:11,2011-01-08 04:43,Analyze Request for Quotation
+45,2011-01-09 19:52,2011-01-09 20:13,Send Request for Quotation to Supplier
+45,2011-01-10 18:25,2011-01-11 00:26,Create Quotation comparison Map
+45,2011-01-11 07:08,2011-01-11 07:31,Analyze Quotation Comparison Map
+45,2011-01-11 07:31,2011-01-11 07:31,Choose best option
+45,2011-01-11 11:00,2011-01-11 23:06,Settle Conditions With Supplier
+45,2011-01-12 03:44,2011-01-12 03:56,Create Purchase Order
+45,2011-01-12 12:12,2011-01-12 12:19,Confirm Purchase Order
+45,2011-01-13 01:59,2011-01-14 03:48,Deliver Goods Services
+45,2011-01-14 11:15,2011-01-14 11:16,Release Purchase Order
+45,2011-01-15 08:48,2011-01-15 08:49,Approve Purchase Order for payment
+45,2011-01-17 03:34,2011-01-17 03:34,Send Invoice
+45,2011-01-17 17:53,2011-01-17 17:56,Release Supplier's Invoice
+45,2011-01-17 17:56,2011-01-17 17:56,Authorize Supplier's Invoice payment
+45,2011-01-17 18:30,2011-01-17 18:41,Pay Invoice
+46,2011-01-06 02:10,2011-01-06 03:01,Create Purchase Requisition
+46,2011-01-06 05:17,2011-01-06 05:27,Create Request for Quotation
+46,2011-01-06 14:53,2011-01-06 15:18,Analyze Request for Quotation
+46,2011-01-06 16:07,2011-01-06 16:21,Amend Request for Quotation
+46,2011-01-08 03:34,2011-01-08 03:39,Analyze Request for Quotation
+46,2011-01-08 04:26,2011-01-08 04:36,Amend Request for Quotation
+46,2011-01-12 06:09,2011-01-12 06:42,Analyze Request for Quotation
+46,2011-01-12 07:25,2011-01-12 07:36,Amend Request for Quotation
+46,2011-01-12 09:38,2011-01-12 10:05,Analyze Request for Quotation
+46,2011-01-12 10:52,2011-01-12 11:01,Amend Request for Quotation
+46,2011-01-12 13:04,2011-01-12 13:26,Analyze Request for Quotation
+46,2011-01-12 21:55,2011-01-12 22:07,Send Request for Quotation to Supplier
+46,2011-01-13 00:44,2011-01-13 03:34,Create Quotation comparison Map
+46,2011-01-13 10:04,2011-01-13 10:33,Analyze Quotation Comparison Map
+46,2011-01-13 10:33,2011-01-13 10:33,Choose best option
+46,2011-01-13 15:36,2011-01-13 23:59,Settle Conditions With Supplier
+46,2011-01-14 09:41,2011-01-14 09:50,Create Purchase Order
+46,2011-01-16 06:43,2011-01-16 07:01,Confirm Purchase Order
+46,2011-01-16 20:52,2011-01-17 10:10,Deliver Goods Services
+46,2011-01-17 17:44,2011-01-17 17:45,Release Purchase Order
+46,2011-01-18 18:00,2011-01-18 18:01,Approve Purchase Order for payment
+46,2011-01-20 20:29,2011-01-20 20:29,Send Invoice
+46,2011-01-21 10:56,2011-01-21 11:01,Release Supplier's Invoice
+46,2011-01-21 11:01,2011-01-21 11:01,Authorize Supplier's Invoice payment
+46,2011-01-21 11:34,2011-01-21 11:42,Pay Invoice
+48,2011-01-06 05:46,2011-01-06 06:03,Create Purchase Requisition
+48,2011-01-06 19:01,2011-01-06 19:09,Analyze Purchase Requisition
+48,2011-01-06 19:15,2011-01-06 19:17,Create Request for Quotation
+48,2011-01-06 21:29,2011-01-06 21:39,Analyze Request for Quotation
+48,2011-01-06 22:23,2011-01-06 22:35,Amend Request for Quotation
+48,2011-01-07 04:30,2011-01-07 05:01,Analyze Request for Quotation
+48,2011-01-07 05:59,2011-01-07 06:13,Amend Request for Quotation
+48,2011-01-07 07:53,2011-01-07 08:27,Analyze Request for Quotation
+48,2011-01-08 04:06,2011-01-08 04:33,Send Request for Quotation to Supplier
+48,2011-01-08 19:03,2011-01-08 22:48,Create Quotation comparison Map
+48,2011-01-09 05:47,2011-01-09 06:07,Analyze Quotation Comparison Map
+48,2011-01-09 06:07,2011-01-09 06:07,Choose best option
+48,2011-01-09 09:49,2011-01-09 15:13,Settle Conditions With Supplier
+48,2011-01-09 15:41,2011-01-09 15:51,Create Purchase Order
+48,2011-01-10 00:23,2011-01-10 00:50,Confirm Purchase Order
+48,2011-01-10 20:27,2011-01-11 00:12,Deliver Goods Services
+48,2011-01-11 08:20,2011-01-11 08:21,Release Purchase Order
+48,2011-01-12 02:00,2011-01-12 02:01,Approve Purchase Order for payment
+48,2011-01-15 20:09,2011-01-15 20:09,Send Invoice
+48,2011-01-16 10:34,2011-01-16 10:41,Release Supplier's Invoice
+48,2011-01-16 10:51,2011-01-16 11:10,Settle Dispute With Supplier
+48,2011-01-16 11:10,2011-01-16 11:10,Authorize Supplier's Invoice payment
+48,2011-01-16 12:01,2011-01-16 12:12,Pay Invoice
+55,2011-01-07 19:26,2011-01-07 19:40,Create Purchase Requisition
+55,2011-01-08 10:54,2011-01-08 11:02,Analyze Purchase Requisition
+55,2011-01-08 11:06,2011-01-08 11:08,Create Request for Quotation
+55,2011-01-12 05:16,2011-01-12 05:36,Analyze Request for Quotation
+55,2011-01-12 18:37,2011-01-12 18:50,Send Request for Quotation to Supplier
+55,2011-01-13 04:09,2011-01-13 07:07,Create Quotation comparison Map
+55,2011-01-13 13:33,2011-01-13 14:00,Analyze Quotation Comparison Map
+55,2011-01-13 14:00,2011-01-13 14:00,Choose best option
+55,2011-01-14 01:08,2011-01-14 13:12,Settle Conditions With Supplier
+55,2011-01-14 18:43,2011-01-14 18:54,Create Purchase Order
+55,2011-01-16 23:44,2011-01-17 00:09,Confirm Purchase Order
+55,2011-01-18 21:50,2011-01-20 12:17,Deliver Goods Services
+55,2011-01-20 20:05,2011-01-20 20:06,Release Purchase Order
+55,2011-01-21 01:29,2011-01-21 10:57,Settle Dispute With Supplier
+55,2011-01-21 18:49,2011-01-21 18:50,Release Purchase Order
+55,2011-01-21 23:25,2011-01-21 23:26,Approve Purchase Order for payment
+55,2011-01-22 07:39,2011-01-22 07:39,Send Invoice
+55,2011-01-22 21:57,2011-01-22 22:01,Release Supplier's Invoice
+55,2011-01-22 22:02,2011-01-22 22:02,Authorize Supplier's Invoice payment
+55,2011-01-22 22:49,2011-01-22 22:54,Pay Invoice
+58,2011-01-08 03:01,2011-01-08 03:26,Create Purchase Requisition
+58,2011-01-09 01:08,2011-01-09 01:14,Analyze Purchase Requisition
+58,2011-01-09 01:19,2011-01-09 01:20,Create Request for Quotation
+58,2011-01-09 03:31,2011-01-09 04:04,Analyze Request for Quotation
+58,2011-01-09 04:58,2011-01-09 05:06,Amend Request for Quotation
+58,2011-01-10 16:51,2011-01-10 17:24,Analyze Request for Quotation
+58,2011-01-10 18:13,2011-01-10 18:26,Amend Request for Quotation
+58,2011-01-12 03:21,2011-01-12 03:44,Analyze Request for Quotation
+58,2011-01-12 22:18,2011-01-12 22:44,Send Request for Quotation to Supplier
+58,2011-01-13 00:34,2011-01-13 03:00,Create Quotation comparison Map
+58,2011-01-13 09:41,2011-01-13 10:11,Analyze Quotation Comparison Map
+58,2011-01-13 10:11,2011-01-13 10:11,Choose best option
+58,2011-01-13 21:44,2011-01-14 09:05,Settle Conditions With Supplier
+58,2011-01-14 10:21,2011-01-14 10:34,Create Purchase Order
+58,2011-01-18 17:06,2011-01-18 17:31,Confirm Purchase Order
+58,2011-01-19 11:15,2011-01-19 14:30,Deliver Goods Services
+58,2011-01-19 22:30,2011-01-19 22:31,Release Purchase Order
+58,2011-01-20 04:56,2011-01-20 13:48,Settle Dispute With Supplier
+58,2011-01-20 21:35,2011-01-20 21:36,Release Purchase Order
+58,2011-01-22 09:18,2011-01-22 09:19,Approve Purchase Order for payment
+58,2011-01-22 23:13,2011-01-22 23:13,Send Invoice
+58,2011-01-23 13:20,2011-01-23 13:26,Release Supplier's Invoice
+58,2011-01-23 13:26,2011-01-23 13:26,Authorize Supplier's Invoice payment
+58,2011-01-23 13:48,2011-01-23 13:53,Pay Invoice
+65,2011-01-09 03:43,2011-01-09 03:55,Create Purchase Requisition
+65,2011-01-09 22:46,2011-01-09 22:52,Analyze Purchase Requisition
+65,2011-01-09 22:56,2011-01-09 22:58,Create Request for Quotation
+65,2011-01-10 04:52,2011-01-10 05:22,Analyze Request for Quotation
+65,2011-01-10 06:08,2011-01-10 06:15,Amend Request for Quotation
+65,2011-01-12 04:14,2011-01-12 04:49,Analyze Request for Quotation
+65,2011-01-12 05:30,2011-01-12 05:35,Amend Request for Quotation
+65,2011-01-12 07:46,2011-01-12 08:05,Analyze Request for Quotation
+65,2011-01-12 08:55,2011-01-12 09:03,Amend Request for Quotation
+65,2011-01-12 11:23,2011-01-12 11:48,Analyze Request for Quotation
+65,2011-01-12 12:34,2011-01-12 12:44,Amend Request for Quotation
+65,2011-01-12 21:58,2011-01-12 22:28,Analyze Request for Quotation
+65,2011-01-13 07:43,2011-01-13 08:08,Send Request for Quotation to Supplier
+65,2011-01-14 12:00,2011-01-14 14:37,Create Quotation comparison Map
+65,2011-01-14 20:58,2011-01-14 21:29,Analyze Quotation Comparison Map
+65,2011-01-14 21:29,2011-01-14 21:29,Choose best option
+65,2011-01-15 02:20,2011-01-15 08:48,Settle Conditions With Supplier
+65,2011-01-15 17:55,2011-01-15 18:03,Create Purchase Order
+65,2011-01-16 20:14,2011-01-16 20:31,Confirm Purchase Order
+65,2011-01-17 06:08,2011-01-18 11:10,Deliver Goods Services
+65,2011-01-18 19:00,2011-01-18 19:01,Release Purchase Order
+65,2011-01-18 21:36,2011-01-18 21:37,Approve Purchase Order for payment
+65,2011-01-19 11:15,2011-01-19 11:15,Send Invoice
+65,2011-01-20 01:42,2011-01-20 01:46,Release Supplier's Invoice
+65,2011-01-20 02:40,2011-01-20 02:54,Settle Dispute With Supplier
+65,2011-01-20 02:54,2011-01-20 02:54,Authorize Supplier's Invoice payment
+65,2011-01-20 03:33,2011-01-20 03:37,Pay Invoice
+71,2011-01-09 15:02,2011-01-09 15:11,Create Purchase Requisition
+71,2011-01-10 03:54,2011-01-10 04:02,Analyze Purchase Requisition
+71,2011-01-10 15:58,2011-01-10 16:29,Amend Purchase Requisition
+71,2011-01-11 09:48,2011-01-11 09:52,Analyze Purchase Requisition
+71,2011-01-11 10:00,2011-01-11 10:02,Create Request for Quotation
+71,2011-01-12 05:36,2011-01-12 06:02,Analyze Request for Quotation
+71,2011-01-12 06:51,2011-01-12 07:06,Amend Request for Quotation
+71,2011-01-12 09:08,2011-01-12 09:38,Analyze Request for Quotation
+71,2011-01-12 10:33,2011-01-12 10:41,Amend Request for Quotation
+71,2011-01-12 15:52,2011-01-12 16:11,Analyze Request for Quotation
+71,2011-01-12 17:03,2011-01-12 17:15,Amend Request for Quotation
+71,2011-01-13 03:00,2011-01-13 03:15,Analyze Request for Quotation
+71,2011-01-13 23:59,2011-01-14 00:17,Send Request for Quotation to Supplier
+71,2011-01-15 09:07,2011-01-15 10:35,Create Quotation comparison Map
+71,2011-01-15 16:54,2011-01-15 17:14,Analyze Quotation Comparison Map
+71,2011-01-15 17:14,2011-01-15 17:14,Choose best option
+71,2011-01-16 08:25,2011-01-16 14:03,Settle Conditions With Supplier
+71,2011-01-16 15:00,2011-01-16 15:07,Create Purchase Order
+71,2011-01-16 20:33,2011-01-16 20:52,Confirm Purchase Order
+71,2011-01-17 06:53,2011-01-18 11:40,Deliver Goods Services
+71,2011-01-18 19:20,2011-01-18 19:21,Release Purchase Order
+71,2011-01-19 03:19,2011-01-19 03:20,Approve Purchase Order for payment
+71,2011-01-21 11:54,2011-01-21 11:54,Send Invoice
+71,2011-01-22 02:13,2011-01-22 02:16,Release Supplier's Invoice
+71,2011-01-22 02:16,2011-01-22 02:16,Authorize Supplier's Invoice payment
+71,2011-01-22 02:27,2011-01-22 02:31,Pay Invoice
+72,2011-01-09 21:01,2011-01-09 21:23,Create Purchase Requisition
+72,2011-01-10 16:48,2011-01-10 16:53,Analyze Purchase Requisition
+72,2011-01-10 16:59,2011-01-10 17:02,Create Request for Quotation
+72,2011-01-12 02:28,2011-01-12 02:37,Analyze Request for Quotation
+72,2011-01-12 03:16,2011-01-12 03:30,Amend Request for Quotation
+72,2011-01-12 04:49,2011-01-12 05:23,Analyze Request for Quotation
+72,2011-01-12 06:21,2011-01-12 06:32,Amend Request for Quotation
+72,2011-01-12 10:26,2011-01-12 10:50,Analyze Request for Quotation
+96,2011-01-13 02:33,2011-01-13 03:06,Create Purchase Requisition
+96,2011-01-13 03:30,2011-01-13 03:41,Create Request for Quotation
+96,2011-01-13 07:31,2011-01-13 08:14,Analyze Request for Quotation
+96,2011-01-13 09:11,2011-01-13 09:21,Amend Request for Quotation
+96,2011-01-14 09:50,2011-01-14 10:21,Analyze Request for Quotation
+96,2011-01-15 02:29,2011-01-15 02:57,Send Request for Quotation to Supplier
+96,2011-01-15 10:35,2011-01-15 13:24,Create Quotation comparison Map
+96,2011-01-15 20:07,2011-01-15 20:38,Analyze Quotation Comparison Map
+96,2011-01-15 20:38,2011-01-15 20:38,Choose best option
+96,2011-01-15 23:01,2011-01-16 08:25,Settle Conditions With Supplier
+96,2011-01-16 21:05,2011-01-16 21:15,Create Purchase Order
+96,2011-01-17 04:44,2011-01-17 05:01,Confirm Purchase Order
+96,2011-01-20 04:04,2011-01-20 20:29,Deliver Goods Services
+96,2011-01-21 04:17,2011-01-21 04:18,Release Purchase Order
+96,2011-01-21 18:14,2011-01-21 18:15,Approve Purchase Order for payment
+96,2011-01-22 07:58,2011-01-22 07:58,Send Invoice
+96,2011-01-22 22:21,2011-01-22 22:27,Release Supplier's Invoice
+96,2011-01-22 23:11,2011-01-22 23:28,Settle Dispute With Supplier
+96,2011-01-22 23:28,2011-01-22 23:28,Authorize Supplier's Invoice payment
+96,2011-01-22 23:42,2011-01-22 23:52,Pay Invoice
+98,2011-01-13 08:37,2011-01-13 09:24,Create Purchase Requisition
+98,2011-01-13 21:08,2011-01-13 21:15,Analyze Purchase Requisition
+98,2011-01-13 21:18,2011-01-13 21:20,Create Request for Quotation
+98,2011-01-16 17:39,2011-01-16 18:10,Analyze Request for Quotation
+98,2011-01-16 18:57,2011-01-16 19:09,Amend Request for Quotation
+98,2011-01-17 01:27,2011-01-17 01:54,Analyze Request for Quotation
+98,2011-01-17 02:46,2011-01-17 02:57,Amend Request for Quotation
+98,2011-01-17 04:46,2011-01-17 05:17,Analyze Request for Quotation
+98,2011-01-18 18:45,2011-01-18 19:07,Send Request for Quotation to Supplier
+98,2011-01-19 00:57,2011-01-19 06:46,Create Quotation comparison Map
+98,2011-01-19 13:37,2011-01-19 14:01,Analyze Quotation Comparison Map
+98,2011-01-19 14:01,2011-01-19 14:01,Choose best option
+98,2011-01-21 04:42,2011-01-21 13:03,Settle Conditions With Supplier
+98,2011-01-22 01:32,2011-01-22 01:45,Create Purchase Order
+98,2011-01-22 06:00,2011-01-22 06:22,Confirm Purchase Order
+98,2011-01-22 14:29,2011-01-23 21:23,Deliver Goods Services
+98,2011-01-24 05:02,2011-01-24 05:03,Release Purchase Order
+98,2011-01-24 11:52,2011-01-24 21:16,Settle Dispute With Supplier
+98,2011-01-25 04:19,2011-01-25 04:20,Release Purchase Order
+98,2011-01-25 14:54,2011-01-25 14:55,Approve Purchase Order for payment
+98,2011-01-27 08:33,2011-01-27 08:33,Send Invoice
+98,2011-01-27 23:02,2011-01-27 23:05,Release Supplier's Invoice
+98,2011-01-27 23:05,2011-01-27 23:05,Authorize Supplier's Invoice payment
+98,2011-01-27 23:51,2011-01-28 00:02,Pay Invoice
+124,2011-01-16 16:38,2011-01-16 17:09,Create Purchase Requisition
+124,2011-01-17 08:31,2011-01-17 08:36,Analyze Purchase Requisition
+124,2011-01-17 08:40,2011-01-17 08:41,Create Request for Quotation
+124,2011-01-23 08:35,2011-01-23 09:04,Analyze Request for Quotation
+124,2011-01-23 09:48,2011-01-23 10:01,Amend Request for Quotation
+124,2011-01-24 05:07,2011-01-24 05:13,Analyze Request for Quotation
+124,2011-01-24 13:49,2011-01-24 14:19,Send Request for Quotation to Supplier
+124,2011-01-24 21:16,2011-01-24 22:32,Create Quotation comparison Map
+124,2011-01-25 05:11,2011-01-25 05:18,Analyze Quotation Comparison Map
+124,2011-01-25 05:18,2011-01-25 05:18,Choose best option
+124,2011-01-25 08:25,2011-01-25 22:17,Settle Conditions With Supplier
+124,2011-01-25 23:38,2011-01-25 23:48,Create Purchase Order
+124,2011-01-27 04:22,2011-01-27 04:51,Confirm Purchase Order
+124,2011-01-27 22:43,2011-01-28 15:58,Deliver Goods Services
+124,2011-01-28 23:13,2011-01-28 23:14,Release Purchase Order
+124,2011-01-29 08:32,2011-01-29 17:39,Settle Dispute With Supplier
+124,2011-01-30 01:33,2011-01-30 01:34,Release Purchase Order
+124,2011-01-30 20:59,2011-01-30 21:00,Approve Purchase Order for payment
+124,2011-01-31 19:08,2011-01-31 19:08,Send Invoice
+124,2011-02-01 09:17,2011-02-01 09:23,Release Supplier's Invoice
+124,2011-02-01 09:30,2011-02-01 09:55,Settle Dispute With Supplier
+124,2011-02-01 09:55,2011-02-01 09:55,Authorize Supplier's Invoice payment
+124,2011-02-01 10:49,2011-02-01 10:54,Pay Invoice
+125,2011-01-16 19:50,2011-01-16 20:16,Create Purchase Requisition
+125,2011-01-17 01:31,2011-01-17 01:39,Create Request for Quotation
+125,2011-01-22 22:59,2011-01-22 23:26,Analyze Request for Quotation
+125,2011-01-23 15:30,2011-01-23 15:43,Amend Request for Quotation
+125,2011-01-31 02:20,2011-01-31 02:36,Analyze Request for Quotation
+125,2011-01-31 03:36,2011-01-31 03:49,Amend Request for Quotation
+125,2011-01-31 13:48,2011-01-31 14:21,Analyze Request for Quotation
+127,2011-01-16 23:35,2011-01-17 00:20,Create Purchase Requisition
+127,2011-01-17 08:18,2011-01-17 08:28,Create Request for Quotation
+127,2011-01-18 02:06,2011-01-18 02:25,Analyze Request for Quotation
+127,2011-01-18 03:06,2011-01-18 03:13,Amend Request for Quotation
+127,2011-01-21 11:07,2011-01-21 11:20,Analyze Request for Quotation
+127,2011-01-21 12:04,2011-01-21 12:19,Amend Request for Quotation
+127,2011-01-23 03:59,2011-01-23 04:31,Analyze Request for Quotation
+127,2011-01-23 19:41,2011-01-23 20:07,Send Request for Quotation to Supplier
+127,2011-01-23 21:42,2011-01-24 01:45,Create Quotation comparison Map
+127,2011-01-24 08:17,2011-01-24 08:51,Analyze Quotation Comparison Map
+127,2011-01-24 08:51,2011-01-24 08:51,Choose best option
+127,2011-01-24 22:32,2011-01-25 02:30,Settle Conditions With Supplier
+127,2011-01-25 06:31,2011-01-25 06:39,Create Purchase Order
+127,2011-01-27 08:10,2011-01-27 08:17,Confirm Purchase Order
+127,2011-01-28 07:45,2011-01-29 03:27,Deliver Goods Services
+127,2011-01-29 11:05,2011-01-29 11:06,Release Purchase Order
+127,2011-01-29 18:28,2011-01-29 18:29,Approve Purchase Order for payment
+127,2011-01-31 00:41,2011-01-31 00:41,Send Invoice
+127,2011-01-31 15:03,2011-01-31 15:06,Release Supplier's Invoice
+127,2011-01-31 15:14,2011-01-31 15:38,Settle Dispute With Supplier
+127,2011-01-31 15:38,2011-01-31 15:38,Authorize Supplier's Invoice payment
+127,2011-01-31 16:29,2011-01-31 16:43,Pay Invoice
+146,2011-01-19 06:25,2011-01-19 06:50,Create Purchase Requisition
+146,2011-01-20 04:11,2011-01-20 04:18,Analyze Purchase Requisition
+146,2011-01-20 04:23,2011-01-20 04:26,Create Request for Quotation
+146,2011-01-21 19:14,2011-01-21 19:39,Analyze Request for Quotation
+146,2011-01-22 16:56,2011-01-22 17:16,Send Request for Quotation to Supplier
+146,2011-01-22 17:55,2011-01-22 22:48,Create Quotation comparison Map
+146,2011-01-23 05:30,2011-01-23 05:48,Analyze Quotation Comparison Map
+146,2011-01-23 05:48,2011-01-23 05:48,Choose best option
+146,2011-01-23 08:37,2011-01-23 22:40,Settle Conditions With Supplier
+146,2011-01-24 04:11,2011-01-24 04:18,Create Purchase Order
+146,2011-01-24 20:33,2011-01-24 21:02,Confirm Purchase Order
+146,2011-01-27 05:02,2011-01-28 06:01,Deliver Goods Services
+146,2011-01-28 13:31,2011-01-28 13:32,Release Purchase Order
+146,2011-01-28 21:30,2011-01-29 07:40,Settle Dispute With Supplier
+146,2011-01-29 15:11,2011-01-29 15:12,Release Purchase Order
+146,2011-01-30 08:45,2011-01-30 08:46,Approve Purchase Order for payment
+146,2011-01-31 00:41,2011-01-31 00:41,Send Invoice
+146,2011-01-31 14:57,2011-01-31 15:02,Release Supplier's Invoice
+146,2011-01-31 15:02,2011-01-31 15:02,Authorize Supplier's Invoice payment
+146,2011-01-31 15:16,2011-01-31 15:29,Pay Invoice
+150,2011-01-19 15:05,2011-01-19 15:22,Create Purchase Requisition
+150,2011-01-20 00:49,2011-01-20 00:55,Analyze Purchase Requisition
+150,2011-01-20 00:59,2011-01-20 01:01,Create Request for Quotation
+150,2011-01-23 07:45,2011-01-23 07:57,Analyze Request for Quotation
+150,2011-01-23 20:07,2011-01-23 20:36,Send Request for Quotation to Supplier
+150,2011-01-23 22:40,2011-01-24 03:22,Create Quotation comparison Map
+150,2011-01-24 09:54,2011-01-24 10:19,Analyze Quotation Comparison Map
+150,2011-01-24 10:19,2011-01-24 10:19,Choose best option
+150,2011-01-24 18:47,2011-01-25 00:58,Settle Conditions With Supplier
+150,2011-01-25 12:02,2011-01-25 12:13,Create Purchase Order
+150,2011-01-27 07:45,2011-01-27 07:55,Confirm Purchase Order
+150,2011-01-27 21:49,2011-01-29 07:44,Deliver Goods Services
+150,2011-01-29 15:22,2011-01-29 15:23,Release Purchase Order
+150,2011-01-30 00:20,2011-01-30 00:21,Approve Purchase Order for payment
+150,2011-01-31 17:42,2011-01-31 17:42,Send Invoice
+150,2011-02-01 08:05,2011-02-01 08:05,Authorize Supplier's Invoice payment
+150,2011-02-01 08:27,2011-02-01 08:40,Pay Invoice
+155,2011-01-20 21:08,2011-01-20 21:48,Create Purchase Requisition
+155,2011-01-21 02:55,2011-01-21 03:01,Create Request for Quotation
+155,2011-01-23 06:49,2011-01-23 07:19,Analyze Request for Quotation
+155,2011-01-23 07:55,2011-01-23 08:02,Amend Request for Quotation
+155,2011-01-23 20:26,2011-01-23 20:53,Analyze Request for Quotation
+155,2011-01-23 21:48,2011-01-23 21:58,Amend Request for Quotation
+155,2011-01-25 00:58,2011-01-25 01:14,Analyze Request for Quotation
+155,2011-01-25 17:55,2011-01-25 18:20,Send Request for Quotation to Supplier
+155,2011-01-25 18:41,2011-01-25 20:42,Create Quotation comparison Map
+155,2011-01-26 02:30,2011-01-26 02:45,Analyze Quotation Comparison Map
+155,2011-01-26 02:45,2011-01-26 02:45,Choose best option
+155,2011-01-26 06:47,2011-01-26 16:49,Settle Conditions With Supplier
+155,2011-01-26 23:30,2011-01-26 23:42,Create Purchase Order
+155,2011-01-28 06:54,2011-01-28 07:27,Confirm Purchase Order
+155,2011-01-29 21:07,2011-01-31 12:51,Deliver Goods Services
+155,2011-01-31 20:14,2011-01-31 20:15,Release Purchase Order
+155,2011-02-01 00:57,2011-02-01 10:32,Settle Dispute With Supplier
+155,2011-02-01 17:53,2011-02-01 17:54,Release Purchase Order
+155,2011-02-02 00:16,2011-02-02 00:17,Approve Purchase Order for payment
+155,2011-02-02 19:12,2011-02-02 19:12,Send Invoice
+155,2011-02-03 09:30,2011-02-03 09:32,Release Supplier's Invoice
+155,2011-02-03 09:32,2011-02-03 09:32,Authorize Supplier's Invoice payment
+155,2011-02-03 10:27,2011-02-03 10:40,Pay Invoice
+156,2011-01-21 08:49,2011-01-21 09:18,Create Purchase Requisition
+156,2011-01-22 09:04,2011-01-22 09:13,Analyze Purchase Requisition
+156,2011-01-22 09:17,2011-01-22 09:20,Create Request for Quotation
+156,2011-01-23 06:32,2011-01-23 06:59,Analyze Request for Quotation
+156,2011-01-23 07:46,2011-01-23 07:54,Amend Request for Quotation
+156,2011-01-25 01:26,2011-01-25 02:02,Analyze Request for Quotation
+156,2011-01-25 02:43,2011-01-25 02:57,Amend Request for Quotation
+156,2011-01-25 21:07,2011-01-25 21:34,Analyze Request for Quotation
+159,2011-01-21 15:02,2011-01-21 15:42,Create Purchase Requisition
+159,2011-01-22 02:58,2011-01-22 03:05,Analyze Purchase Requisition
+159,2011-01-22 03:11,2011-01-22 03:14,Create Request for Quotation
+159,2011-01-23 03:45,2011-01-23 03:59,Analyze Request for Quotation
+159,2011-01-23 04:48,2011-01-23 04:54,Amend Request for Quotation
+159,2011-01-23 06:20,2011-01-23 06:36,Analyze Request for Quotation
+159,2011-01-23 07:31,2011-01-23 07:43,Amend Request for Quotation
+159,2011-01-25 23:12,2011-01-25 23:38,Analyze Request for Quotation
+159,2011-01-27 05:39,2011-01-27 06:07,Send Request for Quotation to Supplier
+159,2011-01-27 10:59,2011-01-27 12:45,Create Quotation comparison Map
+159,2011-01-27 19:17,2011-01-27 19:37,Analyze Quotation Comparison Map
+159,2011-01-27 19:37,2011-01-27 19:37,Choose best option
+159,2011-01-30 07:21,2011-01-30 19:48,Settle Conditions With Supplier
+159,2011-01-31 03:09,2011-01-31 03:20,Create Purchase Order
+159,2011-01-31 17:59,2011-01-31 18:25,Confirm Purchase Order
+159,2011-02-02 22:12,2011-02-03 15:33,Deliver Goods Services
+159,2011-02-03 23:37,2011-02-03 23:38,Release Purchase Order
+159,2011-02-04 09:15,2011-02-04 09:16,Approve Purchase Order for payment
+159,2011-02-04 22:13,2011-02-04 22:13,Send Invoice
+159,2011-02-05 12:25,2011-02-05 12:28,Release Supplier's Invoice
+159,2011-02-05 12:52,2011-02-05 13:10,Settle Dispute With Supplier
+159,2011-02-05 13:10,2011-02-05 13:10,Authorize Supplier's Invoice payment
+159,2011-02-05 14:13,2011-02-05 14:23,Pay Invoice
+170,2011-01-22 22:35,2011-01-22 23:20,Create Purchase Requisition
+170,2011-01-23 15:11,2011-01-23 15:16,Analyze Purchase Requisition
+170,2011-01-23 15:21,2011-01-23 15:23,Create Request for Quotation
+170,2011-01-25 23:48,2011-01-26 00:25,Analyze Request for Quotation
+170,2011-01-26 02:45,2011-01-26 03:06,Send Request for Quotation to Supplier
+170,2011-01-26 03:25,2011-01-26 06:47,Create Quotation comparison Map
+170,2011-01-26 13:28,2011-01-26 14:00,Analyze Quotation Comparison Map
+170,2011-01-26 14:00,2011-01-26 14:00,Choose best option
+170,2011-01-26 20:26,2011-01-27 10:27,Settle Conditions With Supplier
+170,2011-01-27 22:40,2011-01-27 22:50,Create Purchase Order
+170,2011-01-28 07:12,2011-01-28 07:19,Confirm Purchase Order
+170,2011-01-31 00:41,2011-02-01 08:56,Deliver Goods Services
+170,2011-02-01 16:35,2011-02-01 16:36,Release Purchase Order
+170,2011-02-02 00:15,2011-02-02 00:16,Approve Purchase Order for payment
+170,2011-02-02 14:17,2011-02-02 14:17,Send Invoice
+170,2011-02-03 04:57,2011-02-03 04:57,Authorize Supplier's Invoice payment
+170,2011-02-03 05:49,2011-02-03 05:55,Pay Invoice
+182,2011-01-24 20:06,2011-01-24 20:52,Create Purchase Requisition
+182,2011-01-25 13:17,2011-01-25 13:23,Analyze Purchase Requisition
+182,2011-01-25 13:30,2011-01-25 13:31,Create Request for Quotation
+182,2011-01-25 18:20,2011-01-25 18:41,Analyze Request for Quotation
+182,2011-01-25 19:29,2011-01-25 19:35,Amend Request for Quotation
+182,2011-01-26 01:48,2011-01-26 02:11,Analyze Request for Quotation
+182,2011-01-26 02:58,2011-01-26 03:06,Amend Request for Quotation
+182,2011-01-30 09:17,2011-01-30 09:41,Analyze Request for Quotation
+182,2011-01-30 10:36,2011-01-30 10:43,Amend Request for Quotation
+182,2011-01-31 07:05,2011-01-31 07:29,Analyze Request for Quotation
+182,2011-01-31 15:03,2011-01-31 15:14,Send Request for Quotation to Supplier
+182,2011-01-31 15:59,2011-01-31 19:49,Create Quotation comparison Map
+182,2011-02-01 03:21,2011-02-01 03:49,Analyze Quotation Comparison Map
+182,2011-02-01 03:49,2011-02-01 03:49,Choose best option
+182,2011-02-01 19:49,2011-02-02 07:35,Settle Conditions With Supplier
+182,2011-02-03 06:13,2011-02-03 06:23,Create Purchase Order
+182,2011-02-03 10:18,2011-02-03 10:41,Confirm Purchase Order
+182,2011-02-04 23:52,2011-02-06 03:06,Deliver Goods Services
+182,2011-02-06 11:02,2011-02-06 11:03,Release Purchase Order
+182,2011-02-06 21:45,2011-02-07 06:32,Settle Dispute With Supplier
+182,2011-02-07 14:41,2011-02-07 14:42,Release Purchase Order
+182,2011-02-07 19:11,2011-02-07 19:12,Approve Purchase Order for payment
+182,2011-02-08 01:24,2011-02-08 01:24,Send Invoice
+182,2011-02-08 15:33,2011-02-08 15:33,Authorize Supplier's Invoice payment
+182,2011-02-08 16:18,2011-02-08 16:25,Pay Invoice
+195,2011-01-25 14:50,2011-01-25 14:57,Create Purchase Requisition
+195,2011-01-25 18:12,2011-01-25 18:21,Create Request for Quotation
+195,2011-01-26 00:25,2011-01-26 00:47,Analyze Request for Quotation
+195,2011-01-26 01:28,2011-01-26 01:40,Amend Request for Quotation
+195,2011-01-31 18:44,2011-01-31 19:05,Analyze Request for Quotation
+195,2011-01-31 20:02,2011-01-31 20:09,Amend Request for Quotation
+195,2011-02-02 20:06,2011-02-02 20:19,Analyze Request for Quotation
+195,2011-02-02 21:06,2011-02-02 21:13,Amend Request for Quotation
+195,2011-02-04 07:29,2011-02-04 07:30,Analyze Request for Quotation
+195,2011-02-04 08:18,2011-02-04 08:28,Amend Request for Quotation
+195,2011-02-05 10:39,2011-02-05 11:11,Analyze Request for Quotation
+204,2011-01-26 19:21,2011-01-26 20:07,Create Purchase Requisition
+204,2011-01-27 13:45,2011-01-27 13:51,Analyze Purchase Requisition
+204,2011-01-27 13:55,2011-01-27 13:57,Create Request for Quotation
+204,2011-01-28 15:45,2011-01-28 16:01,Analyze Request for Quotation
+204,2011-01-28 16:53,2011-01-28 17:00,Amend Request for Quotation
+204,2011-01-28 20:28,2011-01-28 20:56,Analyze Request for Quotation
+204,2011-01-29 18:29,2011-01-29 18:52,Send Request for Quotation to Supplier
+204,2011-01-30 00:22,2011-01-30 03:30,Create Quotation comparison Map
+204,2011-01-30 10:10,2011-01-30 10:17,Analyze Quotation Comparison Map
+204,2011-01-30 10:17,2011-01-30 10:17,Choose best option
+204,2011-01-30 21:00,2011-01-31 02:19,Settle Conditions With Supplier
+204,2011-01-31 04:22,2011-01-31 04:33,Create Purchase Order
+204,2011-01-31 17:29,2011-01-31 17:42,Confirm Purchase Order
+204,2011-01-31 23:42,2011-02-02 22:12,Deliver Goods Services
+204,2011-02-03 06:05,2011-02-03 06:06,Release Purchase Order
+204,2011-02-03 13:17,2011-02-03 22:12,Settle Dispute With Supplier
+204,2011-02-04 05:36,2011-02-04 05:37,Release Purchase Order
+204,2011-02-04 17:43,2011-02-05 02:40,Settle Dispute With Supplier
+204,2011-02-05 10:18,2011-02-05 10:19,Release Purchase Order
+204,2011-02-05 15:36,2011-02-05 15:37,Approve Purchase Order for payment
+204,2011-02-06 01:23,2011-02-06 01:23,Send Invoice
+204,2011-02-06 15:49,2011-02-06 15:55,Release Supplier's Invoice
+204,2011-02-06 16:01,2011-02-06 16:01,Authorize Supplier's Invoice payment
+204,2011-02-06 17:05,2011-02-06 17:20,Pay Invoice
+214,2011-01-27 21:58,2011-01-27 22:50,Create Purchase Requisition
+214,2011-01-28 19:59,2011-01-28 20:03,Analyze Purchase Requisition
+214,2011-01-28 20:06,2011-01-28 20:09,Create Request for Quotation
+214,2011-02-05 05:46,2011-02-05 06:11,Analyze Request for Quotation
+214,2011-02-05 07:29,2011-02-05 07:51,Send Request for Quotation to Supplier
+214,2011-02-05 08:56,2011-02-05 12:29,Create Quotation comparison Map
+214,2011-02-05 18:43,2011-02-05 19:15,Analyze Quotation Comparison Map
+214,2011-02-05 19:15,2011-02-05 19:15,Choose best option
+214,2011-02-05 22:27,2011-02-06 08:32,Settle Conditions With Supplier
+214,2011-02-06 17:59,2011-02-06 18:07,Create Purchase Order
+214,2011-02-07 02:33,2011-02-07 02:45,Confirm Purchase Order
+214,2011-02-07 16:30,2011-02-09 13:46,Deliver Goods Services
+214,2011-02-09 21:10,2011-02-09 21:11,Release Purchase Order
+214,2011-02-10 05:25,2011-02-10 14:51,Settle Dispute With Supplier
+214,2011-02-10 22:25,2011-02-10 22:26,Release Purchase Order
+214,2011-02-11 19:00,2011-02-11 19:01,Approve Purchase Order for payment
+214,2011-02-12 09:19,2011-02-12 09:19,Send Invoice
+214,2011-02-12 23:46,2011-02-12 23:51,Release Supplier's Invoice
+214,2011-02-12 23:51,2011-02-12 23:51,Authorize Supplier's Invoice payment
+214,2011-02-13 00:36,2011-02-13 00:42,Pay Invoice
+223,2011-01-29 08:22,2011-01-29 08:50,Create Purchase Requisition
+223,2011-01-29 15:09,2011-01-29 15:19,Create Request for Quotation
+223,2011-02-01 11:14,2011-02-01 11:28,Analyze Request for Quotation
+223,2011-02-01 12:10,2011-02-01 12:23,Amend Request for Quotation
+223,2011-02-05 14:47,2011-02-05 14:53,Analyze Request for Quotation
+223,2011-02-05 15:47,2011-02-05 15:56,Amend Request for Quotation
+223,2011-02-09 22:55,2011-02-09 22:58,Analyze Request for Quotation
+223,2011-02-09 23:53,2011-02-10 00:05,Amend Request for Quotation
+223,2011-02-10 06:00,2011-02-10 06:19,Analyze Request for Quotation
+223,2011-02-10 07:08,2011-02-10 07:16,Amend Request for Quotation
+223,2011-02-14 21:46,2011-02-14 22:04,Analyze Request for Quotation
+223,2011-02-14 22:58,2011-02-14 23:04,Amend Request for Quotation
+223,2011-03-16 21:23,2011-03-16 21:49,Analyze Request for Quotation
+223,2011-03-17 13:57,2011-03-17 14:22,Amend Request for Quotation
+223,2011-03-20 07:01,2011-03-20 07:30,Analyze Request for Quotation
+223,2011-03-20 23:26,2011-03-20 23:43,Amend Request for Quotation
+223,2011-04-04 23:24,2011-04-04 23:41,Analyze Request for Quotation
+223,2011-04-05 00:31,2011-04-05 00:45,Amend Request for Quotation
+223,2011-04-21 17:44,2011-04-21 18:24,Analyze Request for Quotation
+223,2011-04-21 19:15,2011-04-21 19:29,Amend Request for Quotation
+223,2011-05-07 01:22,2011-05-07 01:49,Analyze Request for Quotation
+223,2011-05-07 06:55,2011-05-07 07:19,Send Request for Quotation to Supplier
+223,2011-05-07 08:44,2011-05-07 10:03,Create Quotation comparison Map
+223,2011-05-07 16:58,2011-05-07 17:09,Analyze Quotation Comparison Map
+223,2011-05-07 17:09,2011-05-07 17:09,Choose best option
+223,2011-05-07 21:47,2011-05-08 04:25,Settle Conditions With Supplier
+223,2011-05-08 06:01,2011-05-08 06:13,Create Purchase Order
+223,2011-05-08 20:21,2011-05-08 20:28,Confirm Purchase Order
+223,2011-05-09 18:56,2011-05-11 14:38,Deliver Goods Services
+223,2011-05-11 21:39,2011-05-11 21:40,Release Purchase Order
+223,2011-05-12 05:27,2011-05-12 05:28,Approve Purchase Order for payment
+223,2011-05-12 12:27,2011-05-12 12:27,Send Invoice
+223,2011-05-13 02:47,2011-05-13 02:51,Release Supplier's Invoice
+223,2011-05-13 02:51,2011-05-13 02:51,Authorize Supplier's Invoice payment
+223,2011-05-13 03:54,2011-05-13 04:05,Pay Invoice
+236,2011-01-31 23:52,2011-02-01 00:46,Create Purchase Requisition
+236,2011-02-01 05:11,2011-02-01 05:27,Create Request for Quotation
+236,2011-02-05 12:46,2011-02-05 13:07,Analyze Request for Quotation
+236,2011-02-05 22:29,2011-02-05 22:54,Send Request for Quotation to Supplier
+236,2011-02-06 00:20,2011-02-06 00:58,Create Quotation comparison Map
+236,2011-02-06 07:28,2011-02-06 07:39,Analyze Quotation Comparison Map
+236,2011-02-06 07:39,2011-02-06 07:39,Choose best option
+236,2011-02-06 18:30,2011-02-06 23:37,Settle Conditions With Supplier
+236,2011-02-07 16:06,2011-02-07 16:14,Create Purchase Order
+236,2011-02-08 01:24,2011-02-08 01:57,Confirm Purchase Order
+236,2011-02-09 22:51,2011-02-10 02:17,Deliver Goods Services
+236,2011-02-10 10:24,2011-02-10 10:25,Release Purchase Order
+236,2011-02-10 17:41,2011-02-11 03:23,Settle Dispute With Supplier
+236,2011-02-11 10:55,2011-02-11 10:56,Release Purchase Order
+236,2011-02-12 12:35,2011-02-12 12:36,Approve Purchase Order for payment
+236,2011-02-13 17:25,2011-02-13 17:25,Send Invoice
+236,2011-02-14 07:42,2011-02-14 07:45,Release Supplier's Invoice
+236,2011-02-14 07:45,2011-02-14 07:45,Authorize Supplier's Invoice payment
+236,2011-02-14 08:09,2011-02-14 08:24,Pay Invoice
+249,2011-02-03 04:57,2011-02-03 05:20,Create Purchase Requisition
+249,2011-02-03 19:38,2011-02-03 19:45,Analyze Purchase Requisition
+249,2011-02-03 19:50,2011-02-03 19:52,Create Request for Quotation
+249,2011-02-05 13:26,2011-02-05 13:57,Analyze Request for Quotation
+249,2011-02-05 14:42,2011-02-05 14:53,Amend Request for Quotation
+249,2011-02-07 19:45,2011-02-07 20:09,Analyze Request for Quotation
+249,2011-02-07 21:04,2011-02-07 21:16,Amend Request for Quotation
+249,2011-02-15 06:06,2011-02-15 06:18,Analyze Request for Quotation
+249,2011-02-15 07:12,2011-02-15 07:21,Amend Request for Quotation
+249,2011-02-17 01:05,2011-02-17 01:36,Analyze Request for Quotation
+249,2011-02-17 02:41,2011-02-17 02:49,Amend Request for Quotation
+249,2011-02-20 08:47,2011-02-20 09:02,Analyze Request for Quotation
+249,2011-02-20 09:58,2011-02-20 10:11,Amend Request for Quotation
+249,2011-02-25 08:14,2011-02-25 08:35,Analyze Request for Quotation
+249,2011-02-25 09:28,2011-02-25 09:42,Amend Request for Quotation
+249,2011-02-28 10:09,2011-02-28 10:30,Analyze Request for Quotation
+249,2011-02-28 11:20,2011-02-28 11:30,Amend Request for Quotation
+249,2011-03-14 07:44,2011-03-14 08:07,Analyze Request for Quotation
+249,2011-03-14 08:57,2011-03-14 09:02,Amend Request for Quotation
+249,2011-03-20 07:47,2011-03-20 08:11,Analyze Request for Quotation
+249,2011-03-20 09:06,2011-03-20 09:15,Amend Request for Quotation
+249,2011-03-26 09:33,2011-03-26 09:53,Analyze Request for Quotation
+249,2011-03-27 03:08,2011-03-27 03:28,Amend Request for Quotation
+249,2011-04-13 18:20,2011-04-13 18:51,Analyze Request for Quotation
+249,2011-04-15 11:45,2011-04-15 12:09,Send Request for Quotation to Supplier
+249,2011-04-15 12:29,2011-04-15 13:46,Create Quotation comparison Map
+249,2011-04-15 20:04,2011-04-15 20:20,Analyze Quotation Comparison Map
+249,2011-04-15 20:20,2011-04-15 20:20,Choose best option
+249,2011-04-16 07:19,2011-04-16 17:20,Settle Conditions With Supplier
+249,2011-04-17 01:31,2011-04-17 01:39,Create Purchase Order
+249,2011-04-18 08:11,2011-04-18 08:45,Confirm Purchase Order
+249,2011-04-20 16:26,2011-04-21 18:12,Deliver Goods Services
+249,2011-04-22 01:51,2011-04-22 01:52,Release Purchase Order
+249,2011-04-23 04:58,2011-04-23 04:59,Approve Purchase Order for payment
+249,2011-04-25 06:57,2011-04-25 06:57,Send Invoice
+249,2011-04-25 21:18,2011-04-25 21:22,Release Supplier's Invoice
+249,2011-04-25 21:22,2011-04-25 21:22,Authorize Supplier's Invoice payment
+249,2011-04-25 22:22,2011-04-25 22:31,Pay Invoice
+252,2011-02-04 09:39,2011-02-04 09:47,Create Purchase Requisition
+252,2011-02-05 00:51,2011-02-05 00:56,Analyze Purchase Requisition
+252,2011-02-05 01:04,2011-02-05 01:05,Create Request for Quotation
+252,2011-02-05 14:37,2011-02-05 15:05,Analyze Request for Quotation
+252,2011-02-05 16:02,2011-02-05 16:15,Amend Request for Quotation
+252,2011-02-08 02:08,2011-02-08 02:33,Analyze Request for Quotation
+252,2011-02-08 18:42,2011-02-08 18:58,Amend Request for Quotation
+252,2011-02-13 21:17,2011-02-13 21:26,Analyze Request for Quotation
+257,2011-02-05 11:19,2011-02-05 11:33,Create Purchase Requisition
+257,2011-02-05 21:18,2011-02-05 21:23,Analyze Purchase Requisition
+257,2011-02-05 21:28,2011-02-05 21:29,Create Request for Quotation
+257,2011-02-07 06:32,2011-02-07 07:07,Analyze Request for Quotation
+257,2011-02-07 08:01,2011-02-07 08:09,Amend Request for Quotation
+257,2011-02-08 01:07,2011-02-08 01:26,Analyze Request for Quotation
+257,2011-02-08 02:16,2011-02-08 02:28,Amend Request for Quotation
+257,2011-02-12 19:25,2011-02-12 19:40,Analyze Request for Quotation
+257,2011-02-12 20:26,2011-02-12 20:33,Amend Request for Quotation
+257,2011-02-16 11:30,2011-02-16 11:50,Analyze Request for Quotation
+257,2011-02-16 12:39,2011-02-16 12:48,Amend Request for Quotation
+257,2011-02-18 03:23,2011-02-18 03:47,Analyze Request for Quotation
+269,2011-02-06 17:12,2011-02-06 18:07,Create Purchase Requisition
+269,2011-02-07 13:39,2011-02-07 13:46,Analyze Purchase Requisition
+269,2011-02-07 13:50,2011-02-07 13:52,Create Request for Quotation
+269,2011-02-09 20:58,2011-02-09 21:08,Analyze Request for Quotation
+269,2011-02-10 15:09,2011-02-10 15:50,Send Request for Quotation to Supplier
+269,2011-02-11 07:29,2011-02-11 08:51,Create Quotation comparison Map
+269,2011-02-11 15:36,2011-02-11 16:03,Analyze Quotation Comparison Map
+269,2011-02-11 16:03,2011-02-11 16:03,Choose best option
+269,2011-02-12 12:37,2011-02-12 19:25,Settle Conditions With Supplier
+269,2011-02-13 01:09,2011-02-13 01:16,Create Purchase Order
+269,2011-02-13 08:49,2011-02-13 09:10,Confirm Purchase Order
+269,2011-02-18 17:32,2011-02-20 14:33,Deliver Goods Services
+269,2011-02-20 21:51,2011-02-20 21:52,Release Purchase Order
+269,2011-02-21 00:07,2011-02-21 08:24,Settle Dispute With Supplier
+269,2011-02-21 15:45,2011-02-21 15:46,Release Purchase Order
+269,2011-02-22 09:58,2011-02-22 09:59,Approve Purchase Order for payment
+269,2011-02-23 04:28,2011-02-23 04:28,Send Invoice
+269,2011-02-23 18:46,2011-02-23 18:48,Release Supplier's Invoice
+269,2011-02-23 18:48,2011-02-23 18:48,Authorize Supplier's Invoice payment
+269,2011-02-23 19:55,2011-02-23 20:02,Pay Invoice
+286,2011-02-08 14:06,2011-02-08 14:14,Create Purchase Requisition
+286,2011-02-08 19:22,2011-02-08 19:36,Create Request for Quotation
+286,2011-02-08 21:23,2011-02-08 21:49,Analyze Request for Quotation
+286,2011-02-08 22:44,2011-02-08 22:57,Amend Request for Quotation
+286,2011-02-09 20:35,2011-02-09 21:00,Analyze Request for Quotation
+286,2011-02-10 03:30,2011-02-10 03:50,Send Request for Quotation to Supplier
+286,2011-02-10 09:04,2011-02-10 14:09,Create Quotation comparison Map
+286,2011-02-10 20:33,2011-02-10 21:06,Analyze Quotation Comparison Map
+286,2011-02-10 21:06,2011-02-10 21:06,Choose best option
+286,2011-02-11 23:57,2011-02-12 05:54,Settle Conditions With Supplier
+286,2011-02-12 07:43,2011-02-12 07:50,Create Purchase Order
+286,2011-02-13 17:10,2011-02-13 17:25,Confirm Purchase Order
+286,2011-02-15 12:27,2011-02-17 05:07,Deliver Goods Services
+286,2011-02-17 12:47,2011-02-17 12:48,Release Purchase Order
+286,2011-02-18 03:47,2011-02-18 12:30,Settle Dispute With Supplier
+286,2011-02-18 19:44,2011-02-18 19:45,Release Purchase Order
+286,2011-02-19 08:23,2011-02-19 08:24,Approve Purchase Order for payment
+286,2011-02-21 08:57,2011-02-21 08:57,Send Invoice
+286,2011-02-21 23:16,2011-02-21 23:19,Release Supplier's Invoice
+286,2011-02-21 23:19,2011-02-21 23:19,Authorize Supplier's Invoice payment
+286,2011-02-22 00:20,2011-02-22 00:31,Pay Invoice
+287,2011-02-08 18:38,2011-02-08 19:13,Create Purchase Requisition
+287,2011-02-09 08:41,2011-02-09 08:48,Analyze Purchase Requisition
+287,2011-02-09 20:27,2011-02-09 20:50,Amend Purchase Requisition
+287,2011-02-10 02:54,2011-02-10 03:06,Create Request for Quotation
+287,2011-02-23 06:14,2011-02-23 06:37,Analyze Request for Quotation
+306,2011-02-12 17:52,2011-02-12 18:12,Create Purchase Requisition
+306,2011-02-12 22:42,2011-02-12 22:53,Create Request for Quotation
+306,2011-02-14 14:06,2011-02-14 14:27,Analyze Request for Quotation
+306,2011-02-15 05:34,2011-02-15 06:06,Send Request for Quotation to Supplier
+306,2011-02-15 10:16,2011-02-15 14:03,Create Quotation comparison Map
+306,2011-02-15 21:04,2011-02-15 21:12,Analyze Quotation Comparison Map
+306,2011-02-15 21:12,2011-02-15 21:12,Choose best option
+306,2011-02-17 17:02,2011-02-18 02:12,Settle Conditions With Supplier
+306,2011-02-18 02:51,2011-02-18 02:59,Create Purchase Order
+306,2011-02-18 17:21,2011-02-18 17:30,Confirm Purchase Order
+306,2011-02-19 20:04,2011-02-21 08:06,Deliver Goods Services
+306,2011-02-21 15:36,2011-02-21 15:37,Release Purchase Order
+306,2011-02-21 20:40,2011-02-22 05:42,Settle Dispute With Supplier
+306,2011-02-22 12:55,2011-02-22 12:56,Release Purchase Order
+306,2011-02-23 05:39,2011-02-23 05:40,Approve Purchase Order for payment
+306,2011-02-23 21:39,2011-02-23 21:39,Send Invoice
+306,2011-02-24 12:06,2011-02-24 12:10,Release Supplier's Invoice
+306,2011-02-24 12:13,2011-02-24 12:13,Authorize Supplier's Invoice payment
+306,2011-02-24 13:12,2011-02-24 13:24,Pay Invoice
+311,2011-02-13 06:55,2011-02-13 07:14,Create Purchase Requisition
+311,2011-02-13 15:18,2011-02-13 15:30,Create Request for Quotation
+311,2011-02-14 23:52,2011-02-15 00:23,Analyze Request for Quotation
+311,2011-02-15 01:15,2011-02-15 01:21,Amend Request for Quotation
+311,2011-02-17 11:29,2011-02-17 11:55,Analyze Request for Quotation
+311,2011-02-17 12:49,2011-02-17 12:56,Amend Request for Quotation
+311,2011-02-25 03:49,2011-02-25 04:17,Analyze Request for Quotation
+326,2011-02-14 18:17,2011-02-14 18:51,Create Purchase Requisition
+326,2011-02-14 21:44,2011-02-14 21:53,Create Request for Quotation
+326,2011-02-14 23:07,2011-02-14 23:29,Analyze Request for Quotation
+326,2011-02-15 15:28,2011-02-15 15:46,Amend Request for Quotation
+326,2011-02-15 22:03,2011-02-15 22:12,Analyze Request for Quotation
+326,2011-02-16 05:38,2011-02-16 06:03,Send Request for Quotation to Supplier
+326,2011-02-17 07:56,2011-02-17 10:17,Create Quotation comparison Map
+326,2011-02-17 17:11,2011-02-17 17:30,Analyze Quotation Comparison Map
+326,2011-02-17 17:30,2011-02-17 17:30,Choose best option
+326,2011-02-18 10:19,2011-02-18 16:49,Settle Conditions With Supplier
+326,2011-02-19 02:58,2011-02-19 03:09,Create Purchase Order
+326,2011-02-20 12:18,2011-02-20 12:53,Confirm Purchase Order
+326,2011-02-25 21:22,2011-02-26 13:48,Deliver Goods Services
+326,2011-02-26 21:40,2011-02-26 21:41,Release Purchase Order
+326,2011-02-27 05:16,2011-02-27 05:17,Approve Purchase Order for payment
+326,2011-02-27 22:37,2011-02-27 22:37,Send Invoice
+326,2011-02-28 13:06,2011-02-28 13:12,Release Supplier's Invoice
+326,2011-02-28 13:18,2011-02-28 13:35,Settle Dispute With Supplier
+326,2011-02-28 13:39,2011-02-28 13:39,Authorize Supplier's Invoice payment
+326,2011-02-28 14:42,2011-02-28 14:51,Pay Invoice
+330,2011-02-15 13:26,2011-02-15 14:06,Create Purchase Requisition
+330,2011-02-16 09:12,2011-02-16 09:18,Analyze Purchase Requisition
+330,2011-02-16 09:24,2011-02-16 09:27,Create Request for Quotation
+330,2011-02-16 10:49,2011-02-16 11:21,Analyze Request for Quotation
+330,2011-02-16 12:27,2011-02-16 12:33,Amend Request for Quotation
+330,2011-02-20 11:11,2011-02-20 11:39,Analyze Request for Quotation
+330,2011-02-20 12:26,2011-02-20 12:40,Amend Request for Quotation
+330,2011-02-21 07:26,2011-02-21 07:59,Analyze Request for Quotation
+339,2011-02-16 14:31,2011-02-16 15:23,Create Purchase Requisition
+339,2011-02-17 09:34,2011-02-17 09:40,Analyze Purchase Requisition
+339,2011-02-17 21:29,2011-02-17 21:52,Amend Purchase Requisition
+339,2011-02-18 17:24,2011-02-18 17:30,Analyze Purchase Requisition
+339,2011-02-18 17:36,2011-02-18 17:38,Create Request for Quotation
+339,2011-02-22 09:34,2011-02-22 09:58,Analyze Request for Quotation
+339,2011-02-22 10:50,2011-02-22 11:03,Amend Request for Quotation
+339,2011-02-28 08:10,2011-02-28 08:34,Analyze Request for Quotation
+340,2011-02-16 17:11,2011-02-16 17:24,Create Purchase Requisition
+340,2011-02-16 22:04,2011-02-16 22:11,Create Request for Quotation
+340,2011-02-22 10:16,2011-02-22 10:18,Analyze Request for Quotation
+340,2011-02-23 05:23,2011-02-23 05:39,Send Request for Quotation to Supplier
+340,2011-02-23 05:48,2011-02-23 09:14,Create Quotation comparison Map
+340,2011-02-23 15:40,2011-02-23 16:03,Analyze Quotation Comparison Map
+340,2011-02-23 16:03,2011-02-23 16:03,Choose best option
+340,2011-02-23 20:34,2011-02-24 11:13,Settle Conditions With Supplier
+340,2011-02-24 15:28,2011-02-24 15:35,Create Purchase Order
+340,2011-02-26 02:51,2011-02-26 03:26,Confirm Purchase Order
+340,2011-02-27 13:19,2011-03-01 07:52,Deliver Goods Services
+340,2011-03-01 15:15,2011-03-01 15:16,Release Purchase Order
+340,2011-03-01 19:28,2011-03-02 04:51,Settle Dispute With Supplier
+340,2011-03-02 11:59,2011-03-02 12:00,Release Purchase Order
+340,2011-03-02 19:56,2011-03-02 19:57,Approve Purchase Order for payment
+340,2011-03-04 01:44,2011-03-04 01:44,Send Invoice
+340,2011-03-04 15:58,2011-03-04 16:03,Release Supplier's Invoice
+340,2011-03-04 16:03,2011-03-04 16:03,Authorize Supplier's Invoice payment
+340,2011-03-04 16:17,2011-03-04 16:26,Pay Invoice
+361,2011-02-20 20:38,2011-02-20 20:58,Create Purchase Requisition
+361,2011-02-21 19:42,2011-02-21 19:49,Analyze Purchase Requisition
+361,2011-02-21 19:55,2011-02-21 19:57,Create Request for Quotation
+361,2011-02-22 16:24,2011-02-22 17:03,Analyze Request for Quotation
+361,2011-02-22 18:00,2011-02-22 18:10,Amend Request for Quotation
+361,2011-03-04 11:23,2011-03-04 11:37,Analyze Request for Quotation
+361,2011-03-04 12:22,2011-03-04 12:29,Amend Request for Quotation
+361,2011-03-05 13:08,2011-03-05 13:34,Analyze Request for Quotation
+361,2011-03-05 14:24,2011-03-05 14:31,Amend Request for Quotation
+361,2011-03-09 00:56,2011-03-09 01:13,Analyze Request for Quotation
+361,2011-03-09 01:59,2011-03-09 02:04,Amend Request for Quotation
+361,2011-03-14 00:42,2011-03-14 01:12,Analyze Request for Quotation
+361,2011-03-14 02:07,2011-03-14 02:19,Amend Request for Quotation
+361,2011-03-20 09:17,2011-03-20 09:54,Analyze Request for Quotation
+361,2011-03-20 10:45,2011-03-20 10:53,Amend Request for Quotation
+361,2011-03-24 08:40,2011-03-24 09:09,Analyze Request for Quotation
+361,2011-03-24 09:56,2011-03-24 10:01,Amend Request for Quotation
+361,2011-03-24 20:32,2011-03-24 20:50,Analyze Request for Quotation
+361,2011-03-24 21:38,2011-03-24 21:46,Amend Request for Quotation
+361,2011-03-27 16:46,2011-03-27 17:12,Analyze Request for Quotation
+361,2011-03-27 17:57,2011-03-27 18:11,Amend Request for Quotation
+361,2011-04-11 06:27,2011-04-11 06:33,Analyze Request for Quotation
+361,2011-04-11 22:21,2011-04-11 22:39,Amend Request for Quotation
+361,2011-04-17 12:28,2011-04-17 12:52,Analyze Request for Quotation
+361,2011-04-17 13:38,2011-04-17 13:43,Amend Request for Quotation
+361,2011-04-18 04:34,2011-04-18 04:53,Analyze Request for Quotation
+361,2011-04-18 05:40,2011-04-18 05:50,Amend Request for Quotation
+361,2011-04-28 20:42,2011-04-28 21:02,Analyze Request for Quotation
+361,2011-04-28 21:58,2011-04-28 22:04,Amend Request for Quotation
+361,2011-05-02 23:08,2011-05-02 23:34,Analyze Request for Quotation
+361,2011-05-04 00:55,2011-05-04 01:15,Send Request for Quotation to Supplier
+361,2011-05-05 07:43,2011-05-05 11:06,Create Quotation comparison Map
+361,2011-05-05 17:23,2011-05-05 17:41,Analyze Quotation Comparison Map
+361,2011-05-05 17:41,2011-05-05 17:41,Choose best option
+361,2011-05-06 11:03,2011-05-06 17:52,Settle Conditions With Supplier
+361,2011-05-06 22:03,2011-05-06 22:09,Create Purchase Order
+361,2011-05-07 15:26,2011-05-07 15:50,Confirm Purchase Order
+361,2011-05-08 08:15,2011-05-08 20:17,Deliver Goods Services
+361,2011-05-09 03:39,2011-05-09 03:40,Release Purchase Order
+361,2011-05-09 15:45,2011-05-09 15:46,Approve Purchase Order for payment
+361,2011-05-12 08:08,2011-05-12 08:08,Send Invoice
+361,2011-05-12 22:39,2011-05-12 22:43,Release Supplier's Invoice
+361,2011-05-12 22:43,2011-05-12 22:43,Authorize Supplier's Invoice payment
+361,2011-05-12 23:33,2011-05-12 23:42,Pay Invoice
+362,2011-02-20 23:27,2011-02-20 23:44,Create Purchase Requisition
+362,2011-02-21 14:36,2011-02-21 14:42,Analyze Purchase Requisition
+362,2011-02-21 14:49,2011-02-21 14:51,Create Request for Quotation
+362,2011-02-22 09:04,2011-02-22 09:31,Analyze Request for Quotation
+362,2011-02-22 10:30,2011-02-22 10:41,Amend Request for Quotation
+362,2011-02-24 15:03,2011-02-24 15:14,Analyze Request for Quotation
+362,2011-02-24 16:08,2011-02-24 16:21,Amend Request for Quotation
+362,2011-02-24 22:03,2011-02-24 22:21,Analyze Request for Quotation
+383,2011-02-24 00:02,2011-02-24 00:42,Create Purchase Requisition
+383,2011-02-24 03:13,2011-02-24 03:23,Create Request for Quotation
+383,2011-02-24 05:18,2011-02-24 05:43,Analyze Request for Quotation
+383,2011-02-24 06:35,2011-02-24 06:40,Amend Request for Quotation
+383,2011-02-25 11:57,2011-02-25 12:20,Analyze Request for Quotation
+383,2011-02-25 13:12,2011-02-25 13:27,Amend Request for Quotation
+383,2011-03-04 18:01,2011-03-04 18:21,Analyze Request for Quotation
+396,2011-02-26 03:16,2011-02-26 03:43,Create Purchase Requisition
+396,2011-02-26 18:40,2011-02-26 18:48,Analyze Purchase Requisition
+396,2011-02-27 06:38,2011-02-27 07:03,Amend Purchase Requisition
+396,2011-02-28 07:31,2011-02-28 07:38,Analyze Purchase Requisition
+396,2011-02-28 07:45,2011-02-28 07:47,Create Request for Quotation
+396,2011-03-03 17:09,2011-03-03 17:38,Analyze Request for Quotation
+396,2011-03-04 13:12,2011-03-04 13:36,Send Request for Quotation to Supplier
+396,2011-03-04 18:23,2011-03-04 22:09,Create Quotation comparison Map
+396,2011-03-05 04:57,2011-03-05 05:17,Analyze Quotation Comparison Map
+396,2011-03-05 05:17,2011-03-05 05:17,Choose best option
+396,2011-03-05 07:44,2011-03-05 12:25,Settle Conditions With Supplier
+396,2011-03-06 02:10,2011-03-06 02:18,Create Purchase Order
+396,2011-03-08 20:01,2011-03-08 20:34,Confirm Purchase Order
+396,2011-03-09 09:25,2011-03-10 00:24,Deliver Goods Services
+396,2011-03-10 08:14,2011-03-10 08:15,Release Purchase Order
+396,2011-03-10 20:36,2011-03-10 20:37,Approve Purchase Order for payment
+396,2011-03-12 10:55,2011-03-12 10:55,Send Invoice
+396,2011-03-13 01:13,2011-03-13 01:15,Release Supplier's Invoice
+396,2011-03-13 01:15,2011-03-13 01:15,Authorize Supplier's Invoice payment
+396,2011-03-13 02:16,2011-03-13 02:23,Pay Invoice
+401,2011-02-26 15:10,2011-02-26 16:04,Create Purchase Requisition
+401,2011-02-27 13:35,2011-02-27 13:41,Analyze Purchase Requisition
+401,2011-02-27 13:48,2011-02-27 13:51,Create Request for Quotation
+401,2011-02-28 10:30,2011-02-28 10:46,Analyze Request for Quotation
+401,2011-03-01 02:49,2011-03-01 03:03,Amend Request for Quotation
+401,2011-03-05 02:42,2011-03-05 03:13,Analyze Request for Quotation
+401,2011-03-05 04:08,2011-03-05 04:18,Amend Request for Quotation
+401,2011-03-31 22:54,2011-03-31 23:06,Analyze Request for Quotation
+401,2011-03-31 23:57,2011-04-01 00:10,Amend Request for Quotation
+401,2011-04-20 05:40,2011-04-20 05:59,Analyze Request for Quotation
+401,2011-04-20 06:55,2011-04-20 07:06,Amend Request for Quotation
+401,2011-04-28 14:39,2011-04-28 14:59,Analyze Request for Quotation
+401,2011-04-28 15:51,2011-04-28 16:00,Amend Request for Quotation
+401,2011-05-13 05:55,2011-05-13 06:09,Analyze Request for Quotation
+401,2011-05-13 06:56,2011-05-13 07:07,Amend Request for Quotation
+401,2011-05-18 20:24,2011-05-18 20:50,Analyze Request for Quotation
+413,2011-02-28 13:15,2011-02-28 13:46,Create Purchase Requisition
+413,2011-03-01 02:17,2011-03-01 02:25,Analyze Purchase Requisition
+413,2011-03-01 02:30,2011-03-01 02:31,Create Request for Quotation
+413,2011-03-04 18:11,2011-03-04 18:38,Analyze Request for Quotation
+413,2011-03-05 00:28,2011-03-05 00:55,Send Request for Quotation to Supplier
+413,2011-03-05 01:45,2011-03-05 07:10,Create Quotation comparison Map
+413,2011-03-05 14:29,2011-03-05 14:57,Analyze Quotation Comparison Map
+413,2011-03-05 14:57,2011-03-05 14:57,Choose best option
+413,2011-03-05 20:13,2011-03-06 03:44,Settle Conditions With Supplier
+413,2011-03-08 02:57,2011-03-08 03:07,Create Purchase Order
+413,2011-03-10 18:16,2011-03-10 18:27,Confirm Purchase Order
+413,2011-03-12 11:30,2011-03-13 20:23,Deliver Goods Services
+413,2011-03-14 04:12,2011-03-14 04:13,Release Purchase Order
+413,2011-03-14 12:59,2011-03-14 13:00,Approve Purchase Order for payment
+413,2011-03-15 06:49,2011-03-15 06:49,Send Invoice
+413,2011-03-15 21:09,2011-03-15 21:09,Authorize Supplier's Invoice payment
+413,2011-03-15 21:24,2011-03-15 21:37,Pay Invoice
+424,2011-03-02 12:11,2011-03-02 12:58,Create Purchase Requisition
+424,2011-03-02 14:02,2011-03-02 14:09,Create Request for Quotation
+424,2011-03-05 01:07,2011-03-05 01:25,Analyze Request for Quotation
+424,2011-03-05 02:19,2011-03-05 02:28,Amend Request for Quotation
+424,2011-03-05 09:05,2011-03-05 09:15,Analyze Request for Quotation
+424,2011-03-06 04:06,2011-03-06 04:07,Send Request for Quotation to Supplier
+424,2011-03-06 23:35,2011-03-07 05:29,Create Quotation comparison Map
+424,2011-03-07 12:05,2011-03-07 12:26,Analyze Quotation Comparison Map
+424,2011-03-07 12:26,2011-03-07 12:26,Choose best option
+424,2011-03-07 15:18,2011-03-08 02:57,Settle Conditions With Supplier
+424,2011-03-08 08:57,2011-03-08 09:07,Create Purchase Order
+424,2011-03-10 22:37,2011-03-10 23:09,Confirm Purchase Order
+424,2011-03-14 04:05,2011-03-15 17:42,Deliver Goods Services
+424,2011-03-16 01:27,2011-03-16 01:28,Release Purchase Order
+424,2011-03-16 14:17,2011-03-16 14:18,Approve Purchase Order for payment
+424,2011-03-17 23:33,2011-03-17 23:33,Send Invoice
+424,2011-03-18 14:03,2011-03-18 14:03,Authorize Supplier's Invoice payment
+424,2011-03-18 14:41,2011-03-18 14:53,Pay Invoice
+434,2011-03-04 04:42,2011-03-04 05:32,Create Purchase Requisition
+434,2011-03-04 08:38,2011-03-04 08:46,Create Request for Quotation
+434,2011-03-04 18:53,2011-03-04 19:06,Analyze Request for Quotation
+434,2011-03-05 09:01,2011-03-05 09:27,Send Request for Quotation to Supplier
+434,2011-03-05 16:05,2011-03-05 21:26,Create Quotation comparison Map
+434,2011-03-06 04:04,2011-03-06 04:35,Analyze Quotation Comparison Map
+434,2011-03-06 04:35,2011-03-06 04:35,Choose best option
+434,2011-03-06 17:20,2011-03-07 07:29,Settle Conditions With Supplier
+434,2011-03-07 23:20,2011-03-07 23:32,Create Purchase Order
+434,2011-03-09 14:45,2011-03-09 15:14,Confirm Purchase Order
+434,2011-03-10 08:45,2011-03-11 23:03,Deliver Goods Services
+434,2011-03-12 06:23,2011-03-12 06:24,Release Purchase Order
+434,2011-03-12 21:54,2011-03-13 07:19,Settle Dispute With Supplier
+434,2011-03-13 14:48,2011-03-13 14:49,Release Purchase Order
+434,2011-03-13 23:13,2011-03-13 23:14,Approve Purchase Order for payment
+434,2011-03-15 01:48,2011-03-15 01:48,Send Invoice
+434,2011-03-15 16:07,2011-03-15 16:12,Release Supplier's Invoice
+434,2011-03-15 16:12,2011-03-15 16:12,Authorize Supplier's Invoice payment
+434,2011-03-15 17:12,2011-03-15 17:19,Pay Invoice
+437,2011-03-04 21:28,2011-03-04 22:15,Create Purchase Requisition
+437,2011-03-05 02:47,2011-03-05 02:58,Create Request for Quotation
+437,2011-03-08 22:48,2011-03-08 23:05,Analyze Request for Quotation
+437,2011-03-08 23:53,2011-03-08 23:58,Amend Request for Quotation
+437,2011-03-09 01:51,2011-03-09 02:37,Analyze Request for Quotation
+437,2011-03-09 17:42,2011-03-09 18:02,Send Request for Quotation to Supplier
+437,2011-03-10 21:20,2011-03-11 03:16,Create Quotation comparison Map
+437,2011-03-11 10:14,2011-03-11 10:46,Analyze Quotation Comparison Map
+437,2011-03-11 10:46,2011-03-11 10:46,Choose best option
+437,2011-03-11 17:23,2011-03-12 02:44,Settle Conditions With Supplier
+437,2011-03-12 04:00,2011-03-12 04:06,Create Purchase Order
+437,2011-03-12 11:16,2011-03-12 11:30,Confirm Purchase Order
+437,2011-03-14 10:15,2011-03-15 19:28,Deliver Goods Services
+437,2011-03-16 03:07,2011-03-16 03:08,Release Purchase Order
+437,2011-03-17 02:10,2011-03-17 02:11,Approve Purchase Order for payment
+437,2011-03-20 11:20,2011-03-20 11:20,Send Invoice
+437,2011-03-21 01:29,2011-03-21 01:33,Release Supplier's Invoice
+437,2011-03-21 02:00,2011-03-21 02:27,Settle Dispute With Supplier
+437,2011-03-21 02:27,2011-03-21 02:27,Authorize Supplier's Invoice payment
+437,2011-03-21 02:48,2011-03-21 03:00,Pay Invoice
+438,2011-03-05 01:49,2011-03-05 02:17,Create Purchase Requisition
+438,2011-03-05 22:02,2011-03-05 22:07,Analyze Purchase Requisition
+438,2011-03-05 22:12,2011-03-05 22:14,Create Request for Quotation
+438,2011-03-07 07:45,2011-03-07 08:04,Analyze Request for Quotation
+438,2011-03-08 00:03,2011-03-08 00:29,Amend Request for Quotation
+438,2011-03-09 01:48,2011-03-09 01:58,Analyze Request for Quotation
+438,2011-03-09 02:44,2011-03-09 02:55,Amend Request for Quotation
+438,2011-03-15 23:39,2011-03-16 00:09,Analyze Request for Quotation
+438,2011-03-16 00:58,2011-03-16 01:13,Amend Request for Quotation
+438,2011-03-20 12:46,2011-03-20 13:01,Analyze Request for Quotation
+438,2011-03-20 13:55,2011-03-20 14:03,Amend Request for Quotation
+438,2011-03-21 18:50,2011-03-21 19:14,Analyze Request for Quotation
+438,2011-03-21 20:02,2011-03-21 20:11,Amend Request for Quotation
+438,2011-05-20 15:58,2011-05-20 16:19,Analyze Request for Quotation
+438,2011-05-20 17:12,2011-05-20 17:18,Amend Request for Quotation
+438,2011-06-01 10:40,2011-06-01 11:06,Analyze Request for Quotation
+438,2011-06-03 18:15,2011-06-03 18:36,Send Request for Quotation to Supplier
+438,2011-06-05 10:18,2011-06-05 12:56,Create Quotation comparison Map
+438,2011-06-05 19:16,2011-06-05 19:27,Analyze Quotation Comparison Map
+438,2011-06-05 19:27,2011-06-05 19:27,Choose best option
+438,2011-06-06 00:00,2011-06-06 10:50,Settle Conditions With Supplier
+438,2011-06-06 17:38,2011-06-06 17:45,Create Purchase Order
+438,2011-06-09 07:58,2011-06-09 08:02,Confirm Purchase Order
+438,2011-06-10 11:43,2011-06-10 15:39,Deliver Goods Services
+438,2011-06-10 23:28,2011-06-10 23:29,Release Purchase Order
+438,2011-06-11 04:43,2011-06-11 04:44,Approve Purchase Order for payment
+438,2011-06-12 22:59,2011-06-12 22:59,Send Invoice
+438,2011-06-13 13:21,2011-06-13 13:26,Release Supplier's Invoice
+438,2011-06-13 13:26,2011-06-13 13:26,Authorize Supplier's Invoice payment
+438,2011-06-13 14:10,2011-06-13 14:20,Pay Invoice
+446,2011-03-06 16:25,2011-03-06 16:31,Create Purchase Requisition
+446,2011-03-06 22:09,2011-03-06 22:21,Create Request for Quotation
+446,2011-03-08 21:12,2011-03-08 21:48,Analyze Request for Quotation
+446,2011-03-08 22:43,2011-03-08 22:55,Amend Request for Quotation
+446,2011-03-13 22:35,2011-03-13 23:13,Analyze Request for Quotation
+446,2011-03-14 00:06,2011-03-14 00:12,Amend Request for Quotation
+446,2011-03-14 01:12,2011-03-14 01:31,Analyze Request for Quotation
+459,2011-03-07 22:12,2011-03-07 22:28,Create Purchase Requisition
+459,2011-03-07 23:12,2011-03-07 23:18,Create Request for Quotation
+459,2011-03-11 15:10,2011-03-11 15:43,Analyze Request for Quotation
+459,2011-03-11 16:42,2011-03-11 16:56,Amend Request for Quotation
+459,2011-03-17 11:50,2011-03-17 12:09,Analyze Request for Quotation
+459,2011-03-17 12:53,2011-03-17 13:03,Amend Request for Quotation
+459,2011-03-18 13:38,2011-03-18 14:26,Analyze Request for Quotation
+459,2011-03-18 15:22,2011-03-18 15:37,Amend Request for Quotation
+459,2011-03-29 15:46,2011-03-29 15:58,Analyze Request for Quotation
+459,2011-03-29 17:01,2011-03-29 17:06,Amend Request for Quotation
+459,2011-03-29 20:22,2011-03-29 20:30,Analyze Request for Quotation
+459,2011-03-30 12:45,2011-03-30 13:05,Amend Request for Quotation
+459,2011-04-28 19:44,2011-04-28 20:12,Analyze Request for Quotation
+459,2011-04-28 20:59,2011-04-28 21:08,Amend Request for Quotation
+459,2011-05-15 10:37,2011-05-15 11:05,Analyze Request for Quotation
+459,2011-05-16 02:58,2011-05-16 03:29,Send Request for Quotation to Supplier
+459,2011-05-16 04:06,2011-05-16 05:13,Create Quotation comparison Map
+459,2011-05-16 11:47,2011-05-16 12:19,Analyze Quotation Comparison Map
+459,2011-05-16 12:19,2011-05-16 12:19,Choose best option
+459,2011-05-16 15:37,2011-05-17 00:41,Settle Conditions With Supplier
+459,2011-05-17 07:27,2011-05-17 07:33,Create Purchase Order
+459,2011-05-20 00:33,2011-05-20 00:59,Confirm Purchase Order
+459,2011-05-25 04:08,2011-05-25 09:31,Deliver Goods Services
+459,2011-05-25 16:40,2011-05-25 16:41,Release Purchase Order
+459,2011-05-26 14:41,2011-05-26 14:42,Approve Purchase Order for payment
+459,2011-05-28 01:40,2011-05-28 01:40,Send Invoice
+459,2011-05-28 15:57,2011-05-28 16:02,Release Supplier's Invoice
+459,2011-05-28 16:02,2011-05-28 16:02,Authorize Supplier's Invoice payment
+459,2011-05-28 16:24,2011-05-28 16:36,Pay Invoice
+492,2011-03-11 10:56,2011-03-11 11:17,Create Purchase Requisition
+492,2011-03-12 00:53,2011-03-12 00:57,Analyze Purchase Requisition
+492,2011-03-12 01:03,2011-03-12 01:05,Create Request for Quotation
+492,2011-03-13 19:35,2011-03-13 19:50,Analyze Request for Quotation
+492,2011-03-13 20:30,2011-03-13 20:43,Amend Request for Quotation
+492,2011-03-14 07:25,2011-03-14 07:34,Analyze Request for Quotation
+492,2011-03-14 08:34,2011-03-14 09:00,Send Request for Quotation to Supplier
+492,2011-03-14 09:49,2011-03-14 11:40,Create Quotation comparison Map
+492,2011-03-14 18:20,2011-03-14 18:43,Analyze Quotation Comparison Map
+492,2011-03-14 18:43,2011-03-14 18:43,Choose best option
+492,2011-03-15 03:16,2011-03-15 07:17,Settle Conditions With Supplier
+492,2011-03-16 00:57,2011-03-16 01:06,Create Purchase Order
+492,2011-03-17 23:59,2011-03-18 00:25,Confirm Purchase Order
+492,2011-03-18 11:34,2011-03-18 17:49,Deliver Goods Services
+492,2011-03-19 01:35,2011-03-19 01:36,Release Purchase Order
+492,2011-03-19 09:05,2011-03-19 18:45,Settle Dispute With Supplier
+492,2011-03-20 02:25,2011-03-20 02:26,Release Purchase Order
+492,2011-03-20 09:54,2011-03-20 09:55,Approve Purchase Order for payment
+492,2011-03-25 12:37,2011-03-25 12:37,Send Invoice
+492,2011-03-26 02:54,2011-03-26 02:57,Release Supplier's Invoice
+492,2011-03-26 02:57,2011-03-26 02:57,Authorize Supplier's Invoice payment
+492,2011-03-26 04:01,2011-03-26 04:09,Pay Invoice
+515,2011-03-14 08:04,2011-03-14 08:53,Create Purchase Requisition
+515,2011-03-14 23:53,2011-03-14 23:58,Analyze Purchase Requisition
+515,2011-03-15 00:02,2011-03-15 00:05,Create Request for Quotation
+515,2011-03-18 21:07,2011-03-18 21:29,Analyze Request for Quotation
+515,2011-03-19 13:33,2011-03-19 13:48,Amend Request for Quotation
+515,2011-03-20 12:23,2011-03-20 12:46,Analyze Request for Quotation
+515,2011-03-20 13:35,2011-03-20 13:46,Amend Request for Quotation
+515,2011-03-30 21:09,2011-03-30 21:43,Analyze Request for Quotation
+515,2011-03-30 22:32,2011-03-30 22:46,Amend Request for Quotation
+515,2011-04-15 12:09,2011-04-15 12:33,Analyze Request for Quotation
+515,2011-04-16 04:35,2011-04-16 04:53,Amend Request for Quotation
+515,2011-05-04 13:30,2011-05-04 14:00,Analyze Request for Quotation
+515,2011-05-04 14:46,2011-05-04 14:57,Amend Request for Quotation
+515,2011-05-14 11:46,2011-05-14 11:56,Analyze Request for Quotation
+515,2011-05-15 00:35,2011-05-15 00:48,Send Request for Quotation to Supplier
+515,2011-05-15 00:57,2011-05-15 05:00,Create Quotation comparison Map
+515,2011-05-15 11:45,2011-05-15 12:15,Analyze Quotation Comparison Map
+515,2011-05-15 12:15,2011-05-15 12:15,Choose best option
+515,2011-05-15 14:58,2011-05-15 21:32,Settle Conditions With Supplier
+515,2011-05-15 23:45,2011-05-15 23:53,Create Purchase Order
+515,2011-05-16 23:17,2011-05-16 23:45,Confirm Purchase Order
+515,2011-05-23 19:15,2011-05-25 19:04,Deliver Goods Services
+515,2011-05-26 02:54,2011-05-26 02:55,Release Purchase Order
+515,2011-05-26 12:04,2011-05-26 12:05,Approve Purchase Order for payment
+515,2011-06-02 03:24,2011-06-02 03:24,Send Invoice
+515,2011-06-02 17:37,2011-06-02 17:43,Release Supplier's Invoice
+515,2011-06-02 17:43,2011-06-02 17:43,Authorize Supplier's Invoice payment
+515,2011-06-02 18:00,2011-06-02 18:11,Pay Invoice
+547,2011-03-20 03:00,2011-03-20 03:27,Create Purchase Requisition
+547,2011-03-21 01:25,2011-03-21 01:29,Analyze Purchase Requisition
+547,2011-03-21 13:15,2011-03-21 13:47,Amend Purchase Requisition
+547,2011-03-22 05:25,2011-03-22 05:32,Analyze Purchase Requisition
+547,2011-03-22 05:36,2011-03-22 05:38,Create Request for Quotation
+547,2011-03-23 03:28,2011-03-23 03:47,Analyze Request for Quotation
+547,2011-03-23 04:49,2011-03-23 05:03,Amend Request for Quotation
+547,2011-03-27 00:16,2011-03-27 00:48,Analyze Request for Quotation
+547,2011-03-27 17:51,2011-03-27 18:20,Send Request for Quotation to Supplier
+547,2011-03-27 18:47,2011-03-27 21:30,Create Quotation comparison Map
+547,2011-03-28 04:14,2011-03-28 04:25,Analyze Quotation Comparison Map
+547,2011-03-28 04:25,2011-03-28 04:25,Choose best option
+547,2011-03-28 08:06,2011-03-28 16:32,Settle Conditions With Supplier
+547,2011-03-29 15:37,2011-03-29 15:46,Create Purchase Order
+547,2011-03-31 08:42,2011-03-31 08:57,Confirm Purchase Order
+547,2011-04-03 03:46,2011-04-03 16:22,Deliver Goods Services
+547,2011-04-03 23:58,2011-04-03 23:59,Release Purchase Order
+547,2011-04-04 10:10,2011-04-04 10:11,Approve Purchase Order for payment
+547,2011-04-05 03:52,2011-04-05 03:52,Send Invoice
+547,2011-04-05 18:17,2011-04-05 18:17,Authorize Supplier's Invoice payment
+547,2011-04-05 19:11,2011-04-05 19:15,Pay Invoice
+564,2011-03-21 20:13,2011-03-21 20:34,Create Purchase Requisition
+564,2011-03-22 07:30,2011-03-22 07:36,Analyze Purchase Requisition
+564,2011-03-22 07:40,2011-03-22 07:42,Create Request for Quotation
+564,2011-03-23 00:44,2011-03-23 01:04,Analyze Request for Quotation
+564,2011-03-23 18:48,2011-03-23 19:13,Send Request for Quotation to Supplier
+564,2011-03-24 12:57,2011-03-24 14:52,Create Quotation comparison Map
+564,2011-03-24 21:30,2011-03-24 22:02,Analyze Quotation Comparison Map
+564,2011-03-24 22:02,2011-03-24 22:02,Choose best option
+564,2011-03-26 08:31,2011-03-26 22:56,Settle Conditions With Supplier
+564,2011-03-27 03:33,2011-03-27 03:42,Create Purchase Order
+564,2011-03-30 19:39,2011-03-30 20:02,Confirm Purchase Order
+564,2011-04-02 11:56,2011-04-02 22:35,Deliver Goods Services
+564,2011-04-03 05:50,2011-04-03 05:51,Release Purchase Order
+564,2011-04-03 13:12,2011-04-03 22:23,Settle Dispute With Supplier
+564,2011-04-04 05:45,2011-04-04 05:46,Release Purchase Order
+564,2011-04-04 22:33,2011-04-04 22:34,Approve Purchase Order for payment
+564,2011-04-05 04:32,2011-04-05 04:32,Send Invoice
+564,2011-04-05 19:38,2011-04-05 19:42,Release Supplier's Invoice
+564,2011-04-05 20:09,2011-04-05 20:09,Authorize Supplier's Invoice payment
+564,2011-04-05 21:21,2011-04-05 21:29,Pay Invoice
+582,2011-03-23 09:03,2011-03-23 09:19,Create Purchase Requisition
+582,2011-03-24 06:28,2011-03-24 06:35,Analyze Purchase Requisition
+582,2011-03-24 06:43,2011-03-24 06:46,Create Request for Quotation
+582,2011-03-29 21:17,2011-03-29 21:50,Analyze Request for Quotation
+582,2011-03-29 22:39,2011-03-29 22:53,Amend Request for Quotation
+582,2011-04-01 02:49,2011-04-01 03:05,Analyze Request for Quotation
+582,2011-04-01 03:54,2011-04-01 04:05,Amend Request for Quotation
+582,2011-04-05 04:16,2011-04-05 04:41,Analyze Request for Quotation
+612,2011-03-27 21:04,2011-03-27 22:01,Create Purchase Requisition
+612,2011-03-28 10:58,2011-03-28 11:04,Analyze Purchase Requisition
+612,2011-03-28 11:10,2011-03-28 11:12,Create Request for Quotation
+612,2011-03-28 13:34,2011-03-28 13:51,Analyze Request for Quotation
+612,2011-03-28 14:38,2011-03-28 14:51,Amend Request for Quotation
+612,2011-03-29 17:50,2011-03-29 17:56,Analyze Request for Quotation
+612,2011-03-29 18:54,2011-03-29 19:06,Amend Request for Quotation
+612,2011-04-01 00:00,2011-04-01 00:16,Analyze Request for Quotation
+627,2011-03-31 09:03,2011-03-31 09:34,Create Purchase Requisition
+627,2011-04-01 09:56,2011-04-01 10:01,Analyze Purchase Requisition
+627,2011-04-01 10:08,2011-04-01 10:10,Create Request for Quotation
+627,2011-05-09 04:32,2011-05-09 05:04,Analyze Request for Quotation
+627,2011-05-09 05:55,2011-05-09 06:10,Amend Request for Quotation
+627,2011-05-15 11:27,2011-05-15 12:02,Analyze Request for Quotation
+627,2011-05-15 12:45,2011-05-15 12:58,Amend Request for Quotation
+627,2011-05-30 21:29,2011-05-30 21:51,Analyze Request for Quotation
+627,2011-05-30 22:45,2011-05-30 22:55,Amend Request for Quotation
+627,2011-06-04 01:25,2011-06-04 01:49,Analyze Request for Quotation
+627,2011-06-04 15:34,2011-06-04 16:04,Send Request for Quotation to Supplier
+627,2011-06-04 20:41,2011-06-05 01:52,Create Quotation comparison Map
+627,2011-06-05 08:36,2011-06-05 09:03,Analyze Quotation Comparison Map
+627,2011-06-05 09:03,2011-06-05 09:03,Choose best option
+627,2011-06-05 14:58,2011-06-06 01:13,Settle Conditions With Supplier
+627,2011-06-06 14:52,2011-06-06 15:04,Create Purchase Order
+627,2011-06-08 17:35,2011-06-08 18:03,Confirm Purchase Order
+627,2011-06-19 23:10,2011-06-21 06:23,Deliver Goods Services
+627,2011-06-21 13:45,2011-06-21 13:46,Release Purchase Order
+627,2011-06-21 22:44,2011-06-21 22:45,Approve Purchase Order for payment
+627,2011-06-22 17:48,2011-06-22 17:48,Send Invoice
+627,2011-06-23 08:10,2011-06-23 08:13,Release Supplier's Invoice
+627,2011-06-23 08:25,2011-06-23 08:49,Settle Dispute With Supplier
+627,2011-06-23 08:49,2011-06-23 08:49,Authorize Supplier's Invoice payment
+627,2011-06-23 08:54,2011-06-23 09:05,Pay Invoice
+632,2011-03-31 22:48,2011-03-31 23:12,Create Purchase Requisition
+632,2011-04-01 17:50,2011-04-01 17:56,Analyze Purchase Requisition
+632,2011-04-01 18:01,2011-04-01 18:04,Create Request for Quotation
+632,2011-04-04 22:35,2011-04-04 22:54,Analyze Request for Quotation
+632,2011-04-04 23:46,2011-04-04 23:58,Amend Request for Quotation
+632,2011-04-11 12:54,2011-04-11 13:07,Analyze Request for Quotation
+632,2011-04-11 13:54,2011-04-11 14:00,Amend Request for Quotation
+632,2011-04-28 15:53,2011-04-28 16:14,Analyze Request for Quotation
+632,2011-04-28 17:12,2011-04-28 17:27,Amend Request for Quotation
+632,2011-05-22 04:24,2011-05-22 05:14,Analyze Request for Quotation
+632,2011-05-22 06:06,2011-05-22 06:12,Amend Request for Quotation
+632,2011-06-14 13:28,2011-06-14 13:45,Analyze Request for Quotation
+632,2011-06-14 14:37,2011-06-14 14:46,Amend Request for Quotation
+632,2011-06-25 09:09,2011-06-25 09:29,Analyze Request for Quotation
+632,2011-06-26 15:11,2011-06-26 15:31,Send Request for Quotation to Supplier
+632,2011-06-26 17:28,2011-06-26 23:24,Create Quotation comparison Map
+632,2011-06-27 06:04,2011-06-27 06:38,Analyze Quotation Comparison Map
+632,2011-06-27 06:38,2011-06-27 06:38,Choose best option
+632,2011-06-27 11:25,2011-06-27 15:37,Settle Conditions With Supplier
+632,2011-06-28 12:30,2011-06-28 12:39,Create Purchase Order
+632,2011-07-04 06:09,2011-07-04 06:20,Confirm Purchase Order
+632,2011-07-09 16:36,2011-07-11 07:33,Deliver Goods Services
+632,2011-07-11 15:03,2011-07-11 15:04,Release Purchase Order
+632,2011-07-11 19:36,2011-07-11 19:37,Approve Purchase Order for payment
+632,2011-07-13 15:49,2011-07-13 15:49,Send Invoice
+632,2011-07-14 06:22,2011-07-14 06:28,Release Supplier's Invoice
+632,2011-07-14 06:28,2011-07-14 06:28,Authorize Supplier's Invoice payment
+632,2011-07-14 06:52,2011-07-14 06:59,Pay Invoice
+637,2011-04-02 14:24,2011-04-02 14:40,Create Purchase Requisition
+637,2011-04-03 02:12,2011-04-03 02:17,Analyze Purchase Requisition
+637,2011-04-03 02:22,2011-04-03 02:24,Create Request for Quotation
+637,2011-04-05 06:34,2011-04-05 07:04,Analyze Request for Quotation
+637,2011-04-05 07:55,2011-04-05 08:01,Amend Request for Quotation
+637,2011-04-17 00:13,2011-04-17 00:33,Analyze Request for Quotation
+637,2011-04-17 01:27,2011-04-17 01:34,Amend Request for Quotation
+637,2011-04-21 21:50,2011-04-21 22:18,Analyze Request for Quotation
+637,2011-04-21 23:12,2011-04-21 23:18,Amend Request for Quotation
+637,2011-05-03 23:55,2011-05-04 00:16,Analyze Request for Quotation
+637,2011-05-04 01:08,2011-05-04 01:20,Amend Request for Quotation
+637,2011-05-04 16:00,2011-05-04 16:15,Analyze Request for Quotation
+637,2011-05-05 07:58,2011-05-05 08:25,Amend Request for Quotation
+637,2011-05-09 05:04,2011-05-09 05:28,Analyze Request for Quotation
+637,2011-05-09 06:19,2011-05-09 06:30,Amend Request for Quotation
+637,2011-05-17 16:29,2011-05-17 17:00,Analyze Request for Quotation
+637,2011-05-18 08:56,2011-05-18 09:23,Amend Request for Quotation
+637,2011-05-21 18:46,2011-05-21 19:06,Analyze Request for Quotation
+637,2011-05-21 20:03,2011-05-21 20:17,Amend Request for Quotation
+637,2011-06-18 15:16,2011-06-18 15:46,Analyze Request for Quotation
+637,2011-06-18 20:16,2011-06-18 20:46,Send Request for Quotation to Supplier
+637,2011-06-19 05:19,2011-06-19 10:42,Create Quotation comparison Map
+637,2011-06-19 18:04,2011-06-19 18:24,Analyze Quotation Comparison Map
+637,2011-06-19 18:24,2011-06-19 18:24,Choose best option
+637,2011-06-20 07:55,2011-06-20 12:57,Settle Conditions With Supplier
+637,2011-06-20 21:58,2011-06-20 22:08,Create Purchase Order
+637,2011-06-22 09:29,2011-06-22 09:34,Confirm Purchase Order
+637,2011-06-24 10:10,2011-06-26 01:07,Deliver Goods Services
+637,2011-06-26 08:49,2011-06-26 08:50,Release Purchase Order
+637,2011-06-26 15:31,2011-06-26 15:32,Approve Purchase Order for payment
+637,2011-06-27 04:36,2011-06-27 04:36,Send Invoice
+637,2011-06-27 19:08,2011-06-27 19:15,Release Supplier's Invoice
+637,2011-06-27 20:09,2011-06-27 20:33,Settle Dispute With Supplier
+637,2011-06-27 20:33,2011-06-27 20:33,Authorize Supplier's Invoice payment
+637,2011-06-27 20:48,2011-06-27 20:53,Pay Invoice
+651,2011-04-04 12:26,2011-04-04 12:39,Create Purchase Requisition
+651,2011-04-04 22:32,2011-04-04 22:38,Analyze Purchase Requisition
+651,2011-04-04 22:45,2011-04-04 22:47,Create Request for Quotation
+651,2011-04-05 01:40,2011-04-05 01:51,Analyze Request for Quotation
+651,2011-04-05 02:43,2011-04-05 02:52,Amend Request for Quotation
+651,2011-04-15 18:04,2011-04-15 18:18,Analyze Request for Quotation
+651,2011-04-15 19:17,2011-04-15 19:31,Amend Request for Quotation
+651,2011-05-13 05:17,2011-05-13 05:55,Analyze Request for Quotation
+651,2011-05-13 06:44,2011-05-13 06:59,Amend Request for Quotation
+651,2011-05-15 23:53,2011-05-16 00:23,Analyze Request for Quotation
+651,2011-05-16 01:13,2011-05-16 01:20,Amend Request for Quotation
+651,2011-06-09 19:30,2011-06-09 19:50,Analyze Request for Quotation
+651,2011-06-09 20:40,2011-06-09 20:54,Amend Request for Quotation
+651,2011-06-17 12:30,2011-06-17 13:10,Analyze Request for Quotation
+673,2011-04-07 12:15,2011-04-07 13:04,Create Purchase Requisition
+673,2011-04-08 00:09,2011-04-08 00:15,Analyze Purchase Requisition
+673,2011-04-08 11:59,2011-04-08 12:26,Amend Purchase Requisition
+673,2011-04-08 14:22,2011-04-08 14:30,Create Request for Quotation
+673,2011-04-11 10:01,2011-04-11 10:38,Analyze Request for Quotation
+673,2011-04-13 08:50,2011-04-13 09:09,Send Request for Quotation to Supplier
+673,2011-04-13 19:29,2011-04-13 22:41,Create Quotation comparison Map
+673,2011-04-14 05:25,2011-04-14 05:58,Analyze Quotation Comparison Map
+673,2011-04-14 05:58,2011-04-14 05:58,Choose best option
+673,2011-04-14 07:50,2011-04-14 19:10,Settle Conditions With Supplier
+673,2011-04-15 20:54,2011-04-15 21:02,Create Purchase Order
+673,2011-04-16 16:23,2011-04-16 16:50,Confirm Purchase Order
+673,2011-04-17 12:26,2011-04-19 08:53,Deliver Goods Services
+673,2011-04-19 16:43,2011-04-19 16:44,Release Purchase Order
+673,2011-04-21 08:03,2011-04-21 08:04,Approve Purchase Order for payment
+673,2011-04-24 00:04,2011-04-24 00:04,Send Invoice
+673,2011-04-24 14:35,2011-04-24 14:38,Release Supplier's Invoice
+673,2011-04-24 14:38,2011-04-24 14:38,Authorize Supplier's Invoice payment
+673,2011-04-24 15:30,2011-04-24 15:37,Pay Invoice
+674,2011-04-07 14:58,2011-04-07 15:16,Create Purchase Requisition
+674,2011-04-08 01:35,2011-04-08 01:40,Analyze Purchase Requisition
+674,2011-04-08 01:44,2011-04-08 01:47,Create Request for Quotation
+674,2011-04-17 02:14,2011-04-17 02:38,Analyze Request for Quotation
+674,2011-04-17 03:30,2011-04-17 03:44,Amend Request for Quotation
+674,2011-05-02 16:33,2011-05-02 16:58,Analyze Request for Quotation
+674,2011-05-02 17:34,2011-05-02 17:46,Amend Request for Quotation
+674,2011-05-03 06:30,2011-05-03 06:37,Analyze Request for Quotation
+674,2011-05-03 07:15,2011-05-03 07:24,Amend Request for Quotation
+674,2011-05-13 06:00,2011-05-13 06:31,Analyze Request for Quotation
+674,2011-05-13 07:17,2011-05-13 07:29,Amend Request for Quotation
+674,2011-07-05 19:38,2011-07-05 20:08,Analyze Request for Quotation
+674,2011-07-05 21:04,2011-07-05 21:19,Amend Request for Quotation
+674,2011-07-06 07:22,2011-07-06 07:46,Analyze Request for Quotation
+674,2011-07-06 08:34,2011-07-06 08:45,Amend Request for Quotation
+674,2011-07-18 10:23,2011-07-18 10:48,Analyze Request for Quotation
+689,2011-04-09 22:06,2011-04-09 22:15,Create Purchase Requisition
+689,2011-04-09 22:21,2011-04-09 22:31,Create Request for Quotation
+689,2011-04-11 10:13,2011-04-11 10:46,Analyze Request for Quotation
+689,2011-04-12 02:32,2011-04-12 02:50,Amend Request for Quotation
+689,2011-04-12 10:04,2011-04-12 10:39,Analyze Request for Quotation
+689,2011-04-12 11:32,2011-04-12 11:47,Amend Request for Quotation
+689,2011-04-23 19:19,2011-04-23 19:53,Analyze Request for Quotation
+690,2011-04-09 22:14,2011-04-09 22:30,Create Purchase Requisition
+690,2011-04-10 17:18,2011-04-10 17:26,Analyze Purchase Requisition
+690,2011-04-10 17:34,2011-04-10 17:36,Create Request for Quotation
+690,2011-04-17 04:55,2011-04-17 05:28,Analyze Request for Quotation
+690,2011-04-17 06:09,2011-04-17 06:17,Amend Request for Quotation
+690,2011-05-07 12:21,2011-05-07 12:44,Analyze Request for Quotation
+690,2011-05-07 13:36,2011-05-07 13:44,Amend Request for Quotation
+690,2011-06-08 17:26,2011-06-08 17:50,Analyze Request for Quotation
+690,2011-06-08 18:49,2011-06-08 19:00,Amend Request for Quotation
+690,2011-06-10 06:49,2011-06-10 07:14,Analyze Request for Quotation
+690,2011-06-10 20:00,2011-06-10 20:30,Send Request for Quotation to Supplier
+690,2011-06-10 21:44,2011-06-10 22:45,Create Quotation comparison Map
+690,2011-06-11 05:59,2011-06-11 06:21,Analyze Quotation Comparison Map
+690,2011-06-11 06:21,2011-06-11 06:21,Choose best option
+690,2011-06-14 02:21,2011-06-14 09:15,Settle Conditions With Supplier
+690,2011-06-14 11:19,2011-06-14 11:25,Create Purchase Order
+690,2011-06-15 13:42,2011-06-15 14:13,Confirm Purchase Order
+690,2011-06-19 02:43,2011-06-19 11:30,Deliver Goods Services
+690,2011-06-19 19:05,2011-06-19 19:06,Release Purchase Order
+690,2011-06-20 11:13,2011-06-20 20:50,Settle Dispute With Supplier
+690,2011-06-21 04:28,2011-06-21 04:29,Release Purchase Order
+690,2011-06-21 07:19,2011-06-21 17:39,Settle Dispute With Supplier
+690,2011-06-22 01:34,2011-06-22 01:35,Release Purchase Order
+690,2011-06-22 12:18,2011-06-22 12:19,Approve Purchase Order for payment
+690,2011-06-24 06:42,2011-06-24 06:42,Send Invoice
+690,2011-06-24 20:59,2011-06-24 21:04,Release Supplier's Invoice
+690,2011-06-24 21:04,2011-06-24 21:04,Authorize Supplier's Invoice payment
+690,2011-06-24 21:55,2011-06-24 22:05,Pay Invoice
+692,2011-04-10 01:12,2011-04-10 01:47,Create Purchase Requisition
+692,2011-04-10 02:42,2011-04-10 02:52,Create Request for Quotation
+692,2011-04-11 09:08,2011-04-11 09:27,Analyze Request for Quotation
+692,2011-04-11 10:27,2011-04-11 10:37,Amend Request for Quotation
+692,2011-04-13 16:39,2011-04-13 17:12,Analyze Request for Quotation
+692,2011-04-13 18:04,2011-04-13 18:13,Amend Request for Quotation
+692,2011-04-14 02:00,2011-04-14 02:14,Analyze Request for Quotation
+692,2011-04-14 02:58,2011-04-14 03:05,Amend Request for Quotation
+692,2011-04-18 05:02,2011-04-18 05:26,Analyze Request for Quotation
+704,2011-04-12 06:33,2011-04-12 07:28,Create Purchase Requisition
+704,2011-04-12 13:38,2011-04-12 13:48,Create Request for Quotation
+704,2011-04-19 16:58,2011-04-19 16:58,Analyze Request for Quotation
+704,2011-04-19 17:53,2011-04-19 18:07,Amend Request for Quotation
+704,2011-05-26 05:32,2011-05-26 05:59,Analyze Request for Quotation
+704,2011-05-26 06:48,2011-05-26 06:56,Amend Request for Quotation
+704,2011-06-06 20:05,2011-06-06 20:27,Analyze Request for Quotation
+704,2011-06-06 21:19,2011-06-06 21:30,Amend Request for Quotation
+704,2011-06-09 20:07,2011-06-09 20:10,Analyze Request for Quotation
+704,2011-06-10 12:02,2011-06-10 12:28,Amend Request for Quotation
+704,2011-06-16 23:25,2011-06-16 23:57,Analyze Request for Quotation
+704,2011-06-17 09:24,2011-06-17 09:54,Send Request for Quotation to Supplier
+704,2011-06-17 10:48,2011-06-17 12:11,Create Quotation comparison Map
+704,2011-06-17 18:28,2011-06-17 18:36,Analyze Quotation Comparison Map
+704,2011-06-17 18:36,2011-06-17 18:36,Choose best option
+704,2011-06-18 01:43,2011-06-18 12:27,Settle Conditions With Supplier
+704,2011-06-19 08:46,2011-06-19 08:52,Create Purchase Order
+704,2011-06-25 18:22,2011-06-25 18:55,Confirm Purchase Order
+704,2011-06-27 19:13,2011-06-28 18:05,Deliver Goods Services
+704,2011-06-29 01:13,2011-06-29 01:14,Release Purchase Order
+704,2011-06-30 22:36,2011-06-30 22:37,Approve Purchase Order for payment
+704,2011-07-04 08:55,2011-07-04 08:55,Send Invoice
+704,2011-07-04 23:24,2011-07-04 23:28,Release Supplier's Invoice
+704,2011-07-04 23:28,2011-07-04 23:28,Authorize Supplier's Invoice payment
+704,2011-07-05 00:24,2011-07-05 00:30,Pay Invoice
+734,2011-04-17 03:55,2011-04-17 04:32,Create Purchase Requisition
+734,2011-04-17 06:56,2011-04-17 07:04,Create Request for Quotation
+734,2011-04-21 08:24,2011-04-21 09:03,Analyze Request for Quotation
+734,2011-04-21 09:51,2011-04-21 09:59,Amend Request for Quotation
+734,2011-04-25 14:06,2011-04-25 14:20,Analyze Request for Quotation
+734,2011-04-25 15:07,2011-04-25 15:13,Amend Request for Quotation
+734,2011-06-07 02:08,2011-06-07 02:36,Analyze Request for Quotation
+734,2011-06-07 03:21,2011-06-07 03:36,Amend Request for Quotation
+734,2011-06-14 16:24,2011-06-14 16:47,Analyze Request for Quotation
+734,2011-06-14 17:40,2011-06-14 17:49,Amend Request for Quotation
+734,2011-06-24 10:27,2011-06-24 10:37,Analyze Request for Quotation
+734,2011-06-24 20:37,2011-06-24 21:04,Send Request for Quotation to Supplier
+734,2011-06-25 02:34,2011-06-25 06:31,Create Quotation comparison Map
+734,2011-06-25 13:10,2011-06-25 13:31,Analyze Quotation Comparison Map
+734,2011-06-25 13:31,2011-06-25 13:31,Choose best option
+734,2011-06-25 17:32,2011-06-26 05:12,Settle Conditions With Supplier
+734,2011-06-26 19:17,2011-06-26 19:30,Create Purchase Order
+734,2011-07-08 07:51,2011-07-08 08:08,Confirm Purchase Order
+734,2011-07-13 13:14,2011-07-14 06:49,Deliver Goods Services
+734,2011-07-14 14:23,2011-07-14 14:24,Release Purchase Order
+734,2011-07-15 05:44,2011-07-15 05:45,Approve Purchase Order for payment
+734,2011-07-18 22:41,2011-07-18 22:41,Send Invoice
+734,2011-07-19 13:03,2011-07-19 13:09,Release Supplier's Invoice
+734,2011-07-19 13:09,2011-07-19 13:09,Authorize Supplier's Invoice payment
+734,2011-07-19 13:25,2011-07-19 13:37,Pay Invoice
+739,2011-04-17 11:26,2011-04-17 12:15,Create Purchase Requisition
+739,2011-04-17 13:43,2011-04-17 13:54,Create Request for Quotation
+739,2011-04-19 21:06,2011-04-19 21:30,Analyze Request for Quotation
+739,2011-04-19 22:20,2011-04-19 22:33,Amend Request for Quotation
+739,2011-04-21 16:28,2011-04-21 16:53,Analyze Request for Quotation
+739,2011-04-22 01:15,2011-04-22 01:55,Send Request for Quotation to Supplier
+739,2011-04-22 04:20,2011-04-22 08:13,Create Quotation comparison Map
+739,2011-04-22 15:10,2011-04-22 15:27,Analyze Quotation Comparison Map
+739,2011-04-22 15:27,2011-04-22 15:27,Choose best option
+739,2011-04-23 06:05,2011-04-23 10:34,Settle Conditions With Supplier
+739,2011-04-23 12:57,2011-04-23 13:06,Create Purchase Order
+739,2011-04-24 05:38,2011-04-24 05:52,Confirm Purchase Order
+739,2011-04-25 11:01,2011-04-25 14:04,Deliver Goods Services
+739,2011-04-25 21:56,2011-04-25 21:57,Release Purchase Order
+739,2011-04-26 06:43,2011-04-26 16:05,Settle Dispute With Supplier
+739,2011-04-26 23:42,2011-04-26 23:43,Release Purchase Order
+739,2011-04-27 03:22,2011-04-27 03:23,Approve Purchase Order for payment
+739,2011-04-30 08:47,2011-04-30 08:47,Send Invoice
+739,2011-04-30 23:13,2011-04-30 23:18,Release Supplier's Invoice
+739,2011-04-30 23:18,2011-04-30 23:18,Authorize Supplier's Invoice payment
+739,2011-05-01 00:24,2011-05-01 00:31,Pay Invoice
+749,2011-04-19 18:02,2011-04-19 18:29,Create Purchase Requisition
+749,2011-04-19 22:59,2011-04-19 23:08,Create Request for Quotation
+749,2011-05-08 14:39,2011-05-08 15:00,Analyze Request for Quotation
+749,2011-05-08 15:43,2011-05-08 15:52,Amend Request for Quotation
+749,2011-05-21 22:13,2011-05-21 22:33,Analyze Request for Quotation
+749,2011-05-21 23:28,2011-05-21 23:40,Amend Request for Quotation
+749,2011-05-31 21:25,2011-05-31 21:57,Analyze Request for Quotation
+749,2011-06-01 13:59,2011-06-01 14:20,Amend Request for Quotation
+749,2011-06-22 08:11,2011-06-22 08:36,Analyze Request for Quotation
+749,2011-06-22 17:06,2011-06-22 17:19,Send Request for Quotation to Supplier
+749,2011-06-23 04:23,2011-06-23 08:12,Create Quotation comparison Map
+749,2011-06-23 14:52,2011-06-23 15:11,Analyze Quotation Comparison Map
+749,2011-06-23 15:11,2011-06-23 15:11,Choose best option
+749,2011-06-24 00:55,2011-06-24 09:57,Settle Conditions With Supplier
+749,2011-06-25 06:03,2011-06-25 06:15,Create Purchase Order
+749,2011-06-27 04:06,2011-06-27 04:26,Confirm Purchase Order
+749,2011-06-29 10:38,2011-07-01 09:33,Deliver Goods Services
+749,2011-07-01 17:34,2011-07-01 17:35,Release Purchase Order
+749,2011-07-02 07:19,2011-07-02 07:20,Approve Purchase Order for payment
+749,2011-07-04 08:55,2011-07-04 08:55,Send Invoice
+749,2011-07-04 22:59,2011-07-04 23:02,Release Supplier's Invoice
+749,2011-07-04 23:50,2011-07-05 00:03,Settle Dispute With Supplier
+749,2011-07-05 00:03,2011-07-05 00:03,Authorize Supplier's Invoice payment
+749,2011-07-05 01:08,2011-07-05 01:16,Pay Invoice
+812,2011-05-01 05:18,2011-05-01 06:06,Create Purchase Requisition
+812,2011-05-01 09:06,2011-05-01 09:15,Create Request for Quotation
+812,2011-05-02 20:20,2011-05-02 20:44,Analyze Request for Quotation
+812,2011-05-03 00:58,2011-05-03 01:21,Send Request for Quotation to Supplier
+812,2011-05-03 01:48,2011-05-03 06:14,Create Quotation comparison Map
+812,2011-05-03 13:12,2011-05-03 13:43,Analyze Quotation Comparison Map
+812,2011-05-03 13:43,2011-05-03 13:43,Choose best option
+812,2011-05-03 17:57,2011-05-04 05:47,Settle Conditions With Supplier
+812,2011-05-04 14:48,2011-05-04 14:58,Create Purchase Order
+812,2011-05-05 00:33,2011-05-05 00:57,Confirm Purchase Order
+812,2011-05-08 21:31,2011-05-09 18:56,Deliver Goods Services
+812,2011-05-10 02:41,2011-05-10 02:42,Release Purchase Order
+812,2011-05-10 11:49,2011-05-10 11:50,Approve Purchase Order for payment
+812,2011-05-12 08:08,2011-05-12 08:08,Send Invoice
+812,2011-05-12 22:33,2011-05-12 22:33,Authorize Supplier's Invoice payment
+812,2011-05-12 23:09,2011-05-12 23:24,Pay Invoice
+826,2011-05-02 15:39,2011-05-02 16:30,Create Purchase Requisition
+826,2011-05-03 16:47,2011-05-03 16:51,Analyze Purchase Requisition
+826,2011-05-03 16:58,2011-05-03 17:00,Create Request for Quotation
+826,2011-05-13 05:21,2011-05-13 05:43,Analyze Request for Quotation
+826,2011-05-13 06:36,2011-05-13 06:46,Amend Request for Quotation
+826,2011-07-06 04:49,2011-07-06 04:59,Analyze Request for Quotation
+826,2011-07-06 05:41,2011-07-06 05:46,Amend Request for Quotation
+826,2011-07-22 00:09,2011-07-22 00:27,Analyze Request for Quotation
+826,2011-07-22 13:46,2011-07-22 14:08,Send Request for Quotation to Supplier
+826,2011-07-22 18:07,2011-07-22 20:35,Create Quotation comparison Map
+826,2011-07-23 03:27,2011-07-23 03:54,Analyze Quotation Comparison Map
+826,2011-07-23 03:54,2011-07-23 03:54,Choose best option
+826,2011-07-23 17:00,2011-07-24 07:28,Settle Conditions With Supplier
+826,2011-07-24 10:00,2011-07-24 10:10,Create Purchase Order
+826,2011-07-24 22:16,2011-07-24 22:23,Confirm Purchase Order
+826,2011-07-26 11:05,2011-07-28 03:10,Deliver Goods Services
+826,2011-07-28 10:23,2011-07-28 10:24,Release Purchase Order
+826,2011-07-28 13:07,2011-07-28 22:07,Settle Dispute With Supplier
+826,2011-07-29 05:37,2011-07-29 05:38,Release Purchase Order
+826,2011-07-29 15:32,2011-07-29 15:33,Approve Purchase Order for payment
+826,2011-08-01 01:11,2011-08-01 01:11,Send Invoice
+826,2011-08-01 15:23,2011-08-01 15:30,Release Supplier's Invoice
+826,2011-08-01 15:30,2011-08-01 15:30,Authorize Supplier's Invoice payment
+826,2011-08-01 16:31,2011-08-01 16:44,Pay Invoice
+856,2011-05-06 03:32,2011-05-06 04:07,Create Purchase Requisition
+856,2011-05-06 21:53,2011-05-06 21:59,Analyze Purchase Requisition
+856,2011-05-06 22:04,2011-05-06 22:06,Create Request for Quotation
+856,2011-05-10 03:35,2011-05-10 04:09,Analyze Request for Quotation
+856,2011-05-10 04:55,2011-05-10 05:01,Amend Request for Quotation
+856,2011-06-11 02:24,2011-06-11 02:53,Analyze Request for Quotation
+856,2011-06-11 18:57,2011-06-11 19:09,Amend Request for Quotation
+856,2011-07-06 08:49,2011-07-06 09:07,Analyze Request for Quotation
+856,2011-07-07 01:10,2011-07-07 01:36,Amend Request for Quotation
+856,2011-07-16 06:17,2011-07-16 06:38,Analyze Request for Quotation
+856,2011-07-16 07:29,2011-07-16 07:43,Amend Request for Quotation
+856,2011-07-16 16:36,2011-07-16 16:51,Analyze Request for Quotation
+856,2011-07-16 17:35,2011-07-16 17:41,Amend Request for Quotation
+856,2011-07-18 07:32,2011-07-18 08:04,Analyze Request for Quotation
+856,2011-07-19 07:46,2011-07-19 08:32,Send Request for Quotation to Supplier
+856,2011-07-19 22:22,2011-07-19 23:23,Create Quotation comparison Map
+856,2011-07-20 06:02,2011-07-20 06:26,Analyze Quotation Comparison Map
+856,2011-07-20 06:26,2011-07-20 06:26,Choose best option
+856,2011-07-20 08:29,2011-07-20 16:30,Settle Conditions With Supplier
+856,2011-07-20 21:54,2011-07-20 22:02,Create Purchase Order
+856,2011-07-22 16:43,2011-07-22 17:05,Confirm Purchase Order
+856,2011-07-24 09:39,2011-07-24 22:01,Deliver Goods Services
+856,2011-07-25 05:44,2011-07-25 05:45,Release Purchase Order
+856,2011-07-27 07:14,2011-07-27 07:15,Approve Purchase Order for payment
+856,2011-08-01 19:52,2011-08-01 19:52,Send Invoice
+856,2011-08-02 10:05,2011-08-02 10:07,Release Supplier's Invoice
+856,2011-08-02 10:07,2011-08-02 10:07,Authorize Supplier's Invoice payment
+856,2011-08-02 10:12,2011-08-02 10:18,Pay Invoice
+858,2011-05-06 17:31,2011-05-06 17:38,Create Purchase Requisition
+858,2011-05-06 20:10,2011-05-06 20:24,Create Request for Quotation
+858,2011-06-06 20:48,2011-06-06 21:12,Analyze Request for Quotation
+858,2011-06-06 22:01,2011-06-06 22:14,Amend Request for Quotation
+858,2011-06-15 02:51,2011-06-15 02:51,Analyze Request for Quotation
+858,2011-06-15 03:36,2011-06-15 03:43,Amend Request for Quotation
+858,2011-06-21 20:26,2011-06-21 20:47,Analyze Request for Quotation
+858,2011-06-21 21:44,2011-06-21 21:57,Amend Request for Quotation
+858,2011-06-28 18:21,2011-06-28 18:49,Analyze Request for Quotation
+858,2011-06-28 19:43,2011-06-28 19:49,Amend Request for Quotation
+858,2011-07-27 20:43,2011-07-27 21:21,Analyze Request for Quotation
+858,2011-07-27 22:07,2011-07-27 22:15,Amend Request for Quotation
+858,2011-07-28 10:00,2011-07-28 10:21,Analyze Request for Quotation
+872,2011-05-09 04:06,2011-05-09 04:20,Create Purchase Requisition
+872,2011-05-09 05:46,2011-05-09 05:54,Create Request for Quotation
+872,2011-05-31 22:23,2011-05-31 22:43,Analyze Request for Quotation
+872,2011-05-31 23:30,2011-05-31 23:40,Amend Request for Quotation
+872,2011-06-03 16:06,2011-06-03 16:36,Analyze Request for Quotation
+872,2011-06-03 17:27,2011-06-03 17:34,Amend Request for Quotation
+872,2011-06-26 12:40,2011-06-26 13:06,Analyze Request for Quotation
+872,2011-06-26 14:00,2011-06-26 14:05,Amend Request for Quotation
+872,2011-06-28 16:09,2011-06-28 16:28,Analyze Request for Quotation
+872,2011-06-28 17:23,2011-06-28 17:34,Amend Request for Quotation
+872,2011-07-07 04:33,2011-07-07 05:03,Analyze Request for Quotation
+872,2011-07-07 05:49,2011-07-07 05:57,Amend Request for Quotation
+872,2011-07-20 09:05,2011-07-20 09:42,Analyze Request for Quotation
+872,2011-07-20 10:30,2011-07-20 10:43,Amend Request for Quotation
+872,2011-07-22 00:37,2011-07-22 00:57,Analyze Request for Quotation
+872,2011-07-22 01:48,2011-07-22 01:55,Amend Request for Quotation
+872,2011-08-02 00:16,2011-08-02 00:45,Analyze Request for Quotation
+872,2011-08-02 21:42,2011-08-02 22:08,Send Request for Quotation to Supplier
+872,2011-08-03 03:15,2011-08-03 07:37,Create Quotation comparison Map
+872,2011-08-03 14:11,2011-08-03 14:34,Analyze Quotation Comparison Map
+872,2011-08-03 14:34,2011-08-03 14:34,Choose best option
+872,2011-08-03 17:35,2011-08-04 01:15,Settle Conditions With Supplier
+872,2011-08-05 20:30,2011-08-05 20:39,Create Purchase Order
+872,2011-08-08 21:06,2011-08-08 21:39,Confirm Purchase Order
+872,2011-08-17 10:48,2011-08-18 02:12,Deliver Goods Services
+872,2011-08-18 10:01,2011-08-18 10:02,Release Purchase Order
+872,2011-08-18 23:12,2011-08-18 23:13,Approve Purchase Order for payment
+872,2011-08-20 04:02,2011-08-20 04:02,Send Invoice
+872,2011-08-20 18:18,2011-08-20 18:21,Release Supplier's Invoice
+872,2011-08-20 18:21,2011-08-20 18:21,Authorize Supplier's Invoice payment
+872,2011-08-20 18:55,2011-08-20 19:01,Pay Invoice
+881,2011-05-10 10:24,2011-05-10 11:01,Create Purchase Requisition
+881,2011-05-10 18:39,2011-05-10 18:51,Create Request for Quotation
+881,2011-06-11 03:38,2011-06-11 03:58,Analyze Request for Quotation
+881,2011-06-11 04:48,2011-06-11 05:03,Amend Request for Quotation
+881,2011-06-14 13:45,2011-06-14 14:07,Analyze Request for Quotation
+881,2011-06-14 14:49,2011-06-14 15:02,Amend Request for Quotation
+881,2011-06-30 23:21,2011-06-30 23:55,Analyze Request for Quotation
+881,2011-07-02 21:12,2011-07-02 21:25,Send Request for Quotation to Supplier
+881,2011-07-02 21:52,2011-07-02 23:35,Create Quotation comparison Map
+881,2011-07-03 06:20,2011-07-03 06:35,Analyze Quotation Comparison Map
+881,2011-07-03 06:35,2011-07-03 06:35,Choose best option
+881,2011-07-03 16:32,2011-07-04 02:51,Settle Conditions With Supplier
+881,2011-07-05 13:43,2011-07-05 13:52,Create Purchase Order
+881,2011-07-24 16:44,2011-07-24 17:03,Confirm Purchase Order
+881,2011-07-25 00:41,2011-07-26 04:38,Deliver Goods Services
+881,2011-07-26 12:38,2011-07-26 12:39,Release Purchase Order
+881,2011-07-27 20:24,2011-07-27 20:25,Approve Purchase Order for payment
+881,2011-07-30 19:06,2011-07-30 19:06,Send Invoice
+881,2011-07-31 09:24,2011-07-31 09:28,Release Supplier's Invoice
+881,2011-07-31 09:49,2011-07-31 10:04,Settle Dispute With Supplier
+881,2011-07-31 10:04,2011-07-31 10:04,Authorize Supplier's Invoice payment
+881,2011-07-31 11:06,2011-07-31 11:20,Pay Invoice
+892,2011-05-11 05:19,2011-05-11 06:08,Create Purchase Requisition
+892,2011-05-12 03:39,2011-05-12 03:46,Analyze Purchase Requisition
+892,2011-05-12 03:52,2011-05-12 03:54,Create Request for Quotation
+892,2011-05-15 07:55,2011-05-15 08:08,Analyze Request for Quotation
+892,2011-05-15 09:05,2011-05-15 09:18,Amend Request for Quotation
+892,2011-06-01 02:09,2011-06-01 02:19,Analyze Request for Quotation
+892,2011-06-01 18:05,2011-06-01 18:21,Amend Request for Quotation
+892,2011-07-20 17:55,2011-07-20 18:19,Analyze Request for Quotation
+892,2011-07-20 19:10,2011-07-20 19:20,Amend Request for Quotation
+892,2011-08-26 18:48,2011-08-26 19:23,Analyze Request for Quotation
+906,2011-05-13 22:17,2011-05-13 22:42,Create Purchase Requisition
+906,2011-05-14 02:47,2011-05-14 02:57,Create Request for Quotation
+906,2011-05-22 09:00,2011-05-22 09:31,Analyze Request for Quotation
+906,2011-05-22 10:21,2011-05-22 10:29,Amend Request for Quotation
+906,2011-06-01 20:42,2011-06-01 21:06,Analyze Request for Quotation
+906,2011-06-01 21:59,2011-06-01 22:05,Amend Request for Quotation
+906,2011-06-04 11:35,2011-06-04 11:59,Analyze Request for Quotation
+906,2011-06-04 12:41,2011-06-04 12:46,Amend Request for Quotation
+906,2011-06-25 08:50,2011-06-25 09:09,Analyze Request for Quotation
+906,2011-06-25 09:53,2011-06-25 10:02,Amend Request for Quotation
+906,2011-07-15 01:30,2011-07-15 01:58,Analyze Request for Quotation
+906,2011-07-15 16:05,2011-07-15 16:33,Send Request for Quotation to Supplier
+906,2011-07-15 23:27,2011-07-16 02:02,Create Quotation comparison Map
+906,2011-07-16 09:07,2011-07-16 09:38,Analyze Quotation Comparison Map
+906,2011-07-16 09:38,2011-07-16 09:38,Choose best option
+906,2011-07-16 12:02,2011-07-16 17:23,Settle Conditions With Supplier
+906,2011-07-16 17:48,2011-07-16 17:58,Create Purchase Order
+906,2011-08-02 23:36,2011-08-02 23:41,Confirm Purchase Order
+906,2011-08-06 09:55,2011-08-06 16:46,Deliver Goods Services
+906,2011-08-07 00:39,2011-08-07 00:40,Release Purchase Order
+906,2011-08-07 07:38,2011-08-07 07:39,Approve Purchase Order for payment
+906,2011-08-09 02:07,2011-08-09 02:07,Send Invoice
+906,2011-08-09 16:31,2011-08-09 16:33,Release Supplier's Invoice
+906,2011-08-09 16:33,2011-08-09 16:33,Authorize Supplier's Invoice payment
+906,2011-08-09 16:52,2011-08-09 16:56,Pay Invoice
+929,2011-05-16 07:41,2011-05-16 08:37,Create Purchase Requisition
+929,2011-05-16 22:48,2011-05-16 22:55,Analyze Purchase Requisition
+929,2011-05-16 23:00,2011-05-16 23:02,Create Request for Quotation
+929,2011-05-21 23:53,2011-05-22 00:25,Analyze Request for Quotation
+929,2011-05-22 01:13,2011-05-22 01:23,Amend Request for Quotation
+929,2011-06-09 21:50,2011-06-09 22:15,Analyze Request for Quotation
+929,2011-06-10 13:59,2011-06-10 14:16,Amend Request for Quotation
+929,2011-06-17 23:10,2011-06-17 23:36,Analyze Request for Quotation
+929,2011-06-18 00:26,2011-06-18 00:34,Amend Request for Quotation
+929,2011-06-21 07:10,2011-06-21 07:18,Analyze Request for Quotation
+929,2011-06-21 08:13,2011-06-21 08:21,Amend Request for Quotation
+929,2011-07-10 13:58,2011-07-10 14:21,Analyze Request for Quotation
+929,2011-07-10 15:17,2011-07-10 15:26,Amend Request for Quotation
+929,2011-07-13 06:48,2011-07-13 07:14,Analyze Request for Quotation
+929,2011-07-13 07:59,2011-07-13 08:04,Amend Request for Quotation
+929,2011-07-27 22:28,2011-07-27 22:51,Analyze Request for Quotation
+929,2011-07-28 08:54,2011-07-28 09:22,Send Request for Quotation to Supplier
+929,2011-07-30 17:44,2011-07-30 20:33,Create Quotation comparison Map
+929,2011-07-31 03:17,2011-07-31 03:42,Analyze Quotation Comparison Map
+929,2011-07-31 03:42,2011-07-31 03:42,Choose best option
+929,2011-08-01 06:16,2011-08-01 19:27,Settle Conditions With Supplier
+929,2011-08-02 01:43,2011-08-02 01:54,Create Purchase Order
+929,2011-08-02 23:55,2011-08-03 00:05,Confirm Purchase Order
+929,2011-08-05 04:40,2011-08-06 09:55,Deliver Goods Services
+929,2011-08-06 17:12,2011-08-06 17:13,Release Purchase Order
+929,2011-08-07 06:30,2011-08-07 06:31,Approve Purchase Order for payment
+929,2011-08-09 02:25,2011-08-09 02:25,Send Invoice
+929,2011-08-09 16:42,2011-08-09 16:48,Release Supplier's Invoice
+929,2011-08-09 16:48,2011-08-09 16:48,Authorize Supplier's Invoice payment
+929,2011-08-09 16:59,2011-08-09 17:03,Pay Invoice
+940,2011-05-17 06:31,2011-05-17 07:08,Create Purchase Requisition
+940,2011-05-17 09:58,2011-05-17 10:06,Create Request for Quotation
+940,2011-05-18 19:30,2011-05-18 19:56,Analyze Request for Quotation
+940,2011-05-18 23:46,2011-05-18 23:59,Send Request for Quotation to Supplier
+940,2011-05-19 03:44,2011-05-19 08:31,Create Quotation comparison Map
+940,2011-05-19 15:38,2011-05-19 15:52,Analyze Quotation Comparison Map
+940,2011-05-19 15:52,2011-05-19 15:52,Choose best option
+940,2011-05-20 23:31,2011-05-21 09:22,Settle Conditions With Supplier
+940,2011-05-21 18:48,2011-05-21 18:59,Create Purchase Order
+940,2011-05-22 11:33,2011-05-22 11:44,Confirm Purchase Order
+940,2011-05-23 05:32,2011-05-24 13:46,Deliver Goods Services
+940,2011-05-24 20:59,2011-05-24 21:00,Release Purchase Order
+940,2011-05-26 07:41,2011-05-26 07:42,Approve Purchase Order for payment
+940,2011-05-28 01:11,2011-05-28 01:11,Send Invoice
+940,2011-05-28 15:28,2011-05-28 15:28,Authorize Supplier's Invoice payment
+940,2011-05-28 16:11,2011-05-28 16:19,Pay Invoice
+949,2011-05-17 22:11,2011-05-17 23:06,Create Purchase Requisition
+949,2011-05-18 15:19,2011-05-18 15:26,Analyze Purchase Requisition
+949,2011-05-18 15:33,2011-05-18 15:34,Create Request for Quotation
+949,2011-06-05 02:58,2011-06-05 03:26,Analyze Request for Quotation
+949,2011-06-05 04:20,2011-06-05 04:29,Amend Request for Quotation
+949,2011-06-21 18:42,2011-06-21 19:00,Analyze Request for Quotation
+949,2011-06-21 19:48,2011-06-21 19:55,Amend Request for Quotation
+949,2011-07-18 10:05,2011-07-18 10:23,Analyze Request for Quotation
+949,2011-07-20 10:25,2011-07-20 10:51,Send Request for Quotation to Supplier
+949,2011-07-20 10:54,2011-07-20 12:28,Create Quotation comparison Map
+949,2011-07-20 19:26,2011-07-20 19:49,Analyze Quotation Comparison Map
+949,2011-07-20 19:49,2011-07-20 19:49,Choose best option
+949,2011-07-21 06:37,2011-07-21 17:38,Settle Conditions With Supplier
+949,2011-07-22 02:37,2011-07-22 02:44,Create Purchase Order
+949,2011-08-03 10:50,2011-08-03 11:13,Confirm Purchase Order
+949,2011-08-11 13:07,2011-08-13 05:57,Deliver Goods Services
+949,2011-08-13 13:32,2011-08-13 13:33,Release Purchase Order
+949,2011-08-13 23:29,2011-08-13 23:30,Approve Purchase Order for payment
+949,2011-08-20 08:39,2011-08-20 08:39,Send Invoice
+949,2011-08-20 22:58,2011-08-20 23:04,Release Supplier's Invoice
+949,2011-08-20 23:41,2011-08-21 00:09,Settle Dispute With Supplier
+949,2011-08-21 00:09,2011-08-21 00:09,Authorize Supplier's Invoice payment
+949,2011-08-21 00:33,2011-08-21 00:43,Pay Invoice
+1009,2011-05-28 08:30,2011-05-28 08:52,Create Purchase Requisition
+1009,2011-05-28 16:05,2011-05-28 16:14,Create Request for Quotation
+1009,2011-05-30 16:31,2011-05-30 16:54,Analyze Request for Quotation
+1009,2011-05-30 17:47,2011-05-30 17:55,Amend Request for Quotation
+1009,2011-05-31 23:45,2011-06-01 00:09,Analyze Request for Quotation
+1009,2011-06-01 01:02,2011-06-01 01:11,Amend Request for Quotation
+1009,2011-06-01 02:19,2011-06-01 02:46,Analyze Request for Quotation
+1009,2011-06-01 03:30,2011-06-01 03:40,Amend Request for Quotation
+1009,2011-06-09 01:58,2011-06-09 02:20,Analyze Request for Quotation
+1009,2011-06-09 18:22,2011-06-09 18:35,Amend Request for Quotation
+1009,2011-08-08 02:49,2011-08-08 03:06,Analyze Request for Quotation
+1009,2011-08-08 12:40,2011-08-08 13:09,Send Request for Quotation to Supplier
+1009,2011-08-08 13:44,2011-08-08 15:05,Create Quotation comparison Map
+1009,2011-08-08 21:56,2011-08-08 22:26,Analyze Quotation Comparison Map
+1009,2011-08-08 22:26,2011-08-08 22:26,Choose best option
+1009,2011-08-09 06:33,2011-08-09 14:47,Settle Conditions With Supplier
+1009,2011-08-10 21:32,2011-08-10 21:40,Create Purchase Order
+1009,2011-08-17 08:27,2011-08-17 08:32,Confirm Purchase Order
+1009,2011-08-23 14:05,2011-08-24 04:57,Deliver Goods Services
+1009,2011-08-24 12:38,2011-08-24 12:39,Release Purchase Order
+1009,2011-08-25 07:36,2011-08-25 07:37,Approve Purchase Order for payment
+1009,2011-08-30 05:40,2011-08-30 05:40,Send Invoice
+1009,2011-08-30 19:46,2011-08-30 19:52,Release Supplier's Invoice
+1009,2011-08-30 19:52,2011-08-30 19:52,Authorize Supplier's Invoice payment
+1009,2011-08-30 20:09,2011-08-30 20:23,Pay Invoice
+1011,2011-05-28 12:20,2011-05-28 12:59,Create Purchase Requisition
+1011,2011-05-28 18:51,2011-05-28 19:04,Create Request for Quotation
+1011,2011-05-29 23:21,2011-05-29 23:35,Analyze Request for Quotation
+1011,2011-05-30 00:24,2011-05-30 00:31,Amend Request for Quotation
+1011,2011-06-01 12:57,2011-06-01 13:16,Analyze Request for Quotation
+1011,2011-06-01 13:57,2011-06-01 14:02,Amend Request for Quotation
+1011,2011-06-18 16:31,2011-06-18 16:56,Analyze Request for Quotation
+1011,2011-06-18 17:49,2011-06-18 17:58,Amend Request for Quotation
+1011,2011-06-21 19:40,2011-06-21 20:08,Analyze Request for Quotation
+1011,2011-06-21 20:56,2011-06-21 21:05,Amend Request for Quotation
+1011,2011-07-08 23:54,2011-07-09 00:05,Analyze Request for Quotation
+1011,2011-07-09 00:58,2011-07-09 01:06,Amend Request for Quotation
+1011,2011-08-18 17:46,2011-08-18 18:10,Analyze Request for Quotation
+1011,2011-08-18 19:00,2011-08-18 19:06,Amend Request for Quotation
+1011,2011-08-22 08:21,2011-08-22 08:52,Analyze Request for Quotation
+1011,2011-08-22 15:46,2011-08-22 16:15,Send Request for Quotation to Supplier
+1011,2011-08-22 16:55,2011-08-22 21:06,Create Quotation comparison Map
+1011,2011-08-23 03:55,2011-08-23 04:08,Analyze Quotation Comparison Map
+1011,2011-08-23 04:08,2011-08-23 04:08,Choose best option
+1011,2011-08-23 08:52,2011-08-23 23:25,Settle Conditions With Supplier
+1011,2011-08-24 01:25,2011-08-24 01:32,Create Purchase Order
+1011,2011-08-27 05:53,2011-08-27 06:00,Confirm Purchase Order
+1011,2011-08-27 19:34,2011-08-29 18:00,Deliver Goods Services
+1011,2011-08-30 01:27,2011-08-30 01:28,Release Purchase Order
+1011,2011-09-01 01:09,2011-09-01 01:10,Approve Purchase Order for payment
+1011,2011-09-03 05:14,2011-09-03 05:14,Send Invoice
+1011,2011-09-03 19:35,2011-09-03 19:38,Release Supplier's Invoice
+1011,2011-09-03 19:38,2011-09-03 19:38,Authorize Supplier's Invoice payment
+1011,2011-09-03 20:04,2011-09-03 20:13,Pay Invoice
+1025,2011-05-29 12:04,2011-05-29 12:25,Create Purchase Requisition
+1025,2011-05-30 00:25,2011-05-30 00:30,Analyze Purchase Requisition
+1025,2011-05-30 00:37,2011-05-30 00:39,Create Request for Quotation
+1025,2011-06-27 07:24,2011-06-27 07:52,Analyze Request for Quotation
+1025,2011-06-27 08:41,2011-06-27 08:46,Amend Request for Quotation
+1025,2011-07-09 22:08,2011-07-09 22:31,Analyze Request for Quotation
+1025,2011-07-09 23:20,2011-07-09 23:33,Amend Request for Quotation
+1025,2011-08-14 07:24,2011-08-14 07:31,Analyze Request for Quotation
+1025,2011-08-14 08:17,2011-08-14 08:23,Amend Request for Quotation
+1025,2011-08-16 13:18,2011-08-16 13:26,Analyze Request for Quotation
+1025,2011-08-16 14:14,2011-08-16 14:24,Amend Request for Quotation
+1025,2011-09-13 07:24,2011-09-13 07:49,Analyze Request for Quotation
+1033,2011-05-31 05:38,2011-05-31 06:05,Create Purchase Requisition
+1033,2011-05-31 09:16,2011-05-31 09:27,Create Request for Quotation
+1033,2011-06-14 12:26,2011-06-14 12:37,Analyze Request for Quotation
+1033,2011-06-14 13:28,2011-06-14 13:41,Amend Request for Quotation
+1033,2011-07-28 01:37,2011-07-28 01:52,Analyze Request for Quotation
+1033,2011-07-28 08:36,2011-07-28 08:54,Send Request for Quotation to Supplier
+1033,2011-07-28 09:18,2011-07-28 10:00,Create Quotation comparison Map
+1033,2011-07-28 16:56,2011-07-28 17:07,Analyze Quotation Comparison Map
+1033,2011-07-28 17:07,2011-07-28 17:07,Choose best option
+1033,2011-07-28 23:58,2011-07-29 07:29,Settle Conditions With Supplier
+1033,2011-07-29 15:34,2011-07-29 15:46,Create Purchase Order
+1033,2011-08-03 00:38,2011-08-03 00:44,Confirm Purchase Order
+1033,2011-08-06 16:46,2011-08-08 12:11,Deliver Goods Services
+1033,2011-08-08 19:35,2011-08-08 19:36,Release Purchase Order
+1033,2011-08-10 06:22,2011-08-10 06:23,Approve Purchase Order for payment
+1033,2011-08-15 15:19,2011-08-15 15:19,Send Invoice
+1033,2011-08-16 05:31,2011-08-16 05:36,Release Supplier's Invoice
+1033,2011-08-16 05:47,2011-08-16 06:04,Settle Dispute With Supplier
+1033,2011-08-16 06:04,2011-08-16 06:04,Authorize Supplier's Invoice payment
+1033,2011-08-16 06:30,2011-08-16 06:40,Pay Invoice
+1042,2011-06-01 17:03,2011-06-01 17:37,Create Purchase Requisition
+1042,2011-06-02 10:20,2011-06-02 10:28,Analyze Purchase Requisition
+1042,2011-06-02 10:33,2011-06-02 10:34,Create Request for Quotation
+1042,2011-06-05 01:52,2011-06-05 02:05,Analyze Request for Quotation
+1042,2011-06-05 02:55,2011-06-05 03:01,Amend Request for Quotation
+1042,2011-06-09 22:09,2011-06-09 22:29,Analyze Request for Quotation
+1042,2011-06-09 23:27,2011-06-09 23:34,Amend Request for Quotation
+1042,2011-06-14 10:43,2011-06-14 11:18,Analyze Request for Quotation
+1042,2011-06-14 12:04,2011-06-14 12:12,Amend Request for Quotation
+1042,2011-06-21 20:58,2011-06-21 21:18,Analyze Request for Quotation
+1042,2011-06-21 22:06,2011-06-21 22:16,Amend Request for Quotation
+1042,2011-08-05 11:57,2011-08-05 12:23,Analyze Request for Quotation
+1042,2011-08-05 20:51,2011-08-05 20:57,Send Request for Quotation to Supplier
+1042,2011-08-05 22:13,2011-08-06 01:26,Create Quotation comparison Map
+1042,2011-08-06 07:53,2011-08-06 08:25,Analyze Quotation Comparison Map
+1042,2011-08-06 08:25,2011-08-06 08:25,Choose best option
+1042,2011-08-06 22:47,2011-08-07 12:32,Settle Conditions With Supplier
+1042,2011-08-07 14:07,2011-08-07 14:16,Create Purchase Order
+1042,2011-08-18 12:14,2011-08-18 12:42,Confirm Purchase Order
+1042,2011-08-25 22:31,2011-08-27 18:27,Deliver Goods Services
+1042,2011-08-28 02:21,2011-08-28 02:22,Release Purchase Order
+1042,2011-08-28 07:53,2011-08-28 07:54,Approve Purchase Order for payment
+1042,2011-09-01 05:07,2011-09-01 05:07,Send Invoice
+1042,2011-09-01 19:28,2011-09-01 19:32,Release Supplier's Invoice
+1042,2011-09-01 20:26,2011-09-01 20:39,Settle Dispute With Supplier
+1042,2011-09-01 20:39,2011-09-01 20:39,Authorize Supplier's Invoice payment
+1042,2011-09-01 21:31,2011-09-01 21:46,Pay Invoice
+1044,2011-06-02 04:45,2011-06-02 04:53,Create Purchase Requisition
+1044,2011-06-02 10:27,2011-06-02 10:37,Create Request for Quotation
+1044,2011-07-06 08:41,2011-07-06 08:48,Analyze Request for Quotation
+1044,2011-07-06 09:38,2011-07-06 09:51,Amend Request for Quotation
+1044,2011-07-22 05:56,2011-07-22 06:08,Analyze Request for Quotation
+1044,2011-07-23 19:13,2011-07-23 19:32,Send Request for Quotation to Supplier
+1044,2011-07-24 08:11,2011-07-24 12:47,Create Quotation comparison Map
+1044,2011-07-24 19:58,2011-07-24 20:26,Analyze Quotation Comparison Map
+1044,2011-07-24 20:26,2011-07-24 20:26,Choose best option
+1044,2011-07-25 06:23,2011-07-25 18:34,Settle Conditions With Supplier
+1044,2011-07-26 09:46,2011-07-26 09:57,Create Purchase Order
+1044,2011-08-02 22:13,2011-08-02 22:30,Confirm Purchase Order
+1044,2011-08-31 16:19,2011-09-01 13:15,Deliver Goods Services
+1044,2011-09-01 20:54,2011-09-01 20:55,Release Purchase Order
+1044,2011-09-02 01:26,2011-09-02 01:27,Approve Purchase Order for payment
+1044,2011-09-11 06:05,2011-09-11 06:05,Send Invoice
+1044,2011-09-11 20:23,2011-09-11 20:26,Release Supplier's Invoice
+1044,2011-09-11 21:04,2011-09-11 21:35,Settle Dispute With Supplier
+1044,2011-09-11 21:35,2011-09-11 21:35,Authorize Supplier's Invoice payment
+1044,2011-09-11 22:37,2011-09-11 22:46,Pay Invoice
+1052,2011-06-03 11:08,2011-06-03 11:14,Create Purchase Requisition
+1052,2011-06-03 12:48,2011-06-03 13:00,Create Request for Quotation
+1052,2011-07-10 06:40,2011-07-10 06:54,Analyze Request for Quotation
+1052,2011-07-10 07:47,2011-07-10 07:55,Amend Request for Quotation
+1052,2011-07-16 06:38,2011-07-16 07:15,Analyze Request for Quotation
+1052,2011-07-16 08:07,2011-07-16 08:19,Amend Request for Quotation
+1052,2011-07-22 05:43,2011-07-22 05:49,Analyze Request for Quotation
+1052,2011-07-22 06:36,2011-07-22 06:43,Amend Request for Quotation
+1052,2011-07-30 09:32,2011-07-30 10:03,Analyze Request for Quotation
+1052,2011-07-30 10:55,2011-07-30 11:02,Amend Request for Quotation
+1052,2011-08-01 05:05,2011-08-01 05:19,Analyze Request for Quotation
+1052,2011-08-01 21:46,2011-08-01 21:49,Send Request for Quotation to Supplier
+1052,2011-08-01 23:14,2011-08-02 01:56,Create Quotation comparison Map
+1052,2011-08-02 08:19,2011-08-02 08:52,Analyze Quotation Comparison Map
+1052,2011-08-02 08:52,2011-08-02 08:52,Choose best option
+1052,2011-08-02 11:13,2011-08-02 19:46,Settle Conditions With Supplier
+1052,2011-08-02 21:10,2011-08-02 21:23,Create Purchase Order
+1052,2011-08-03 01:31,2011-08-03 01:47,Confirm Purchase Order
+1052,2011-08-18 02:32,2011-08-20 02:22,Deliver Goods Services
+1052,2011-08-20 09:34,2011-08-20 09:35,Release Purchase Order
+1052,2011-08-21 15:46,2011-08-21 15:47,Approve Purchase Order for payment
+1052,2011-08-22 08:30,2011-08-22 08:30,Send Invoice
+1052,2011-08-22 22:57,2011-08-22 23:03,Release Supplier's Invoice
+1052,2011-08-22 23:50,2011-08-23 00:19,Settle Dispute With Supplier
+1052,2011-08-23 00:19,2011-08-23 00:19,Authorize Supplier's Invoice payment
+1052,2011-08-23 01:01,2011-08-23 01:12,Pay Invoice
+1068,2011-06-04 15:17,2011-06-04 15:34,Create Purchase Requisition
+1068,2011-06-04 19:35,2011-06-04 19:45,Create Request for Quotation
+1068,2011-07-18 08:40,2011-07-18 08:51,Analyze Request for Quotation
+1068,2011-07-18 09:37,2011-07-18 09:43,Amend Request for Quotation
+1068,2011-07-22 03:06,2011-07-22 03:43,Analyze Request for Quotation
+1068,2011-07-22 19:40,2011-07-22 19:58,Amend Request for Quotation
+1068,2011-08-02 03:35,2011-08-02 03:51,Analyze Request for Quotation
+1068,2011-08-04 07:06,2011-08-04 07:33,Send Request for Quotation to Supplier
+1068,2011-08-04 09:06,2011-08-04 14:01,Create Quotation comparison Map
+1068,2011-08-04 20:08,2011-08-04 20:17,Analyze Quotation Comparison Map
+1068,2011-08-04 20:17,2011-08-04 20:17,Choose best option
+1068,2011-08-05 04:50,2011-08-05 11:06,Settle Conditions With Supplier
+1068,2011-08-05 19:28,2011-08-05 19:37,Create Purchase Order
+1068,2011-08-06 20:09,2011-08-06 20:28,Confirm Purchase Order
+1068,2011-08-12 18:23,2011-08-14 10:39,Deliver Goods Services
+1068,2011-08-14 18:19,2011-08-14 18:20,Release Purchase Order
+1068,2011-08-15 04:14,2011-08-15 04:15,Approve Purchase Order for payment
+1068,2011-08-26 00:11,2011-08-26 00:11,Send Invoice
+1068,2011-08-26 14:32,2011-08-26 14:38,Release Supplier's Invoice
+1068,2011-08-26 15:15,2011-08-26 15:34,Settle Dispute With Supplier
+1068,2011-08-26 15:34,2011-08-26 15:34,Authorize Supplier's Invoice payment
+1068,2011-08-26 16:27,2011-08-26 16:34,Pay Invoice
+1116,2011-06-10 22:05,2011-06-10 22:26,Create Purchase Requisition
+1116,2011-06-11 01:46,2011-06-11 01:55,Create Request for Quotation
+1116,2011-06-14 23:31,2011-06-14 23:48,Analyze Request for Quotation
+1116,2011-06-15 00:40,2011-06-15 00:48,Amend Request for Quotation
+1116,2011-06-27 02:24,2011-06-27 02:31,Analyze Request for Quotation
+1116,2011-06-27 03:20,2011-06-27 03:33,Amend Request for Quotation
+1116,2011-08-02 15:49,2011-08-02 16:11,Analyze Request for Quotation
+1116,2011-08-02 16:55,2011-08-02 17:02,Amend Request for Quotation
+1116,2011-08-14 08:51,2011-08-14 09:28,Analyze Request for Quotation
+1116,2011-08-14 23:45,2011-08-15 00:15,Send Request for Quotation to Supplier
+1116,2011-08-15 02:23,2011-08-15 06:32,Create Quotation comparison Map
+1116,2011-08-15 13:19,2011-08-15 13:35,Analyze Quotation Comparison Map
+1116,2011-08-15 13:35,2011-08-15 13:35,Choose best option
+1116,2011-08-17 08:40,2011-08-17 19:57,Settle Conditions With Supplier
+1116,2011-08-17 23:37,2011-08-17 23:50,Create Purchase Order
+1116,2011-08-18 12:05,2011-08-18 12:14,Confirm Purchase Order
+1116,2011-09-03 07:11,2011-09-03 10:23,Deliver Goods Services
+1116,2011-09-03 18:22,2011-09-03 18:23,Release Purchase Order
+1116,2011-09-03 21:51,2011-09-03 21:52,Approve Purchase Order for payment
+1116,2011-09-12 13:53,2011-09-12 13:53,Send Invoice
+1116,2011-09-13 04:25,2011-09-13 04:31,Release Supplier's Invoice
+1116,2011-09-13 05:02,2011-09-13 05:17,Settle Dispute With Supplier
+1116,2011-09-13 05:17,2011-09-13 05:17,Authorize Supplier's Invoice payment
+1116,2011-09-13 06:22,2011-09-13 06:27,Pay Invoice
+1160,2011-06-18 05:48,2011-06-18 06:13,Create Purchase Requisition
+1160,2011-06-19 03:55,2011-06-19 04:01,Analyze Purchase Requisition
+1160,2011-06-19 04:08,2011-06-19 04:11,Create Request for Quotation
+1160,2011-06-21 23:18,2011-06-21 23:40,Analyze Request for Quotation
+1160,2011-06-22 00:33,2011-06-22 00:40,Amend Request for Quotation
+1160,2011-06-22 03:40,2011-06-22 03:58,Analyze Request for Quotation
+1160,2011-06-22 04:52,2011-06-22 05:07,Amend Request for Quotation
+1160,2011-07-05 13:06,2011-07-05 13:30,Analyze Request for Quotation
+1160,2011-07-05 14:17,2011-07-05 14:31,Amend Request for Quotation
+1160,2011-08-08 12:10,2011-08-08 12:40,Analyze Request for Quotation
+1160,2011-08-08 13:34,2011-08-08 13:46,Amend Request for Quotation
+1160,2011-08-23 06:22,2011-08-23 06:53,Analyze Request for Quotation
+1160,2011-08-23 07:39,2011-08-23 07:52,Amend Request for Quotation
+1160,2011-09-07 19:23,2011-09-07 19:53,Analyze Request for Quotation
+1160,2011-09-08 08:46,2011-09-08 09:11,Send Request for Quotation to Supplier
+1160,2011-09-08 13:55,2011-09-08 16:01,Create Quotation comparison Map
+1160,2011-09-08 22:44,2011-09-08 23:01,Analyze Quotation Comparison Map
+1160,2011-09-08 23:01,2011-09-08 23:01,Choose best option
+1160,2011-09-10 00:11,2011-09-10 08:34,Settle Conditions With Supplier
+1160,2011-09-10 10:57,2011-09-10 11:09,Create Purchase Order
+1160,2011-09-13 09:43,2011-09-13 10:01,Confirm Purchase Order
+1160,2011-09-28 19:42,2011-09-29 00:38,Deliver Goods Services
+1160,2011-09-29 08:45,2011-09-29 08:46,Release Purchase Order
+1160,2011-09-29 15:00,2011-09-29 15:01,Approve Purchase Order for payment
+1160,2011-10-03 06:30,2011-10-03 06:30,Send Invoice
+1160,2011-10-03 20:49,2011-10-03 20:55,Release Supplier's Invoice
+1160,2011-10-03 21:03,2011-10-03 21:33,Settle Dispute With Supplier
+1160,2011-10-03 21:33,2011-10-03 21:33,Authorize Supplier's Invoice payment
+1160,2011-10-03 22:32,2011-10-03 22:38,Pay Invoice
+1178,2011-06-20 04:32,2011-06-20 05:22,Create Purchase Requisition
+1178,2011-06-21 02:15,2011-06-21 02:21,Analyze Purchase Requisition
+1178,2011-06-21 02:27,2011-06-21 02:29,Create Request for Quotation
+1178,2011-06-21 19:30,2011-06-21 20:03,Analyze Request for Quotation
+1178,2011-06-21 20:55,2011-06-21 21:02,Amend Request for Quotation
+1178,2011-07-15 07:22,2011-07-15 07:56,Analyze Request for Quotation
+1178,2011-07-15 08:45,2011-07-15 08:55,Amend Request for Quotation
+1178,2011-08-14 12:41,2011-08-14 13:00,Analyze Request for Quotation
+1178,2011-08-14 13:57,2011-08-14 14:04,Amend Request for Quotation
+1178,2011-08-15 07:32,2011-08-15 07:52,Analyze Request for Quotation
+1178,2011-08-15 08:49,2011-08-15 08:56,Amend Request for Quotation
+1178,2011-09-10 22:12,2011-09-10 22:36,Analyze Request for Quotation
+1178,2011-09-11 04:01,2011-09-11 04:28,Send Request for Quotation to Supplier
+1178,2011-09-11 19:10,2011-09-11 22:17,Create Quotation comparison Map
+1178,2011-09-12 04:39,2011-09-12 04:47,Analyze Quotation Comparison Map
+1178,2011-09-12 04:47,2011-09-12 04:47,Choose best option
+1178,2011-09-12 07:21,2011-09-12 21:01,Settle Conditions With Supplier
+1178,2011-09-14 01:27,2011-09-14 01:36,Create Purchase Order
+1178,2011-09-14 19:55,2011-09-14 20:27,Confirm Purchase Order
+1178,2011-09-25 00:56,2011-09-25 11:41,Deliver Goods Services
+1178,2011-09-25 18:50,2011-09-25 18:51,Release Purchase Order
+1178,2011-09-26 01:02,2011-09-26 10:23,Settle Dispute With Supplier
+1178,2011-09-26 17:47,2011-09-26 17:48,Release Purchase Order
+1178,2011-09-26 22:29,2011-09-26 22:30,Approve Purchase Order for payment
+1178,2011-09-28 08:40,2011-09-28 08:40,Send Invoice
+1178,2011-09-28 23:10,2011-09-28 23:14,Release Supplier's Invoice
+1178,2011-09-28 23:14,2011-09-28 23:14,Authorize Supplier's Invoice payment
+1178,2011-09-28 23:37,2011-09-28 23:46,Pay Invoice
+1192,2011-06-21 14:56,2011-06-21 15:26,Create Purchase Requisition
+1192,2011-06-22 11:14,2011-06-22 11:18,Analyze Purchase Requisition
+1192,2011-06-22 23:01,2011-06-22 23:25,Amend Purchase Requisition
+1192,2011-06-23 23:46,2011-06-23 23:54,Analyze Purchase Requisition
+1198,2011-06-22 00:53,2011-06-22 01:02,Create Purchase Requisition
+1198,2011-06-22 07:40,2011-06-22 07:51,Create Request for Quotation
+1198,2011-07-27 04:21,2011-07-27 04:48,Analyze Request for Quotation
+1198,2011-07-27 05:35,2011-07-27 05:49,Amend Request for Quotation
+1198,2011-07-27 23:06,2011-07-27 23:29,Analyze Request for Quotation
+1198,2011-07-28 00:11,2011-07-28 00:25,Amend Request for Quotation
+1198,2011-07-29 21:53,2011-07-29 22:14,Analyze Request for Quotation
+1198,2011-07-29 22:59,2011-07-29 23:07,Amend Request for Quotation
+1198,2011-08-23 05:36,2011-08-23 05:55,Analyze Request for Quotation
+1198,2011-08-23 19:33,2011-08-23 19:44,Send Request for Quotation to Supplier
+1198,2011-08-23 20:48,2011-08-24 00:58,Create Quotation comparison Map
+1198,2011-08-24 07:07,2011-08-24 07:27,Analyze Quotation Comparison Map
+1198,2011-08-24 07:27,2011-08-24 07:27,Choose best option
+1198,2011-08-25 01:40,2011-08-25 12:51,Settle Conditions With Supplier
+1198,2011-08-26 22:14,2011-08-26 22:23,Create Purchase Order
+1198,2011-09-01 05:07,2011-09-01 05:40,Confirm Purchase Order
+1198,2011-09-12 11:35,2011-09-13 17:12,Deliver Goods Services
+1198,2011-09-14 00:47,2011-09-14 00:48,Release Purchase Order
+1198,2011-09-14 14:22,2011-09-14 14:23,Approve Purchase Order for payment
+1198,2011-09-15 02:09,2011-09-15 02:09,Send Invoice
+1198,2011-09-15 16:38,2011-09-15 16:41,Release Supplier's Invoice
+1198,2011-09-15 17:11,2011-09-15 17:43,Settle Dispute With Supplier
+1198,2011-09-15 17:43,2011-09-15 17:43,Authorize Supplier's Invoice payment
+1198,2011-09-15 18:42,2011-09-15 18:57,Pay Invoice
+1220,2011-06-25 03:56,2011-06-25 04:36,Create Purchase Requisition
+1220,2011-06-25 08:58,2011-06-25 09:13,Create Request for Quotation
+1220,2011-06-28 16:48,2011-06-28 17:15,Analyze Request for Quotation
+1220,2011-06-28 18:00,2011-06-28 18:06,Amend Request for Quotation
+1220,2011-07-11 03:31,2011-07-11 03:46,Analyze Request for Quotation
+1220,2011-07-11 04:30,2011-07-11 04:43,Amend Request for Quotation
+1220,2011-07-13 16:54,2011-07-13 17:22,Analyze Request for Quotation
+1220,2011-07-14 09:14,2011-07-14 09:30,Amend Request for Quotation
+1220,2011-08-14 10:42,2011-08-14 11:24,Analyze Request for Quotation
+1220,2011-08-14 12:17,2011-08-14 12:24,Amend Request for Quotation
+1220,2011-09-07 14:00,2011-09-07 14:13,Analyze Request for Quotation
+1220,2011-09-08 06:18,2011-09-08 06:43,Amend Request for Quotation
+1220,2011-09-10 09:10,2011-09-10 09:36,Analyze Request for Quotation
+1220,2011-09-10 12:06,2011-09-10 12:25,Send Request for Quotation to Supplier
+1220,2011-09-10 13:02,2011-09-10 17:05,Create Quotation comparison Map
+1220,2011-09-10 23:57,2011-09-11 00:31,Analyze Quotation Comparison Map
+1220,2011-09-11 00:31,2011-09-11 00:31,Choose best option
+1220,2011-09-11 03:29,2011-09-11 17:55,Settle Conditions With Supplier
+1220,2011-09-11 21:07,2011-09-11 21:17,Create Purchase Order
+1220,2011-09-16 02:54,2011-09-16 03:04,Confirm Purchase Order
+1220,2011-09-18 23:35,2011-09-19 21:57,Deliver Goods Services
+1220,2011-09-20 05:36,2011-09-20 05:37,Release Purchase Order
+1220,2011-09-21 02:09,2011-09-21 02:10,Approve Purchase Order for payment
+1220,2011-09-26 10:10,2011-09-26 10:10,Send Invoice
+1220,2011-09-27 00:22,2011-09-27 00:27,Release Supplier's Invoice
+1220,2011-09-27 00:27,2011-09-27 00:27,Authorize Supplier's Invoice payment
+1220,2011-09-27 00:52,2011-09-27 01:04,Pay Invoice
+1300,2011-07-06 10:52,2011-07-06 11:29,Create Purchase Requisition
+1300,2011-07-06 14:04,2011-07-06 14:18,Create Request for Quotation
+1300,2011-07-24 07:28,2011-07-24 07:53,Analyze Request for Quotation
+1300,2011-07-24 08:47,2011-07-24 08:55,Amend Request for Quotation
+1300,2011-08-08 03:50,2011-08-08 04:06,Analyze Request for Quotation
+1300,2011-08-08 05:02,2011-08-08 05:09,Amend Request for Quotation
+1300,2011-08-20 11:11,2011-08-20 11:39,Analyze Request for Quotation
+1300,2011-08-20 12:20,2011-08-20 12:30,Amend Request for Quotation
+1300,2011-09-24 13:57,2011-09-24 14:23,Analyze Request for Quotation
+1308,2011-07-07 06:33,2011-07-07 07:20,Create Purchase Requisition
+1308,2011-07-07 15:30,2011-07-07 15:39,Create Request for Quotation
+1308,2011-07-22 21:14,2011-07-22 21:41,Analyze Request for Quotation
+1308,2011-07-22 22:31,2011-07-22 22:46,Amend Request for Quotation
+1308,2011-08-02 02:39,2011-08-02 02:54,Analyze Request for Quotation
+1308,2011-08-02 18:55,2011-08-02 19:12,Amend Request for Quotation
+1308,2011-08-14 10:26,2011-08-14 10:50,Analyze Request for Quotation
+1308,2011-08-14 11:37,2011-08-14 11:43,Amend Request for Quotation
+1308,2011-08-20 05:00,2011-08-20 05:20,Analyze Request for Quotation
+1308,2011-08-20 06:06,2011-08-20 06:15,Amend Request for Quotation
+1308,2011-08-28 10:01,2011-08-28 10:34,Analyze Request for Quotation
+1308,2011-08-28 11:25,2011-08-28 11:32,Amend Request for Quotation
+1308,2011-09-04 00:27,2011-09-04 00:40,Analyze Request for Quotation
+1308,2011-09-04 13:35,2011-09-04 13:56,Send Request for Quotation to Supplier
+1308,2011-09-04 18:15,2011-09-04 22:35,Create Quotation comparison Map
+1308,2011-09-05 04:51,2011-09-05 05:25,Analyze Quotation Comparison Map
+1308,2011-09-05 05:25,2011-09-05 05:25,Choose best option
+1308,2011-09-05 14:39,2011-09-06 04:32,Settle Conditions With Supplier
+1308,2011-09-06 16:12,2011-09-06 16:23,Create Purchase Order
+1308,2011-09-12 13:45,2011-09-12 13:53,Confirm Purchase Order
+1308,2011-09-26 12:35,2011-09-28 08:40,Deliver Goods Services
+1308,2011-09-28 15:26,2011-09-28 15:27,Release Purchase Order
+1308,2011-09-29 09:25,2011-09-29 09:26,Approve Purchase Order for payment
+1308,2011-10-01 01:34,2011-10-01 01:34,Send Invoice
+1308,2011-10-01 15:47,2011-10-01 15:51,Release Supplier's Invoice
+1308,2011-10-01 15:51,2011-10-01 15:51,Authorize Supplier's Invoice payment
+1308,2011-10-01 16:32,2011-10-01 16:44,Pay Invoice
+1337,2011-07-13 00:08,2011-07-13 00:18,Create Purchase Requisition
+1337,2011-07-13 23:31,2011-07-13 23:37,Analyze Purchase Requisition
+1337,2011-07-14 11:27,2011-07-14 11:56,Amend Purchase Requisition
+1337,2011-07-14 21:50,2011-07-14 21:56,Analyze Purchase Requisition
+1337,2011-07-14 22:00,2011-07-14 22:02,Create Request for Quotation
+1337,2011-07-22 03:11,2011-07-22 03:34,Analyze Request for Quotation
+1337,2011-07-22 04:26,2011-07-22 04:36,Amend Request for Quotation
+1337,2011-07-29 08:07,2011-07-29 08:31,Analyze Request for Quotation
+1361,2011-07-15 04:32,2011-07-15 05:10,Create Purchase Requisition
+1361,2011-07-15 05:52,2011-07-15 06:03,Create Request for Quotation
+1361,2011-08-20 11:09,2011-08-20 11:31,Analyze Request for Quotation
+1361,2011-08-20 12:20,2011-08-20 12:34,Amend Request for Quotation
+1361,2011-08-21 22:35,2011-08-21 22:55,Analyze Request for Quotation
+1361,2011-08-21 23:41,2011-08-21 23:48,Amend Request for Quotation
+1361,2011-09-21 09:46,2011-09-21 10:06,Analyze Request for Quotation
+1361,2011-09-22 00:59,2011-09-22 01:25,Send Request for Quotation to Supplier
+1361,2011-09-22 05:44,2011-09-22 10:47,Create Quotation comparison Map
+1361,2011-09-22 17:14,2011-09-22 17:35,Analyze Quotation Comparison Map
+1361,2011-09-22 17:35,2011-09-22 17:35,Choose best option
+1361,2011-09-22 21:37,2011-09-23 04:11,Settle Conditions With Supplier
+1361,2011-09-23 05:05,2011-09-23 05:13,Create Purchase Order
+1361,2011-10-03 21:51,2011-10-03 22:06,Confirm Purchase Order
+1361,2011-10-08 06:37,2011-10-09 07:34,Deliver Goods Services
+1361,2011-10-09 14:51,2011-10-09 14:52,Release Purchase Order
+1361,2011-10-09 23:05,2011-10-09 23:06,Approve Purchase Order for payment
+1361,2011-10-11 03:46,2011-10-11 03:46,Send Invoice
+1361,2011-10-11 18:03,2011-10-11 18:05,Release Supplier's Invoice
+1361,2011-10-11 18:17,2011-10-11 18:37,Settle Dispute With Supplier
+1361,2011-10-11 18:37,2011-10-11 18:37,Authorize Supplier's Invoice payment
+1361,2011-10-11 19:15,2011-10-11 19:29,Pay Invoice
+1375,2011-07-17 18:46,2011-07-17 19:05,Create Purchase Requisition
+1375,2011-07-18 02:13,2011-07-18 02:21,Create Request for Quotation
+1375,2011-07-22 02:02,2011-07-22 02:29,Analyze Request for Quotation
+1375,2011-07-22 03:21,2011-07-22 03:35,Amend Request for Quotation
+1375,2011-07-22 07:23,2011-07-22 07:48,Analyze Request for Quotation
+1375,2011-07-22 08:34,2011-07-22 08:41,Amend Request for Quotation
+1375,2011-08-14 06:43,2011-08-14 06:59,Analyze Request for Quotation
+1375,2011-08-14 07:53,2011-08-14 08:05,Amend Request for Quotation
+1375,2011-09-04 23:50,2011-09-05 00:18,Analyze Request for Quotation
+1375,2011-09-05 15:53,2011-09-05 16:15,Send Request for Quotation to Supplier
+1375,2011-09-05 17:49,2011-09-05 19:06,Create Quotation comparison Map
+1375,2011-09-06 01:57,2011-09-06 02:29,Analyze Quotation Comparison Map
+1375,2011-09-06 02:29,2011-09-06 02:29,Choose best option
+1375,2011-09-06 07:13,2011-09-06 15:27,Settle Conditions With Supplier
+1375,2011-09-06 20:24,2011-09-06 20:32,Create Purchase Order
+1375,2011-09-09 01:51,2011-09-09 02:25,Confirm Purchase Order
+1375,2011-09-16 04:25,2011-09-18 00:54,Deliver Goods Services
+1375,2011-09-18 08:48,2011-09-18 08:49,Release Purchase Order
+1375,2011-09-18 15:07,2011-09-19 00:10,Settle Dispute With Supplier
+1375,2011-09-19 07:57,2011-09-19 07:58,Release Purchase Order
+1375,2011-09-19 20:08,2011-09-19 20:09,Approve Purchase Order for payment
+1375,2011-10-01 02:49,2011-10-01 02:49,Send Invoice
+1375,2011-10-01 17:13,2011-10-01 17:18,Release Supplier's Invoice
+1375,2011-10-01 17:18,2011-10-01 17:18,Authorize Supplier's Invoice payment
+1375,2011-10-01 18:09,2011-10-01 18:20,Pay Invoice
+1388,2011-07-19 17:59,2011-07-19 18:48,Create Purchase Requisition
+1388,2011-07-20 15:25,2011-07-20 15:31,Analyze Purchase Requisition
+1388,2011-07-20 15:37,2011-07-20 15:38,Create Request for Quotation
+1388,2011-08-28 00:20,2011-08-28 00:43,Analyze Request for Quotation
+1388,2011-08-28 16:40,2011-08-28 16:54,Amend Request for Quotation
+1388,2011-09-08 09:11,2011-09-08 09:49,Analyze Request for Quotation
+1388,2011-09-09 03:42,2011-09-09 04:03,Send Request for Quotation to Supplier
+1388,2011-09-09 08:51,2011-09-09 14:08,Create Quotation comparison Map
+1388,2011-09-09 20:36,2011-09-09 21:04,Analyze Quotation Comparison Map
+1388,2011-09-09 21:04,2011-09-09 21:04,Choose best option
+1388,2011-09-10 04:24,2011-09-10 10:09,Settle Conditions With Supplier
+1388,2011-09-10 12:25,2011-09-10 12:32,Create Purchase Order
+1388,2011-09-11 19:01,2011-09-11 19:08,Confirm Purchase Order
+1388,2011-09-23 14:52,2011-09-24 23:48,Deliver Goods Services
+1388,2011-09-25 07:16,2011-09-25 07:17,Release Purchase Order
+1388,2011-09-25 16:15,2011-09-26 01:12,Settle Dispute With Supplier
+1388,2011-09-26 08:27,2011-09-26 08:28,Release Purchase Order
+1388,2011-09-26 14:23,2011-09-26 14:24,Approve Purchase Order for payment
+1388,2011-10-07 11:37,2011-10-07 11:37,Send Invoice
+1388,2011-10-08 01:58,2011-10-08 02:03,Release Supplier's Invoice
+1388,2011-10-08 02:03,2011-10-08 02:03,Authorize Supplier's Invoice payment
+1388,2011-10-08 02:07,2011-10-08 02:15,Pay Invoice
+1448,2011-07-28 07:24,2011-07-28 08:14,Create Purchase Requisition
+1448,2011-07-28 08:55,2011-07-28 09:04,Create Request for Quotation
+1448,2011-08-06 20:52,2011-08-06 21:21,Analyze Request for Quotation
+1448,2011-08-06 22:07,2011-08-06 22:20,Amend Request for Quotation
+1448,2011-08-08 16:33,2011-08-08 16:52,Analyze Request for Quotation
+1448,2011-08-08 17:38,2011-08-08 17:46,Amend Request for Quotation
+1448,2011-09-12 00:36,2011-09-12 01:01,Analyze Request for Quotation
+1448,2011-09-12 21:01,2011-09-12 21:14,Send Request for Quotation to Supplier
+1448,2011-09-14 05:53,2011-09-14 11:46,Create Quotation comparison Map
+1448,2011-09-14 18:40,2011-09-14 19:01,Analyze Quotation Comparison Map
+1448,2011-09-14 19:01,2011-09-14 19:01,Choose best option
+1448,2011-09-14 23:13,2011-09-15 04:27,Settle Conditions With Supplier
+1448,2011-09-15 04:40,2011-09-15 04:50,Create Purchase Order
+1448,2011-09-17 23:48,2011-09-18 00:09,Confirm Purchase Order
+1448,2011-10-01 17:08,2011-10-01 20:11,Deliver Goods Services
+1448,2011-10-02 03:43,2011-10-02 03:44,Release Purchase Order
+1448,2011-10-02 09:56,2011-10-02 09:57,Approve Purchase Order for payment
+1448,2011-10-13 22:44,2011-10-13 22:44,Send Invoice
+1448,2011-10-14 12:56,2011-10-14 13:03,Release Supplier's Invoice
+1448,2011-10-14 13:56,2011-10-14 14:24,Settle Dispute With Supplier
+1448,2011-10-14 14:24,2011-10-14 14:24,Authorize Supplier's Invoice payment
+1448,2011-10-14 15:16,2011-10-14 15:31,Pay Invoice
+1722,2011-09-06 18:37,2011-09-06 19:22,Create Purchase Requisition
+1722,2011-09-06 21:44,2011-09-06 21:55,Create Request for Quotation
+1722,2011-09-11 14:55,2011-09-11 15:06,Analyze Request for Quotation
+1722,2011-09-11 15:47,2011-09-11 15:55,Amend Request for Quotation
+1722,2011-09-11 20:37,2011-09-11 21:07,Analyze Request for Quotation
+1722,2011-09-11 21:56,2011-09-11 22:09,Amend Request for Quotation
+1722,2011-09-15 05:27,2011-09-15 05:55,Analyze Request for Quotation
