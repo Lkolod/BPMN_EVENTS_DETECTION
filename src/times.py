@@ -3,7 +3,11 @@ from typing import List, Dict
 from collections import defaultdict
 from collections import Counter
 
-
+# Funkcja zbiera czasy wystąpień dla każdej wiadomości.
+# Parametry:
+# - logs: Lista logów w formie stringów.
+# Zwraca:
+# - Słownik z wiadomościami jako kluczami i listami znaczników czasu jako wartościami.
 def get_message_times(logs: List[str]):
     message_times = {}
 
@@ -19,6 +23,13 @@ def get_message_times(logs: List[str]):
 
     return message_times
 
+# Funkcja zaokrągla czas do najbliższego zakotwiczenia czasowego z określoną elastycznością.
+# Parametry:
+# - dt: Obiekt datetime do zaokrąglenia.
+# - anchor_interval: Interwał pomiędzy zakotwiczeniami (timedelta).
+# - flexibility: Elastyczność wokół zakotwiczenia (timedelta).
+# Zwraca:
+# - Zaokrąglony obiekt datetime.
 def round_time_to_nearest_anchor(dt: datetime, anchor_interval: timedelta, flexibility: timedelta) -> datetime:
     """
     Rounds a datetime object to the nearest time anchor with a specified level of flexibility.
@@ -45,6 +56,12 @@ def round_time_to_nearest_anchor(dt: datetime, anchor_interval: timedelta, flexi
 
     return closest_anchor
 
+# Funkcja analizuje cykliczne zachowania na podstawie czasów wystąpień wiadomości.
+# Parametry:
+# - message_times: Słownik z wiadomościami jako kluczami i listami znaczników czasu jako wartościami.
+# - flexibility_minutes: Elastyczność w minutach przy zaokrąglaniu czasu.
+# Zwraca:
+# - Słownik z cyklicznymi zachowaniami dla każdej wiadomości.
 def analyze_cyclic_behaviors(message_times: Dict[str, List[datetime]], flexibility_minutes: int) -> Dict[str, Counter]:
 
     results = defaultdict(lambda: defaultdict(Counter))
@@ -60,7 +77,12 @@ def analyze_cyclic_behaviors(message_times: Dict[str, List[datetime]], flexibili
 
     return results
 
-
+# Funkcja wykrywa dzienne wzorce występowania wiadomości na podstawie godzin ich występowania.
+# Parametry:
+# - message_times: Słownik z wiadomościami jako kluczami i listami znaczników czasu jako wartościami.
+# - min_daily_percent: Minimalny procent wystąpień w ciągu dnia, aby uznać wzorzec za znaczący.
+# Zwraca:
+# - Słownik z dziennymi wzorcami dla każdej wiadomości.
 def detect_daily_patterns(results: Dict[str, Dict[int, Counter]], min_daily_percent: float) -> Dict[str, List[str]]:
 
     daily_pat = defaultdict(list)
@@ -103,6 +125,13 @@ def check_cyclicality(message_times: Dict[str, List[datetime]], common_intervals
 
     return cyclic_results
 
+# Funkcja sprawdza cykliczność wystąpień zdarzeń na podstawie najczęstszych interwałów.
+# Parametry:
+# - message_times: Słownik z czasami wystąpień zdarzeń.
+# - common_intervals: Najczęstsze interwały dla każdej wiadomości.
+# - delta: Dopuszczalne odchylenie dla każdego interwału.
+# Zwraca:
+# - Słownik z informacją, czy każde zdarzenie jest cykliczne.
 def detect_timer(message_times: Dict[str, Dict[int, int]]):
     for message, hour_occurances in message_times.items():
         occ_values = list(hour_occurances.values())
@@ -113,7 +142,11 @@ def detect_timer(message_times: Dict[str, Dict[int, int]]):
         else:
             print('Timer not possible')
 
-
+# Funkcja wyświetla wykryte dzienne wzorce występowania wiadomości.
+# Parametry:
+# - daily_patterns: Słownik z dziennymi wzorcami występowania wiadomości.
+# Zwraca:
+# - Nic (drukuje dzienne wzorce występowania wiadomości).
 def show_detected_daily_patterns(daily_patterns: Dict[str, List[str]]):
     for event, event_patterns in daily_patterns.items():
         print(f"Event: {event}")
